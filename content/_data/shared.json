@@ -1,0 +1,12 @@
+{
+	"site-title": "Hackerspace Singapore",
+	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a>",
+	"navbar": [
+		{ "label": "Home", "href": "/" },
+		{ "label": "Calendar", "href": "/calendar" },
+		{ "label": "Location", "href": "/location" },
+		{ "label": "Membership", "href": "/membership" },
+		{ "label": "Donations", "href": "/donations" },
+	    { "label": "About", "href": "/about" }
+	]
+}
