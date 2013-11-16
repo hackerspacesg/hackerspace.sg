@@ -10,7 +10,18 @@
 
 <h2>Events</h2>
 
-{{{events}}}
+{{#events}}
+
+{{#feed.entry}}
+<p>Title: {{title.$t}}</p>
+{{#gd$when}}
+<p>Time: {{startTime}}</p>
+{{/gd$when}}
+{{/feed.entry}}
+
+{{/events}}
+
+
 
 {{{intro}}}
 
