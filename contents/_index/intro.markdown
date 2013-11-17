@@ -1,3 +1,3 @@
-# Who we are
+# What is Hackerspace Singapore?
 
-A place to hack
+A place to hack and socialise in Singapore.
