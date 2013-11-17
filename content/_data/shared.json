@@ -4,9 +4,9 @@
 	"navbar": [
 		{ "label": "Home", "href": "/" },
 		{ "label": "Calendar", "href": "/calendar" },
+		{ "label": "Connect", "href": "/connect" },
 		{ "label": "Location", "href": "/location" },
 		{ "label": "Membership", "href": "/membership" },
-		{ "label": "Donations", "href": "/donations" },
 	    { "label": "About", "href": "/about" }
 	]
 }
