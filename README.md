@@ -1,3 +1,16 @@
+# Get started locally
+
+Install nodejs
+
+	sudo npm install -g punch
+	punch s
+
+# Calendar API
+
+<https://www.google.com/calendar/feeds/mengwong%40hackerspace.sg/public/full?alt=json>
+
+# URL redirect notes from old Wordpress site
+
 http://hackerspace.sg/calendar/hackerspacesg-events/  -> http://hackerspace.sg/calendar/
 http://hackerspace.sg/calendar/geektechdevdesign-events/ -> DEPRECATED
 http://hackerspace.sg/calendar/rojak-calendar/ -> http://hackerspace.sg/rojak-calendar/
