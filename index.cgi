@@ -8,8 +8,8 @@ Content-Type: text/plain
 END
 
 umask 002
-git pull
-git checkout -f
+git fetch origin
+git reset --hard origin/master
 punch g
 
 echo $POST | mail -s "HSG update" hendry
