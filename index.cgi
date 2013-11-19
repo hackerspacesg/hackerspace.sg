@@ -6,6 +6,7 @@ Content-Type: text/plain
 
 END
 
+umask 002
 git pull
 punch g
 
