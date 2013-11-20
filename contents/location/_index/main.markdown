@@ -9,3 +9,25 @@
 Please proceed upto the 3rd floor.
 
 <a href="http://www.flickr.com/photos/hendry/10849464725" title="Entrance to HSG@KGB by Kai Hendry, on Flickr"><img src="//farm3.staticflickr.com/2852/10849464725_833858d6ba.jpg" width="500" height="375" alt="Entrance to HSG@KGB"></a>
+
+# Nearby amenities
+
+## Food
+
+* Fair price
+* Lavendar food court
+* [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq)
+
+## Printing
+
+PZO Printing, Blk 803 King George's Avenue. 20c per A4 print.
+
+## Sports
+
+### Running track
+
+Just south of the space there is lovely broadwalk to Marina Bay Sands Helix bridge. Approx 7km there and back!
+
+### Table tennis
+
+Around the corner, 10SGD for 1 hour
