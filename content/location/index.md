@@ -31,3 +31,7 @@ Just south of the space there is lovely broadwalk to Marina Bay Sands Helix brid
 ### Table tennis
 
 Around the corner, 10SGD for 1 hour
+
+### Swimming
+
+Nearby [Jalan Besar Stadium has a swimming pool](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) with the entrance directly opposite us.
