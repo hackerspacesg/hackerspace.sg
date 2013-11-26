@@ -1,4 +1,6 @@
 #!/bin/sh
+export NODE_PATH=/usr/lib/node_modules/ # for ./pretty-print.js
+
 POST=$(</dev/stdin)
 exec 2>&1
 cat <<END
