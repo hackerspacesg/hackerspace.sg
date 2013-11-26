@@ -6,6 +6,8 @@
 
 # Mailing list
 
+<https://groups.google.com/forum/#!forum/hackerspacesg>
+
 # Twitter
 
 # Email HSG
