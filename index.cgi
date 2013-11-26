@@ -12,4 +12,4 @@ git fetch origin
 git reset --hard origin/master
 punch g
 
-echo $POST | mail -s "HSG update" hendry
+echo $POST | sed -n '/^payload=/s///p' | ./pretty-print.js | mail -s "HSG update" hendry
