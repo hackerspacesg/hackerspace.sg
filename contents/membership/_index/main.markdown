@@ -20,7 +20,7 @@ If you’re a student or you’re broke, all the benefits of regular membership 
 
 <p>If you can commit to 6 months of one of the above membership levels, and can pay for the first three months right now, pick up a membership from HackerspaceSG. Hang out at HackerspaceSG for a week, just so that we can know you better, and so that you are sure that your really want to be part of the community.</p>
 
-<p>Complete the <a href="MembershipAgreement.pdf" target="_blank">form</a> and pass it to any member, who will ensure that the form is passed on to the Membership <a href="http://en.wikipedia.org/wiki/Bastard_Operator_From_Hell">BOFH</a>.</p>
+<p>Complete the <a href="/membership/MembershipAgreement.pdf" target="_blank">form</a> and pass it to any member, who will ensure that the form is passed on to the Membership <a href="http://en.wikipedia.org/wiki/Bastard_Operator_From_Hell">BOFH</a>.</p>
 
 <p>Then, transfer funds, by doing a direct bank transfer to the Hackerspace.sg Standard Chartered bank account:<br>
 Bank code: 7144<br>
