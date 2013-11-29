@@ -3,11 +3,12 @@
 
 ## Resident 512SGD monthly
 
-A dedicated desk 7 days a week for co-working. You can keep your stuff at the desk.
+A reserved desk for co-working. You can keep your stuff at the desk.
+We'll label a desk with your name, in honour of your contribution.
 
 ## Hotdesk 256SGD monthly
 
-A non-dedicated desk should be available whenever you drop in (oversubscription may occur at peak hours, we aim for 90% availability). You cannot keep your crap at the desk.
+Priority at desks whenever you drop by the space (oversubscription may occur at peak hours, we aim for 90% availability). You cannot keep your crap at the desk.
 
 ## Regular Member 128SGD monthly
 
@@ -16,7 +17,7 @@ Use the workbench. Keep your toys and tools onsite.
 
 ## Irregular Member 64SGD monthly
 
-If you’re a student or you’re a starving hacker, all the benefits of regular membership at a reduced rate. Also, if you really want to support the space but don't come by reguarly at all. 
+If you’re a student or you’re a starving hacker, all the benefits of regular membership at a reduced rate. Also if you really want to support the space but don't come by regularly at all. 
 
 
 # I’m in, how do I sign up?
@@ -42,8 +43,8 @@ Standard Chartered Account: 5701304090</p>
 <tr>
 <td>
 <select name="os0">
+<option value="Irregular">Youth/Starving hacker : $67.12SGD – monthly</option>
 <option value="Regular">Regular : $133.72SGD – monthly</option>
-<option value="Youth/Starving hacker">Youth/Starving hacker : $67.12SGD – monthly</option>
 <option value="Hotdesker">Hotdesker : $266.91SGD – monthly</option>
 <option value="Resident">Resident : $533.30SGD – monthly</option>
 </select>
