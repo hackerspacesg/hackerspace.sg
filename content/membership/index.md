@@ -14,9 +14,9 @@ A non-dedicated desk should be available whenever you drop in (oversubscription 
 Hang out on the sofas. Keep your crap in a locker (rental rates applicable).
 Use the workbench. Keep your toys and tools onsite.
 
-## Youth Member 64SGD monthly
+## Irregular Member 64SGD monthly
 
-If you’re a student or you’re broke, all the benefits of regular membership at a reduced rate.
+If you’re a student or you’re a starving hacker, all the benefits of regular membership at a reduced rate. Also, if you really want to support the space but don't come by reguarly at all. 
 
 
 # I’m in, how do I sign up?
