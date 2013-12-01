@@ -14,8 +14,8 @@ Please proceed upto the 3rd floor.
 
 ## Food
 
-* Fair price
-* Lavendar food court
+* Fair price & there is a non-Halal food court behind Fair Price
+* Lavender Food Square
 * [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq)
 
 ## Printing
