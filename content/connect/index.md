@@ -1,5 +1,7 @@
 # IRC
 
+<irc://irc.freenode.net/hackerspacesg>
+
 # Facebook
 
 <https://www.facebook.com/hackerspacesg>
@@ -10,4 +12,8 @@
 
 # Twitter
 
+<https://twitter.com/hackerspacesg>
+
 # Email HSG
+
+<contact@hackerspace.sg>
