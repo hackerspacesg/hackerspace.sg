@@ -4,6 +4,8 @@
 
 <p><img src="http://maps.googleapis.com/maps/api/staticmap?zoom=16&amp;size=1200x600&amp;maptype=roadmap&amp;markers=%7C1.3104381856185,103.86247224201&amp;sensor=true" /></p>
 
+[Google Street view](https://www.google.com/maps/views/view/111275777733753676700/photo/aap1HsPKpIQAAAAGOpJOlg?gl=sg&heading=310&pitch=59&fovy=75)
+
 # Entrance stairwell
 
 Please proceed upto the 3rd floor.
@@ -14,7 +16,7 @@ Please proceed upto the 3rd floor.
 
 ## Food
 
-* Fair price & there is a non-Halal food court behind Fair Price
+* Fair price & there is a good new food court behind Fair Price, Tai Sun
 * Lavender Food Square
 * [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq)
 
