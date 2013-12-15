@@ -7,7 +7,7 @@ do
 	let "count-=1"
 	echo "<li>"
 	echo $tweet | sed -e 's_\(http\|https\|ftp\)://[^ \t]\+_<a href="&">&</a>_'
-	echo "&nbsp;&mdash;"
+	echo "&nbsp;&mdash;<br>"
 	echo '<a href="http://twitter.com/hackerspacesg/status/'$id'">'$date'</a>'
 	echo "</li>"
 done < hackerspacesg.txt
