@@ -1,63 +1,18 @@
 {{> header }}
 
-<div class="jumbotron">
+<img class=banner src="/imgs/banner.png">
 
-  <div class="highlight">
-    <h1>Welcome to Hackerspace SG!</h1>
-    <p class="lead"><strong>Singapore's first kiasu-free zone :)</strong></p>
-    <img class=banner src="/imgs/banner.png">
-  </div>
+<p><a href=/location/>Location</a>: 344B King George’s Avenue, Singapore, 208576</p>
 
-</div>
+<h2>Webcam</h2>
 
-<div class="container">
+<p class="livecam"></p>
 
-  <div class="row">
-    <div class="col-lg-8">
-      <h2>Upcoming Events!</h2>
-      <table class="table table-striped table-bordered table-hover">
-        <thead>
-          <tr>
-            <th>Event</th>
-            <th>Date</th>
-          </tr>
-        </thead>
-        <tbody>
-          {{#events}}
-          {{#feed.entry}}
-          <tr>
-            <td>{{title.$t}}</td>
-            <td>{{#gd$when}}<time>{{startTime}}</time>{{/gd$when}}</td>
-          </tr>
-          {{/feed.entry}}
-          {{/events}}
-        </tbody>
-      </table>
-    </div>
-    <div class="col-lg-4">
-      <h2>Drop by!</h2>
-      <div class="bsa well">
+<h2>Events</h2>
 
-        <p><a href="/location">Location</a>: 344B King George’s Avenue, Singapore, 208576</p>
-        <p>IRC: #hackerspacesg on freenode.net</p>
-        <p>Facebook:</p>
-        <p>Twitter: @hackerspacesg</p>
+{{#events}}
+<p><strong>{{Name}}</strong>
+<time>{{When}}</time></p>
+{{/events}}
 
-        <h2>Live Webcam</h2>
-        <p class="livecam"></p>
-      </div>
-
-
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-
-  {{> footer }}
-</div>
+{{> footer }}
