@@ -14,6 +14,4 @@ money to make this happen.
 
 ## Acknowledgements
 
-<!-- Hackerspace members, add your name here. Unsorted. -->
-
-Luther Goh Lu Feng, Justin Lee, Meng Weng Wong, Michael Cheng
+Luther Goh Lu Feng, Justin Lee, Meng Weng Wong, Michael Cheng, Lakshan Perera, Sayanee Basu

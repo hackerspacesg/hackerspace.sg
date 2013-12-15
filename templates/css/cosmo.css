@@ -7679,6 +7679,7 @@ img {
   text-align: center;
   background-position: bottom;
   background-color: transparent;
+  width: 100%;
   background-image: url(http://cam.hackerspace.sg/lastfetched.webp);
 }
 

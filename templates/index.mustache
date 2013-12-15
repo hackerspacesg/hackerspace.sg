@@ -1,19 +1,35 @@
-{{> header }}
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+	<meta charset="utf-8">
+	<title>{{{site-title}}}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/cosmo.css">
+</head>
+
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="navbar-collapse collapse" id="navbar-main">
+      <ul class="nav navbar-nav">
+        {{#navbar}}
+        <li><a href="{{{href}}}">{{label}}</a>
+        {{/navbar}}
+      </ul>
+    </div>
+</div>
+</div>
+
 
 <div class="jumbotron">
 
   <div class="highlight">
-    <h1>Welcome to Hackerspace SG!</h1>
-    <p class="lead"><strong>Singapore's first kiasu-free zone :)</strong></p>
-    <img class=banner src="/imgs/banner.png">
+    <img alt="Welcome to Hackerspace Singapore" class=banner src="/imgs/banner.png">
   </div>
 
 </div>
 
 <div class="container">
-
-  <div class="row">
-    <div class="col-lg-8">
 
 <h2>Upcoming Events</h2>
 
@@ -28,31 +44,4 @@
 {{{tweets}}}
 </ul>
 
-    </div>
-    <div class="col-lg-4">
-      <h2>Drop by!</h2>
-      <div class="bsa well">
-
-        <p><a href="/location">Location</a>: 344B King George’s Avenue, Singapore, 208576</p>
-        <p>IRC: #hackerspacesg on freenode.net</p>
-        <p>Facebook:</p>
-        <p>Twitter: @hackerspacesg</p>
-
-        <h2>Live Webcam</h2>
-        <p class="livecam"></p>
-      </div>
-
-
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-
-  {{> footer }}
-</div>
+{{> footer }}
