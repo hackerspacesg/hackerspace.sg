@@ -15,7 +15,7 @@ Rationale: Lived in Singapore lately? Prices have gone UP and a 20% hike since
 * Regular Member 150 SGD
 * Irregular Member 75SGD
 
-Rationale: IIUC no member is on Resident of Hotdesk tier
+Rationale: IIUC no member is on the "Resident" or "Hotdesk" membership tier
 
 For higher bracket revenue, I'd like to propose corporate sponsorship: http://hsgcorpsponsor.dabase.com/
 
