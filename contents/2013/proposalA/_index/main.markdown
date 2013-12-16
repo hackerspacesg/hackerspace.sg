@@ -5,9 +5,10 @@
 * Regular Member 128SGD monthly &rarr; 150 SGD
 * Irregular Member 64SGD monthly &rarr; 75SGD
 
-Rationale: Lived in Singapore lately? Prices are going up and 20% in since 2008 isn't bad going.
+Rationale: Lived in Singapore lately? Prices have gone UP and a 20% hike since
+2008 isn't bad going.
 
-# Removal of categories that IIUC no one is on
+# Removal of categories that are not used
 
 * <strike>Resident 615SGD</strike>
 * <strike>Hotdesk 300SGD</strike>
@@ -20,7 +21,7 @@ For higher bracket revenue, I'd like to propose corporate sponsorship: http://hs
 
 # Renaming of categories
 
-* Regular Member 150 SGD &rarr; Co-working member
-* Irregular Member 75 SGD &rarr; Member
+* Regular Member 150 SGD &rarr; Co-working member 150 SGD monthly
+* Irregular Member 75 SGD &rarr; Member 75 SGD monthly
 
-Rationale: "Irregular Member" sounds bad when really this the bulk of our audience.
+Rationale: "Irregular Member" sounds bad when really this should be the bulk of our audience.
