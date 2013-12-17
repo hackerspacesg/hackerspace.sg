@@ -6,16 +6,6 @@ There are hundreds of such <a href="http://www.hackerspaces.org/">hackerspaces</
 
 Built by and for geeks, nerds, inventors, engineers, and entrepreneurs, Hackerspace.SG is the Singapore hacker community's home, living room and laboratory.  Come hang out with the community in the evenings.  Co-work with us during the day.  We also host regular events, meetups, presentations, workshops, and movie nights for the local community.
 
-Some of the meetups and user groups we have hosted include:
-* Creative Crew Singapore
-* Learning Python Study Group
-* Mozillians in Singapore
-* Openstack SG
-* RaspberryPi Jam
-* Singapore Futurists
-* Singapore Python User Group
-* Ubuntu SG
-
 Members of the local hacker community have selflessly volunteered their time, energy, and money to make this happen.
 
 ## Acknowledgements
