@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 /* Open stdin for pipes*/
-var stdin = process.openStdin();
 var data = "";
+var stdin = process.openStdin();
 
 stdin.on('data', function(chunk) {
   data += chunk;
