@@ -11,7 +11,6 @@ stdin.on('data', function(chunk) {
 stdin.on('end', main);
 
 function main () {
-	console.log("got all data");
 	var hsgEvents = JSON.parse(data).feed.entry;
 	var futureEvents = [];
 	hsgEvents.map(function(cEvent){
