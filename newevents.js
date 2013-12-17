@@ -1,6 +1,18 @@
 #!/usr/bin/env node
 
+
+/*Requires
+Commander - input parsing etc.
+Request - HTTP request.
+
+Can be installed using npm
+
+npm install commander
+npm install request
+
+*/
 var program = require('commander');
+var request = require('request');
 
 /* Commander  Stuff*/
 program
@@ -14,22 +26,19 @@ if (!program.input){
 	return;
 }
 
-var request = require('request');
-
+// Get JSON form GCal
 request(program.input, function (error, response, body) {
 	if (!error && response.statusCode == 200) {
 		var hsgEvents = JSON.parse(body).feed.entry;
-		var outEvents = [];
-		hsgEvents.map(function(currentEvent, index){
-			//console.log("Parsing " + index + " which is " + currentEvent.title.$t);
-			if (currentEvent.gd$when){
-				var startTimeString = currentEvent.gd$when[0].startTime;
-				//console.log(startTimeString);
-				if (new Date(startTimeString) > Date.now()){
-					outEvents.push({"Name" : currentEvent.title.$t, "When" :  startTimeString});
+		var futureEvents = [];
+		hsgEvents.map(function(cEvent){
+			if (cEvent.gd$when){
+				var timeStr = cEvent.gd$when[0].startTime;
+				if (Date.parse(timeStr) > Date.now()){
+					futureEvents.push({"Name" : cEvent.title.$t, "When" :  timeStr});
 				}
 			}
 		});
 	}
-	console.log(outEvents);
+	console.log(futureEvents);
 });
