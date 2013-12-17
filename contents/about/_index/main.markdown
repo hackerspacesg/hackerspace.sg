@@ -1,17 +1,25 @@
 ## About Hackerspace.SG
 
-There are dozens of <a href="http://www.hackerspaces.org/">hackerspaces</a> around the world.
+Hackerspace.SG is Singapore's very own Hackerspace. 
 
-Hackerspace.sg is Singapore's Hackerspace.
+There are hundreds of such <a href="http://www.hackerspaces.org/">hackerspaces</a> around the world, where people with common interests in computers, technology, science, digital and electronic art, come together to meet, socialise and collaborate.
 
-Built by and for geeks, nerds, inventors, engineers, and entrepreneurs,
-hackerspace.sg will be the hacker community's living room and laboratory.  You
-can hang out in the evenings.  You can work during the day.  And we’ll host
-meetups and movie nights for the local scene.
+Built by and for geeks, nerds, inventors, engineers, and entrepreneurs, Hackerspace.SG is the Singapore hacker community's home, living room and laboratory.  Come hang out with the community in the evenings.  Co-work with us during the day.  We also host regular events, meetups, presentations, workshops, and movie nights for the local community.
 
-The local hacker community have selflessly volunteered their time, energy, and
-money to make this happen.
+Some of the meetups and user groups we have hosted include:
+* Creative Crew Singapore
+* Learning Python Study Group
+* Mozillians in Singapore
+* Openstack SG
+* RaspberryPi Jam
+* Singapore Futurists
+* Singapore Python User Group
+* Ubuntu SG
+
+Members of the local hacker community have selflessly volunteered their time, energy, and money to make this happen.
 
 ## Acknowledgements
+
+The members of Hackerspace.SG acknowledge and appreciate the efforts of the community in helping put the space together. The following list is not exhaustive.
 
 Luther Goh Lu Feng, Justin Lee, Meng Weng Wong, Michael Cheng, Lakshan Perera, Sayanee Basu
