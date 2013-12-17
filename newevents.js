@@ -10,6 +10,7 @@ stdin.on('data', function(chunk) {
 
 stdin.on('end', main);
 
+/*Main event filtering logic*/
 function main () {
 	var hsgEvents = JSON.parse(data).feed.entry;
 	var futureEvents = [];
