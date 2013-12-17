@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 
-var request = require('request');
-
-/* Commander  Stuff*/
+/* Open stdin for pipes*/
 var stdin = process.openStdin();
 var data = "";
 
@@ -10,7 +8,9 @@ stdin.on('data', function(chunk) {
   data += chunk;
 });
 
-stdin.on('end', function() {
+stdin.on('end', main);
+
+function main () {
 	console.log("got all data");
 	var hsgEvents = JSON.parse(data).feed.entry;
 	var futureEvents = [];
@@ -23,4 +23,4 @@ stdin.on('end', function() {
 		}
 	});
 	console.log(futureEvents);
-});
+}
