@@ -16,9 +16,9 @@ function main () {
 	var futureEvents = [];
 	hsgEvents.forEach(function(thisEvent){
 		if (thisEvent.gd$when){
-			var timeString = thisEvent.gd$when[0].startTime;
-			if (Date.parse(timeString) > Date.now()){
-				futureEvents.push({"Name" : thisEvent.title.$t, "When" :  timeString});
+			var eventTime = Date.parse(thisEvent.gd$when[0].startTime);
+			if (eventTime && !isNaN(eventTime) && (eventTime > Date.now())){
+				futureEvents.push({"Name" : thisEvent.title.$t, "When" :  eventTime});
 			}
 		}
 	});
