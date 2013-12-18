@@ -14,11 +14,11 @@ stdin.on('end', main);
 function main () {
 	var hsgEvents = JSON.parse(data).feed.entry;
 	var futureEvents = [];
-	hsgEvents.map(function(cEvent){
-		if (cEvent.gd$when){
-			var timeStr = cEvent.gd$when[0].startTime;
-			if (Date.parse(timeStr) > Date.now()){
-				futureEvents.push({"Name" : cEvent.title.$t, "When" :  timeStr});
+	hsgEvents.forEach(function(thisEvent){
+		if (thisEvent.gd$when){
+			var timeString = thisEvent.gd$when[0].startTime;
+			if (Date.parse(timeString) > Date.now()){
+				futureEvents.push({"Name" : thisEvent.title.$t, "When" :  timeString});
 			}
 		}
 	});
