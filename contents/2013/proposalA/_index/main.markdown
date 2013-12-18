@@ -21,7 +21,8 @@ For higher bracket revenue, I'd like to propose corporate sponsorship: http://hs
 
 # Renaming of categories
 
-* Regular Member 150 SGD &rarr; Co-working member 150 SGD monthly
-* Irregular Member 75 SGD &rarr; Member 75 SGD monthly
+* <strike>Regular Member 150 SGD</strike> &rarr; Co-working member 150 SGD monthly (caveat of >60 hours per month i.e. around 1.5 days per week)
+* <strike>Irregular Member 75 SGD</strike> &rarr; Member 75 SGD monthly
 
-Rationale: "Irregular Member" sounds bad when really this should be the bulk of our audience.
+Rationale: "Irregular Member" sounds bad when really this should be the bulk of
+our audience. Any heavy regular users should be paying Co-working rates.
