@@ -1,1 +1,8 @@
-Redirect /test/ http://hsg.dabase.com/
+Redirect /calendar/hackerspacesg-events /calendar
+Redirect /calendar/geektechdevdesign-events gone
+Redirect /calendar/rojak-calendar /calendar
+Redirect /membership/ /membership
+Redirect /intertubes/ gone
+Redirect /donations/ /membership
+Redirect /about-us/ /about
+Redirect /social/location/ /location
