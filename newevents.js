@@ -20,7 +20,7 @@ function main() {
 			if (eventTime && !isNaN(eventTime) && (eventTime > Date.now())){
 				futureEvents.push({
 					"Name": thisEvent.title.$t,
-					"When": timeString
+					"When": eventTime
 				});
 			}
 		}
