@@ -5,5 +5,11 @@
 
 	"server": {
 		"port": 9009
+	},
+
+	"plugins": {
+		"generator_hooks": {
+			"htaccess": "./htaccess.js"
+		}
 	}
 }
