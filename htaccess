@@ -1,8 +1,8 @@
 Redirect /calendar/hackerspacesg-events http://hackerspace.sg/calendar
-Redirect /calendar/geektechdevdesign-events gone
+Redirect gone /calendar/geektechdevdesign-events
 Redirect /calendar/rojak-calendar http://hackerspace.sg/calendar
 Redirect /membership/ http://hackerspace.sg/membership
-Redirect /intertubes/ gone
+Redirect gone /intertubes/
 Redirect /donations/ http://hackerspace.sg/membership
 Redirect /about-us/ http://hackerspace.sg/about
 Redirect /social/location/ http://hackerspace.sg/location
