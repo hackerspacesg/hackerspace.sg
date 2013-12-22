@@ -18,7 +18,8 @@
 		"url": "https://github.com/hackerspacesg/hackerspace.sg"
 	},
 	"dependencies" : {
-		"punch": "~0.5.40"
+		"punch": "~0.5.40",
+		"ical": "~0.2.0"
 	},
 	"license": "MIT",
 	"scripts": {
