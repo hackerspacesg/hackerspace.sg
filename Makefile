@@ -1,4 +1,5 @@
 all:
+	npm install
 	node newevents.js
 	punch g
 
