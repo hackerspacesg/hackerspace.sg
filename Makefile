@@ -8,7 +8,5 @@ refresh:
 hackerspacesg.txt: refresh
 	wget -q -N http://greptweet.com/u/hackerspacesg/hackerspacesg.txt -O hackerspacesg.txt
 
-contents/_index/tweets.mdwn:
+contents/_index/tweets.mdwn: hackerspacesg.txt
 	./tweets.sh > contents/_index/tweets.markdown
-
-

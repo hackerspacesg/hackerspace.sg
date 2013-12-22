@@ -1,10 +1,10 @@
 # Get started locally
 
-Install nodejs
+Install [nodejs](http://nodejs.org/)
 
 	sudo npm install -g punch
 	punch s
 
 # Calendar API
 
-<https://www.google.com/calendar/feeds/mengwong%40hackerspace.sg/public/full?alt=json>
+<https://www.google.com/calendar/ical/mengwong%40hackerspace.sg/public/basic.ics>
