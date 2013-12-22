@@ -1,5 +1,5 @@
 all:
-	curl -s "https://www.google.com/calendar/feeds/mengwong%40hackerspace.sg/public/full?alt=json" | node newevents.js > contents/_index/events.json
+	node newevents.js
 	punch g
 
 refresh:

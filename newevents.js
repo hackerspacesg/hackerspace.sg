@@ -1,29 +1,29 @@
-#!/usr/bin/node
+var ical = require('ical');
 
-/* Open stdin for pipes*/
-var data = "";
-var stdin = process.openStdin();
-
-stdin.on('data', function(chunk) {
-	data += chunk;
-});
-
-stdin.on('end', main);
-
-/*Main event filtering logic*/
-function main() {
-	var hsgEvents = JSON.parse(data).feed.entry;
+ical.fromURL('https://www.google.com/calendar/ical/mengwong%40hackerspace.sg/public/basic.ics', {},
+function(err, data) {
 	var futureEvents = [];
-	hsgEvents.forEach(function(thisEvent) {
-		if (thisEvent.gd$when) {
-			var eventTime = Date.parse(thisEvent.gd$when[0].startTime);
-			if (eventTime && !isNaN(eventTime) && (eventTime > Date.now())){
+	for (var k in data) {
+		if (data.hasOwnProperty(k)) {
+			var ev = data[k]
+			if (ev.start && ! isNaN(ev.start) && (ev.start > Date.now())) {
 				futureEvents.push({
-					"Name": thisEvent.title.$t,
-					"When": eventTime
+					"Name": ev.summary,
+					"When": ev.start.getTime()
 				});
 			}
 		}
+	}
+	if (!futureEvents) {
+		return;
+	}
+	var j = JSON.stringify(futureEvents, undefined, 2);
+
+	var fs = require('fs');
+	fs.writeFile("contents/_index/events.json", j, function(err) {
+		if (err) {
+			console.log(err);
+		}
 	});
-	console.log(JSON.stringify(futureEvents, undefined, 2));
-}
+});
+
