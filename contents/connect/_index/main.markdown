@@ -10,6 +10,10 @@ or
 
 <https://www.facebook.com/hackerspacesg>
 
+# Google+
+
+<https://plus.google.com/u/0/b/102228650709887614357>
+
 # Flickr
 
 <a href="http://www.flickr.com/search/?q=hackerspacesg+OR+hackerspace.sg&m=tags&ss=0&ct=0&mt=all&w=all&adv=1">View Archives</a>
