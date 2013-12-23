@@ -35,13 +35,13 @@ community.
 Complete the <a href="/membership/MembershipAgreement.pdf"
 target="_blank">form</a> and pass it to any memberYou need two members to
 support your application.  Then, transfer funds, by doing a direct bank
-transfer to the Hackerspace.sg Standard Chartered bank account:
+transfer to the Hackerspace.SG Standard Chartered bank account:
 
 	Bank code: 7144
 	Branch code: 057
 	Standard Chartered Account: 5701304090
 
-The account name should be Hackerspacesg Pte. Ltd. and the bank code is
+The account name should be Hackerspace.SG Pte. Ltd. and the bank code is
 scblsgsgxxx (which is the swift code). Once you have the right bank code the
 branch code of `057` should display on your clumsy Singapore Internet banking
 interface.
