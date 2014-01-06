@@ -49,6 +49,10 @@ PZO Printing, Blk 803 King George's Avenue. SGD 0.20 per A4 print.
 
 We do have a printer inside HSG but it kind of sucks.
 
+## Postal services
+
+The closest postbox is at Jalan Besar Community Centre (along Jellicoe Road). There is another one at Lavender MRT (outside MRT station entrance A, near the taxi stand). Postage can be bought at the SAM machine at Lavender MRT (concourse level, near the DBS ATM). The closest Post Office is at Crawford, Beach Road, near the Army Market and Golden Mile Food Centre.
+
 ## Sports
 
 ### Running track
