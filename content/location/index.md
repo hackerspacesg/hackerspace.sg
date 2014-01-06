@@ -49,11 +49,22 @@ PZO Printing, Blk 803 King George's Avenue. SGD 0.20 per A4 print.
 
 We do have a printer inside HSG but it kind of sucks.
 
+## Postal services
+
+The closest postbox is at Jalan Besar Community Centre, along Jellicoe Road.
+There is another one at Lavender MRT, outside MRT station entrance A, near the
+taxi stand.
+
+Postage can be bought at the SAM machine at Lavender MRT on the concourse
+level, near the DBS ATM. The closest Post Office is at Crawford, Beach Road,
+near the Army Market and Golden Mile Food Centre.
+
 ## Sports
 
 ### Running track
 
-Just south of the space there is a lovely broadwalk to the Marina Bay Sands Helix bridge. Approx 7km there and back!
+Just south of the space there is an awesome broadwalk to the Marina Bay Sands
+Helix bridge. Approx 7km there and back!
 
 ### Table tennis
 
@@ -61,4 +72,7 @@ Around the corner, SGD 10.00 for 1 hour at __Lian Hong Canvas Hardware Trading__
 
 ### Swimming
 
-Less than five minutes' walk away, [Jalan Besar Swimming Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is next to the North Entrance of the Jalan Besar Stadium. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends.
+Less than five minutes' walk away, [Jalan Besar Swimming
+Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is
+next to the North Entrance of the Jalan Besar Stadium. Admission for adults is
+SGD 1.00 on weekdays and SGD 1.30 on weekends.
