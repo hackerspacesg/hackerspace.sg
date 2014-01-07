@@ -68,11 +68,15 @@ Helix bridge. Approx 7km there and back!
 
 ### Table tennis
 
-Around the corner, SGD 10.00 for 1 hour at __Lian Hong Canvas Hardware Trading__ [44 Horne Road](https://maps.google.com.sg/maps?q=44+Horne+Road&hl=en&z=17).
+Around the corner, SGD 10.00 for 1 hour at __Lian Hong Canvas Hardware
+Trading__ [44 Horne
+Road](https://maps.google.com.sg/maps?q=44+Horne+Road&hl=en&z=17).
 
 ### Swimming
 
 Less than five minutes' walk away, [Jalan Besar Swimming
 Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is
 next to the North Entrance of the Jalan Besar Stadium. Admission for adults is
-SGD 1.00 on weekdays and SGD 1.30 on weekends.
+SGD 1.00 on weekdays and SGD 1.30 on weekends. Closed when raining, call <a
+href="tel:+6562939058">62939058</a> to ask if they are open to save yourself 10
+minutes in case it's closed as a precaution for lightning strikes.
