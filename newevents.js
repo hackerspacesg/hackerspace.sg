@@ -17,6 +17,16 @@ function(err, data) {
 	if (!futureEvents) {
 		return;
 	}
+
+	futureEvents.sort(function(a, b) {
+		var keyA = new Date(a.When),
+		keyB = new Date(b.When);
+		// Compare the 2 dates
+		if (keyA < keyB) return - 1;
+		if (keyA > keyB) return 1;
+		return 0;
+	});
+
 	var j = JSON.stringify(futureEvents, undefined, 2);
 
 	var fs = require('fs');
