@@ -1,4 +1,4 @@
-<h1>HSG is now at <a href=http://www.flickr.com/photos/hendry/10849527296><abbr title="King George's Building">KGB</abbr></a></h1>
+<h1>HackerspaceSG is at <a href=http://www.flickr.com/photos/hendry/10849527296><abbr title="King George's Building">KGB</abbr></a>.</h1>
 
 <h2><a href="https://maps.google.com.sg/?q=344B%20King%20George%20Avenue,%20Singapore,%20208576">344B King George&#8217;s Avenue, Singapore 208576</a></h2>
 
@@ -16,17 +16,31 @@ Please proceed up to the 3rd floor.
 
 ## Food
 
-* FairPrice & there is a good new food court behind FairPrice, Tai Sun
-* Lavender Food Square
-* Swee Choon Tim Sum and the satay shop next door
-* Kopitiam at Lavender MRT
-* Wendy's at Lavender MRT
-* Soon Ho Restaurant at Jalan Besar Stadium
-* [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq)
+* See also: [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq)
+
+### Hawker and street fare
+
+* [Tai Sun Eating House](https://foursquare.com/v/tai-sun-eating-house/4b9f1af9f964a520ef1337e3)
+* [Kopitiam](https://foursquare.com/v/kopitiam/4daf7feb4b22d9b3bcc392c0) at Lavender MRT
+* [Lavender Food Square](https://foursquare.com/v/lavender-food-square/4b0cda2cf964a520314223e3) (closing in the second half of 2014)
+* [Cheng Mun Chee Kee](https://foursquare.com/v/cheng-mun-chee-kee-pig-organ-soup-%E6%AD%A3%E6%96%87%E5%BF%97%E8%AE%B0/4b0fb901f964a520586423e3)
+* [Soon Ho Eating House](https://foursquare.com/v/soon-ho-eating-house/4bce8a9ac564ef3bf485eef0) near Jalan Besar Stadium
+* [Beach Road Scissor-Cut Curry Rice](https://foursquare.com/v/beach-road-scissorcut-curry-rice-%E5%89%AA%E5%88%80%E5%89%AA%E5%92%96%E5%93%A9%E9%A3%AF/4b529ebdf964a520218427e3) at Kitchener Road
+* [Swee Choon Tim Sum](https://foursquare.com/v/swee-choon-tim-sum-restaurant-%E7%91%9E%E6%98%A5%E9%BB%9E%E5%BF%83%E6%8B%89%E9%9D%A2%E5%B0%8F%E7%B1%A0%E5%8C%85/4bb610c81344b71318e99c04) and the satay shop next door
+* [Hill Street Tai Hwa Pork Noodle](https://foursquare.com/v/hill-street-tai-hwa-pork-noodle-%E5%90%8A%E6%A1%A5%E5%A4%B4%E5%A4%A7%E5%8D%8E%E7%8C%AA%E8%82%89%E7%B2%BF%E6%9D%A1-singapore/4b80b8b3f964a5205a8830e3) and [Happy Chef Western Food](https://foursquare.com/v/happy-chef-western-food/4bc00eec74a9a5937ea7cff6), on the other side of Lavender MRT
+* [Sungei Road Laksa](https://foursquare.com/v/sungei-road-laksa-%E7%BB%93%E9%9C%9C%E6%A1%A5%E5%8F%BB%E6%B2%99/4c19e647834e2d7f94102b80) near Syed Alwi Road
+
+### Fast food
+* [Wendy's](https://foursquare.com/v/wendys/4dae4a77a86e29d01a41d7ac) at Lavender MRT
+* Burger King, Long John Silver's, McDonald's, Pizza Hut, Popeyes and Subway at [City Square Mall](http://www.citysquaremall.com.sg/shops-category.php?type=23)
+
+### Desserts
+* [Antoinette](http://antoinette.com.sg/contact.html) at Penhas Road (near Lavender MRT)
+
 
 ## Coffee
 
-See also [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?msid=215891290759892097434.0004cceddc3c51a603dc0&msa=0&ll=1.310483,103.86149&spn=0.003282,0.005048). (TODO: embed the map here.)
+* See also: [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?msid=215891290759892097434.0004cceddc3c51a603dc0&msa=0&ll=1.310483,103.86149&spn=0.003282,0.005048)
 
 ### Coffee Nearby
 
@@ -34,20 +48,26 @@ See also [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?ms
 * [The Coffee Shot](https://www.facebook.com/THECOFFEESHOTTKC)
 * [Tiramisu Hero](http://thetiramisuhero.com/)
 * [The Bravery](http://thebravery.com.sg/)
-* [Windowsill In The Woods](http://cafehoppingsg.blogspot.sg/2013/04/46-windowsill-in-woods-jalan-besar.html)
+* [Windowsill Pies](http://windowsillpies.sg/)
 
 ### Coffee Farby
 
 * [The Coffee Museum](http://nanyangoldcoffee.com/mini-singapore-coffee-museum.html)
-* Loysel's Toy on the other side of Lavender MRT
-* Symmetry on Jalan Kubor
-* Maison Ikkoku on Kandahar Street
+* [Loysel's Toy](http://www.loyselstoy.com/) on the other side of Lavender MRT
+* [Symmetry](http://symmetry.com.sg/) at Jalan Kubor
+* [Maison Ikkoku](http://www.maison-ikkoku.net/) on Kandahar Street
+
+## Groceries
+
+* [NTUC FairPrice](http://www.fairprice.com.sg/webapp/wcs/stores/servlet/StoreLocatorCmd?storeId=90001&catalogId=10051&storesView=ClusterStores&Corporate=Y&clusterName=SERANGOON) at 808 French Road (towards Lavender MRT station)
+* [Prime Supermarket](https://foursquare.com/v/prime-supermarket-singapore/4ba1c408f964a52073cb37e3) (24 hours) at 803 King George's Avenue
+* [Sheng Siong](http://www.shengsiong.com.sg/pages/Store-Locator.html) (24 hours) at New World Centre, Jalan Berseh (near Syed Alwi Road)
 
 ## Printing
 
-PZO Printing, Blk 803 King George's Avenue. SGD 0.20 per A4 print.
+* [PZO Printing](https://www.facebook.com/pzoprintingSIN), Blk 803 King George's Avenue. SGD 0.20 per A4 print.
 
-We do have a printer inside HSG but it kind of sucks.
+HackerspaceSG also has a black-and-white laser printer for low-volume printing.
 
 ## Postal services
 
@@ -56,27 +76,28 @@ There is another one at Lavender MRT, outside MRT station entrance A, near the
 taxi stand.
 
 Postage can be bought at the SAM machine at Lavender MRT on the concourse
-level, near the DBS ATM. The closest Post Office is at Crawford, Beach Road,
+level, near the DBS ATM. 
+
+The closest post office is at Crawford, Beach Road,
 near the Army Market and Golden Mile Food Centre.
 
 ## Sports
 
 ### Running track
 
-Just south of the space there is an awesome broadwalk to the Marina Bay Sands
-Helix bridge. Approx 7km there and back!
+Just south of the space there is an awesome walkway to the Marina Bay Sands
+Helix bridge. Approximately 7km there and back!
 
 ### Table tennis
 
-Around the corner, SGD 10.00 for 1 hour at __Lian Hong Canvas Hardware
-Trading__ [44 Horne
+Around the corner, SGD 10.00 for 1 hour at Lian Hong Canvas Hardware
+Trading [44 Horne
 Road](https://maps.google.com.sg/maps?q=44+Horne+Road&hl=en&z=17).
 
 ### Swimming
 
-Less than five minutes' walk away, [Jalan Besar Swimming
+[Jalan Besar Swimming
 Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is
-next to the North Entrance of the Jalan Besar Stadium. Admission for adults is
-SGD 1.00 on weekdays and SGD 1.30 on weekends. Closed when raining, call <a
-href="tel:+6562939058">62939058</a> to ask if they are open to save yourself 10
-minutes in case it's closed as a precaution for lightning strikes.
+next to the North Entrance of the Jalan Besar Stadium, less than five minutes' walk away. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends. 
+
+The swimming complex is closed when it rains. Call <a href="tel:+6562939058">62939058</a> in advance to ask if they are open. This saves you 10 minutes in case it is closed as a precaution for lightning strikes.
