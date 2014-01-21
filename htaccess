@@ -6,3 +6,4 @@ Redirect gone /intertubes/
 Redirect /readme-txt/donations/ http://hackerspace.sg/membership
 Redirect /about-us/ http://hackerspace.sg/about
 Redirect /social/location/ http://hackerspace.sg/location
+Redirect /chat https://scrollback.io/hackerspacesg/
