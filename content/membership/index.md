@@ -1,22 +1,22 @@
 # Join us!
 
-## Resident 512SGD monthly
+## Resident &mdash; $512 SGD monthly
 
 A reserved desk for co-working. You can keep your stuff at the desk.  We'll
 label a desk with your name, in honour of your contribution.
 
-## Hotdesk 256SGD monthly
+## Hotdesk &mdash; $256 SGD monthly
 
 Priority at desks whenever you drop by the space (oversubscription may occur at
 peak hours, we aim for 90% availability). You cannot keep your crap at the
 desk.
 
-## Regular Member 128SGD monthly
+## Regular Member &mdash; $128 SGD monthly
 
 Hang out on the sofas. Keep your crap in a locker (rental rates applicable).
 Use the workbench. Keep your toys and tools onsite.
 
-## Irregular Member 64SGD monthly
+## Irregular Member &mdash; $64 SGD monthly
 
 If you are a student or you’re a starving hacker, all the benefits of regular
 membership at a reduced rate. Also if you really want to support the space but
