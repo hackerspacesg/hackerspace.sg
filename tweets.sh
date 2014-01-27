@@ -8,6 +8,6 @@ do
 	echo "<li>"
 	echo $tweet | sed -e 's_\(http\|https\|ftp\)://[^ \t]\+_<a href="&">&</a>_'
 	echo "&nbsp;&mdash;<br>"
-	echo '<a href="http://twitter.com/hackerspacesg/status/'$id'">'$date'</a>'
+	echo '<a href="http://twitter.com/hackerspacesg/status/'$id'"><abbr class="timeago">'$date'</abbr></a>'
 	echo "</li>"
 done < hackerspacesg.txt

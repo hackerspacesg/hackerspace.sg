@@ -5,6 +5,15 @@
 	<title>{{{site-title}}}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/cosmo.css">
+	<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="//timeago.yarp.com/jquery.timeago.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('abbr.timeago').timeago().each(function(i, el){
+				$(el).html($.timeago($(el).attr('title')));
+			});
+		})
+	</script>
 </head>
 
 <body>
@@ -32,8 +41,13 @@
 <h2>Upcoming Events</h2>
 
 {{#events}}
-<p><strong>{{Name}}</strong>
-on {{#date}}{{When}}{{/date}} at {{#time}}{{When}}{{/time}}</p>
+<p>
+	<strong>{{Name}}</strong>
+	on
+	<abbr class="timeago">
+		{{#date}}{{When}}{{/date}}
+	</abbr>
+</p>
 {{/events}}
 
 <h2>Tweets</h2>
