@@ -1,30 +1,30 @@
 <li>
-RT @geekcamp: Our friends at @hackerspacesg will be having their annual Christmas dinner this Saturday. Sign up today! <a href="https://t.co/DSJXAZu…">https://t.co/DSJXAZu…</a>
+RT @secoif: Day 25: Internet connected. Thanks for sorting it out @MyRepublic. :D
 &nbsp;&mdash;<br>
-<a href="http://twitter.com/hackerspacesg/status/413598352857522176">Thu Dec 19 09:15:06 +0000 2013</a>
+<a href="http://twitter.com/hackerspacesg/status/426961119358382080"><abbr class="timeago">Sat Jan 25 06:13:58 +0000 2014</abbr></a>
 </li>
 <li>
-RT @mengwong: Google Maps Street View has infiltrated @hackerspacesg and photographed the interior of our new location at KGB. <a href="https://t.co…">https://t.co…</a>
+RT @geekcamp: Scale without NoSQL by Justin Mann http://www.youtube.com/watch?v=iG604qwmdLk&feature=youtu.be
 &nbsp;&mdash;<br>
-<a href="http://twitter.com/hackerspacesg/status/411544407305764864">Fri Dec 13 17:13:27 +0000 2013</a>
+<a href="http://twitter.com/hackerspacesg/status/420457651818881024"><abbr class="timeago">Tue Jan 07 07:31:30 +0000 2014</abbr></a>
 </li>
 <li>
-RT @kaihendry: @cheeaun Save the date! 10th Dec for H&amp;T at @hackerspacesg Want to chat to you about Google's Universal Analytics thing too.
+Always want to get your hands dirty with iOS dev? Check out Subh's upcoming class, conducted to raise funds for us! https://www.learnemy.com/groups/introduction-to-ios
 &nbsp;&mdash;<br>
-<a href="http://twitter.com/hackerspacesg/status/406255862588522496">Fri Nov 29 02:58:40 +0000 2013</a>
+<a href="http://twitter.com/hackerspacesg/status/420149610040926209"><abbr class="timeago">Mon Jan 06 11:07:27 +0000 2014</abbr></a>
 </li>
 <li>
-RT @_mauris: Recharged and filled with knowledge by the Vagrant workshop at @hackerspacesg thanks to @coderkungfu
+RT @geekcamp: Videos will be coming out over the next few days. For starters, the keynote by the codefather is here!
 &nbsp;&mdash;<br>
-<a href="http://twitter.com/hackerspacesg/status/406255814400155648">Fri Nov 29 02:58:28 +0000 2013</a>
+<a href="http://twitter.com/hackerspacesg/status/420113653468114944"><abbr class="timeago">Mon Jan 06 08:44:34 +0000 2014</abbr></a>
 </li>
 <li>
-Does this look familiar? *Sniff* <a href="https://www.facebook.com/HackerspaceSG/posts/10152016027943104:0">https://www.facebook.com/HackerspaceSG/posts/10152016027943104:0</a>
+If you are free this evening, come drop by to meet other sound/audio geeks at this sharing by @jlindebrink https://www.facebook.com/events/273114889507598/
 &nbsp;&mdash;<br>
-<a href="http://twitter.com/hackerspacesg/status/403200981153763328">Wed Nov 20 16:39:39 +0000 2013</a>
+<a href="http://twitter.com/hackerspacesg/status/420103697759100928"><abbr class="timeago">Mon Jan 06 08:05:01 +0000 2014</abbr></a>
 </li>
 <li>
-RT @soareschen: End of day 2 last day at @HackerspaceSG before moving. Must clear everything tomorrow! <a href="http://instagram.com/p/glcnl6pHpg/">http://instagram.com/p/glcnl6pHpg/</a>
+RT @bleongcw: Happy to be in @hackerspacesg before the new year &amp; now back at home to spend the new year with family. :) #HNY2014
 &nbsp;&mdash;<br>
-<a href="http://twitter.com/hackerspacesg/status/400807578965254145">Thu Nov 14 02:09:08 +0000 2013</a>
+<a href="http://twitter.com/hackerspacesg/status/418081333642919936"><abbr class="timeago">Tue Dec 31 18:08:52 +0000 2013</abbr></a>
 </li>
