@@ -9,6 +9,7 @@
 	<script type="text/javascript" src="//timeago.yarp.com/jquery.timeago.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
+			$.timeago.settings.allowFuture = true;
 			$('abbr.timeago').timeago().each(function(i, el){
 				$(el).html($.timeago($(el).attr('title')));
 			});
