@@ -5,16 +5,6 @@
 	<title>{{{site-title}}}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/cosmo.css">
-	<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="//momentjs.com/downloads/moment.min.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$('abbr.timeago').each(function(i, el){
-				$(el).attr('title') || $(el).attr('title', $(el).html());
-				$(el).html(moment($(el).attr('title')).fromNow());
-			});
-		})
-	</script>
 </head>
 
 <body>
@@ -44,7 +34,7 @@
 {{#events}}
 <p>
 	<strong>{{Name}}</strong>
-	<abbr class="timeago">
+	<abbr class="timeago" title="{{#datetime}}{{When}}{{/datetime}}">
 		{{#datetime}}{{When}}{{/datetime}}
 	</abbr>
 </p>
