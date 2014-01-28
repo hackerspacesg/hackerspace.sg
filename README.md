@@ -1,3 +1,5 @@
+# Hackerspace.sg Website [![Build Status](https://travis-ci.org/notthetup/hackerspace.sg.png)](https://travis-ci.org/notthetup/hackerspace.sg)
+
 # Get started locally
 
 Install [nodejs](http://nodejs.org/)
@@ -8,3 +10,4 @@ Install [nodejs](http://nodejs.org/)
 # Calendar API
 
 <https://www.google.com/calendar/ical/mengwong%40hackerspace.sg/public/basic.ics>
+
