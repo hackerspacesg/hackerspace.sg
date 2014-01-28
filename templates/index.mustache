@@ -6,12 +6,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/cosmo.css">
 	<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="//timeago.yarp.com/jquery.timeago.js"></script>
+	<script type="text/javascript" src="//momentjs.com/downloads/moment.min.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
-			$.timeago.settings.allowFuture = true;
-			$('abbr.timeago').timeago().each(function(i, el){
-				$(el).html($.timeago($(el).attr('title')));
+			$('abbr.timeago').each(function(i, el){
+				$(el).attr('title') || $(el).attr('title', $(el).html());
+				$(el).html(moment($(el).attr('title')).fromNow());
 			});
 		})
 	</script>
@@ -44,9 +44,8 @@
 {{#events}}
 <p>
 	<strong>{{Name}}</strong>
-	on
 	<abbr class="timeago">
-		{{#date}}{{When}}{{/date}}
+		{{#datetime}}{{When}}{{/datetime}}
 	</abbr>
 </p>
 {{/events}}
