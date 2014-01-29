@@ -32,8 +32,12 @@
 <h2>Upcoming Events</h2>
 
 {{#events}}
-<p><strong>{{Name}}</strong>
-on {{#date}}{{When}}{{/date}} at {{#time}}{{When}}{{/time}}</p>
+<p>
+	<strong>{{Name}}</strong>
+	<abbr class="timeago" title="{{#datetime}}{{When}}{{/datetime}}">
+		{{#datetime}}{{When}}{{/datetime}}
+	</abbr>
+</p>
 {{/events}}
 
 <h2>Tweets</h2>
