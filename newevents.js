@@ -7,10 +7,16 @@ function(err, data) {
 		if (data.hasOwnProperty(k)) {
 			var ev = data[k]
 			if (ev.start && ! isNaN(ev.start) && (ev.start > Date.now())) {
-				futureEvents.push({
+				var e = {
 					"Name": ev.summary,
 					"When": ev.start.getTime()
-				});
+				}
+
+				if (ev.url && ev.url.indexOf("http") == 0) {
+					e["URL"] = ev.url;
+				}
+
+				futureEvents.push(e);
 			}
 		}
 	}
