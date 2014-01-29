@@ -1,3 +1,5 @@
+# Hackerspace.sg Website [![Build Status](https://travis-ci.org/notthetup/hackerspace.sg.png)](https://travis-ci.org/notthetup/hackerspace.sg)
+
 # How to test the site locally
 
 Install [nodejs](http://nodejs.org/)
@@ -16,5 +18,3 @@ The Github hosts repository is configured with a WebHook URL: http://punch-hook.
 # Calendar API
 
 <https://www.google.com/calendar/ical/mengwong%40hackerspace.sg/public/basic.ics>
-
-The first URL of the description of the event should be marked up in the front page.

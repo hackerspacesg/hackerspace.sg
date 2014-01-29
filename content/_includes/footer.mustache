@@ -4,6 +4,14 @@
 
 </div>
 
+<script type="text/javascript" src="/js/moment.min.js"></script>
+<script type="text/javascript">
+	(function(moment){
+		var els = document.querySelectorAll('abbr.timeago');
+		for (var i in els)
+			els[i].innerHTML = moment(els[i].title).fromNow();
+	})(moment);
+</script>
 <script>
 window.scrollback = {
 streams:["hackerspacesg"],
