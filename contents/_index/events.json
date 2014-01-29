@@ -1,13 +1,5 @@
 [
   {
-    "Name": "Hack and Tell",
-    "When": 1390912200000
-  },
-  {
-    "Name": "Topic unconfirmed by Siim. Host unconfirmed",
-    "When": 1390993200000
-  },
-  {
     "Name": "Topic unconfirmed by Qin En. Host unconfirmed.",
     "When": 1391598000000
   },
@@ -18,6 +10,11 @@
   {
     "Name": "Ukulele Jam Meetup ",
     "When": 1392532200000
+  },
+  {
+    "Name": "Python Users Group SG meeting\n",
+    "When": 1392809400000,
+    "URL": "http://pugs.org.sg/2014-feb-meeting.html"
   },
   {
     "Name": "Schedule Aircon Chemical cleaning inspection",
