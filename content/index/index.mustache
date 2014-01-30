@@ -34,9 +34,7 @@
 {{#events}}
 <p>
 	<strong>{{Name}}</strong>
-	<abbr class="timeago" title="{{#datetime}}{{When}}{{/datetime}}">
-		{{#datetime}}{{When}}{{/datetime}}
-	</abbr>
+	<time dateTime="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
 </p>
 {{/events}}
 
@@ -45,5 +43,17 @@
 <ul>
 {{{tweets}}}
 </ul>
+
+<script src="/js/moment.min.js"></script>
+<script>
+(function(moment){
+	var els = document.getElementsByTagName('time');
+	for (var i = 0, l = els.length; i < l; i++) {
+		els[i].innerHTML = moment(els[i].getAttribute('datetime')).fromNow();
+		}
+})(moment);
+</script>
+
+
 
 {{> footer }}
