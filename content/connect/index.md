@@ -34,6 +34,10 @@ All hackers in or connected to Singapore are welcome to join. You don't need to 
 
 <https://twitter.com/hackerspacesg>
 
+# Library lending log
+
+<http://tinyurl.com/hsglibrary>
+
 # Email HSG
 
 <contact@hackerspace.sg>
