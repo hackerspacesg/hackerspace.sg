@@ -1,5 +1,14 @@
 # HSG events
 
+If you want to book the Hackerspace for an event:
+
+1. Send email to events@hackerspace.sg stating the title, time, and nature of the event;
+state also which member is sponsoring. After the event is confirmed, verify that it is on the hackerspacesg calendar.
+2. Commercial events, or private events which exclude HSG members, should expect to pay $100/hour
+3. Applications should be made at least 1 week before the event
+4. Noisy or high-capacity events should be scheduled after 6pm Monday through Saturday
+5. We reserve the right to approve or reject all applications
+
 <iframe src="https://www.google.com/calendar/hosted/hackerspace.sg/embed?height=650&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mengwong%40hackerspace.sg&amp;color=%232952A3&amp;ctz=Asia%2FSingapore" style=" border-width:0 " width="900" height="650" frameborder="0" scrolling="no"></iframe>
 
 # Rojak calendar
