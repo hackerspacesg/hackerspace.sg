@@ -14,7 +14,7 @@ desk.
 ## Regular Member &mdash; $128 SGD monthly
 
 Hang out on the sofas. Keep your crap in a locker (rental rates applicable).
-Use the workbench. [Borrow books](http://tinyurl.com/hsglibrary) from our library. Keep your toys and tools onsite.
+Use the workbench. Borrow books from our library. Keep your toys and tools onsite.
 
 ## Irregular Member &mdash; $64 SGD monthly
 
@@ -48,7 +48,7 @@ branch code of `057` should display on your internet banking interface.
 Another painless way is to use PayPal to enter a regular monthly
 subscription.  Please note that fees levied by PayPal will be absorbed by you.
 
-<div align="center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px;">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="6YY74YT8UKT9E">
 <table>
@@ -62,7 +62,7 @@ subscription.  Please note that fees levied by PayPal will be absorbed by you.
 <input type="hidden" name="currency_code" value="SGD">
 <input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form></div>
+</form>
 
 We reserve the right to reject membership applications for any reason.
 
