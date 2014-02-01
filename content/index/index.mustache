@@ -33,8 +33,13 @@
 
 {{#events}}
 <p>
-	<strong>{{Name}}</strong>
-	<time dateTime="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
+{{#URL}}
+<strong><a href="{{URL}}">{{Name}}</a></strong>
+{{/URL}}
+{{^URL}}
+<strong>{{Name}}</strong>
+{{/URL}}
+<time dateTime="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
 </p>
 {{/events}}
 
