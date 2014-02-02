@@ -78,8 +78,10 @@ taxi stand.
 Postage can be bought at the SAM machine at Lavender MRT on the concourse
 level, near the DBS ATM. 
 
-The closest post office is at Crawford, Beach Road,
-near the Army Market and Golden Mile Food Centre.
+Closest post office locations:
+1. [Crawford](http://www.street-directory.com/singpost/singpost.cgi?x=373521.5390&y=144085.8737&level=7&star=1&categories=POL&name=Crawford&address_display=Blk%2015%20Beach%20Road%20@01-4685%20|Singapore&opr_hour_display=Mon%20-%20Fri%208.30%20am%20-%205.00%20pm%20|Sat%208.30%20am%20-%201.00%20pm%20|Sun/P.Hol%20Closed&newpostalcode2=190015&phone=&remit=&post=#switchbar), Beach Road, near the Army Market and Golden Mile Food Centre.
+2. [Kitchener Road](http://www.street-directory.com/singpost/singpost.cgi?x=372682.9263&y=144879.0497&level=7&star=1&categories=POL&name=Kitchener%20Road&address_display=181%20Kitchener%20Road%20@01-26/28%20New%20Park%20Hotel%20Shopping%20Arcade%20|Singapore&opr_hour_display=Mon%20-%20Fri%208.30%20am%20-%205.00%20pm%20|Sat%208.30%20am%20-%201.00%20pm%20|Sun/P.Hol%20Closed&newpostalcode2=208533&phone=&remit=&post=#switchbar), New Park Hotel Shopping Arcade, near Mustafa Centre.
+
 
 ## Sports
 
@@ -101,3 +103,7 @@ Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is
 next to the North Entrance of the Jalan Besar Stadium, less than five minutes' walk away. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends. 
 
 The swimming complex is closed when it rains. Call <a href="tel:+6562939058">62939058</a> in advance to ask if they are open. This saves you 10 minutes in case it is closed as a precaution for lightning strikes.
+
+### Fitness Corner
+
+For those who wants to use static stations at a fitness corner for exercises like pull-ups, a fitness corner can be found at the third level open spaces between [blocks 807 and 806](https://goo.gl/maps/sXvFZ) across the Jalan Besar Stadium.
