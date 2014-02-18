@@ -15,6 +15,9 @@ function(err, data) {
 				if (ev.url && ev.url.indexOf("http") == 0) {
 					e["URL"] = ev.url;
 				}
+				else if (ev.description && ev.description.indexOf("http") >=0) {
+					e["URL"] = ev.description.match(/https?:\/\/[^\s"]+/)[0];
+				}
 
 				futureEvents.push(e);
 			}
