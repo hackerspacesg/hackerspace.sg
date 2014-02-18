@@ -1,4 +1,5 @@
 var ical = require('ical');
+var urlRegexp = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
 
 ical.fromURL('https://www.google.com/calendar/ical/mengwong%40hackerspace.sg/public/basic.ics', {},
 function(err, data) {
@@ -14,8 +15,13 @@ function(err, data) {
 
 				if (ev.url && ev.url.indexOf("http") == 0) {
 					e["URL"] = ev.url;
+				}else{
+					// If no URL is found, try to extract a string
+					// from the description.
+					urlFromDesc = ev.description.match(urlRegexp);
+					if (urlFromDesc && urlFromDesc[0])
+						e["URL"] = urlFromDesc[0];
 				}
-
 				futureEvents.push(e);
 			}
 		}
