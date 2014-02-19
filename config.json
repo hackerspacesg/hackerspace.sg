@@ -9,7 +9,7 @@
 
 	"plugins": {
 		"generator_hooks": {
-			"htaccess": "./htaccess.js"
+			"htaccess": "./src/htaccess.js"
 		}
 	}
 }
