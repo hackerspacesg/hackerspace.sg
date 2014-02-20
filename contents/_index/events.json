@@ -1,20 +1,28 @@
 [
   {
-    "Name": "Topic unconfirmed by Qin En. Host unconfirmed.",
-    "When": 1391598000000
-  },
-  {
-    "Name": "Singapore MongoDB User Group Meetup.",
-    "When": 1392112800000
-  },
-  {
     "Name": "Ukulele Jam Meetup ",
-    "When": 1392532200000
+    "When": 1393137000000,
+    "URL": "http://www.meetup.com/The-Ukulele-Assemble/"
   },
   {
-    "Name": "Python Users Group SG meeting",
-    "When": 1392809400000,
-    "URL": "http://pugs.org.sg/2014-feb-meeting.html"
+    "Name": "How To Sell as a Founder -The Design Thinking Approach",
+    "When": 1393412400000,
+    "URL": "https://www.learnemy.com/groups/how-to-sell-as-a-founder"
+  },
+  {
+    "Name": "Social Media For Startups",
+    "When": 1393498800000,
+    "URL": "https://www.learnemy.com/groups/social-media-for-startups"
+  },
+  {
+    "Name": "SG Futurist Hangout",
+    "When": 1394258400000,
+    "URL": "http://www.meetup.com/Singapore-Futurists/events/122405182/"
+  },
+  {
+    "Name": "HSG Paintball Shootout in Johor Bahru",
+    "When": 1395540000000,
+    "URL": "https://www.facebook.com/events/1442020039366647"
   },
   {
     "Name": "Schedule Aircon Chemical cleaning inspection",

@@ -6,7 +6,7 @@ function(err, data) {
 	for (var k in data) {
 		if (data.hasOwnProperty(k)) {
 			var ev = data[k]
-			if (ev.start && ! isNaN(ev.start) && (ev.start > Date.now())) {
+			if (ev.start && ! isNaN(ev.start) && (ev.start > Date.now() - 60 * 60 * 1000)) {
 				var e = {
 					"Name": ev.summary,
 					"When": ev.start.getTime()
@@ -45,4 +45,3 @@ function(err, data) {
 		}
 	});
 });
-
