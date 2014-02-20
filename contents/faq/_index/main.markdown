@@ -3,13 +3,13 @@
 
 Join the mailing list. Lurk for a while, then engage in discussions. Optionally, write a short email to introduce yourself.
 
-Visit us, especially when an [event](/calendar) is happening.
+You may also drop by any time members are around, especially when an [event](/calendar) is happening.
 
 ## I'd like to visit Hackerspace. Do I need to make an appointment?
 
 No. Just drop by. There are usually people around between noon and midnight.
 
-If you want to make sure you get your money's worth, come when event is happening. Check the [calendar](/calendar).
+If you want to get your time and money's worth, come when an event is taking place. Check the [calendar](/calendar).
 
 ## Do you guys, like, break into websites and steal passwords and Bitcoins and stuff?
 
