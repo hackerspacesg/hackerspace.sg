@@ -14,4 +14,4 @@ git reset --hard origin/master
 make
 
 # Azure doesn't allow email
-test "$POST" && echo $POST | sed -n '/^payload=/s///p' | node pretty-print-json.js | mail -s "HSG update" hendry
+test "$POST" && echo $POST | sed -n '/^payload=/s///p' | node bin/pretty-print-json.js | mail -s "HSG update" hendry
