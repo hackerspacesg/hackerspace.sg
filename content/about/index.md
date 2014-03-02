@@ -15,3 +15,8 @@ Members of the local hacker community have selflessly volunteered their time, en
 The members of Hackerspace.SG acknowledge and appreciate the efforts of the community in helping put the space together. The following list is not exhaustive.
 
 Luther Goh Lu Feng, Justin Lee, Ruiwen Chua, Meng Weng Wong, Michael Cheng, Lakshan Perera, Sayanee Basu, Drenboy
+
+## Facilities
+
+- A Makerbot [Cupcake CNC 3D printer](cupcake) is available for member use.
+- (This list is woefully incomplete.)
