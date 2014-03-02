@@ -4,6 +4,24 @@
 
 </div>
 
+<script src="/js/davis.min.js"></script>
+<script>
+  var app, domcontent;
+  $(document).ready(function(){
+    app = Davis(function () {
+		this.get('/', function (req) {
+			$('div.container').load("/ div.container");
+			return false;
+		})
+		this.get('/:path', function (req) {
+			$('div.container').load("/"+req.params['path']+" div.container");
+			return false;
+		})
+    })
+    app.start();
+  });
+</script>
+
 <script>
 window.scrollback = {
 streams:["hackerspacesg"],
