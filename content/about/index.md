@@ -18,5 +18,5 @@ Luther Goh Lu Feng, Justin Lee, Ruiwen Chua, Meng Weng Wong, Michael Cheng, Laks
 
 ## Facilities
 
-- A Makerbot [Cupcake CNC 3D printer](cupcake) is available for member use.
+- A Makerbot [Cupcake CNC 3D printer](/cupcake) is available for member use.
 - (This list is woefully incomplete.)
