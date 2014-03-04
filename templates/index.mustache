@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html class="no-js">
-<head>
-	<meta charset="utf-8">
-	<title>{{{site-title}}}</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/cosmo.css">
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/styles.css">
-</head>
-
-<body>
-
-{{> navbar }}
-
-<div class="jumbotron">
-
-  <div class="highlight">
-    <img alt="Welcome to Hackerspace Singapore" class=banner src="/imgs/banner.png">
-  </div>
-
-</div>
-
-<div class="container">
+{{> header }}
 
 <h2>Upcoming Events</h2>
 
@@ -42,17 +20,5 @@
 <ul>
 {{{tweets}}}
 </ul>
-
-<script src="/js/moment.min.js"></script>
-<script>
-(function(moment){
-	var els = document.getElementsByTagName('time');
-	for (var i = 0, l = els.length; i < l; i++) {
-		els[i].innerHTML = moment(els[i].getAttribute('datetime')).fromNow();
-		}
-})(moment);
-</script>
-
-
 
 {{> footer }}
