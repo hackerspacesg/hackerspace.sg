@@ -35,6 +35,9 @@
 					$('#subpages-navbar').collapse('hide');
 				}
 			})
+			this.get('/?', function (req) {
+				return false;
+			})
 			this.get('/', function (req) {
 				fetchPage("/");
 				return false;
