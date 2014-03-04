@@ -66,6 +66,12 @@ subscription.  Please note that fees levied by PayPal will be absorbed by you.
 
 We reserve the right to reject membership applications for any reason.
 
+## Guest Policy
+
+Hackerspace.SG welcomes infrequent visitors and foreign travellers. Guests must be accompanied by a member.
+
+If you would like to visit Hackerspace.SG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg) or [IRC](irc://irc.freenode.net/hackerspacesg).
+
 ## Organizational Form
 
 Hackerspace.SG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently four directors.
