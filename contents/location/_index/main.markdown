@@ -29,6 +29,7 @@ Please proceed up to the 3rd floor.
 * [Swee Choon Tim Sum](https://foursquare.com/v/swee-choon-tim-sum-restaurant-%E7%91%9E%E6%98%A5%E9%BB%9E%E5%BF%83%E6%8B%89%E9%9D%A2%E5%B0%8F%E7%B1%A0%E5%8C%85/4bb610c81344b71318e99c04) and the satay shop next door
 * [Hill Street Tai Hwa Pork Noodle](https://foursquare.com/v/hill-street-tai-hwa-pork-noodle-%E5%90%8A%E6%A1%A5%E5%A4%B4%E5%A4%A7%E5%8D%8E%E7%8C%AA%E8%82%89%E7%B2%BF%E6%9D%A1-singapore/4b80b8b3f964a5205a8830e3) and [Happy Chef Western Food](https://foursquare.com/v/happy-chef-western-food/4bc00eec74a9a5937ea7cff6), on the other side of Lavender MRT
 * [Sungei Road Laksa](https://foursquare.com/v/sungei-road-laksa-%E7%BB%93%E9%9C%9C%E6%A1%A5%E5%8F%BB%E6%B2%99/4c19e647834e2d7f94102b80) near Syed Alwi Road
+* [Vegetarian Indian](http://www.mavallitiffinrooms.com/#!spore-sgoon/cgg1)
 
 ### Fast food
 * [Wendy's](https://foursquare.com/v/wendys/4dae4a77a86e29d01a41d7ac) at Lavender MRT
@@ -38,11 +39,9 @@ Please proceed up to the 3rd floor.
 * [Antoinette](http://antoinette.com.sg/contact.html) at Penhas Road (near Lavender MRT)
 
 
-## Coffee
-
-* See also: [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?msid=215891290759892097434.0004cceddc3c51a603dc0&msa=0&ll=1.310483,103.86149&spn=0.003282,0.005048)
-
 ### Coffee Nearby
+
+See also: [Meng's Map of Third Wave Coffee](https://maps.google.com.sg/maps/ms?msid=215891290759892097434.0004cceddc3c51a603dc0&msa=0&ll=1.310483,103.86149&spn=0.003282,0.005048)
 
 * [Chye Seng Huat Hardware](https://www.facebook.com/ChyeSengHuatHardware)
 * [The Coffee Shot](https://www.facebook.com/THECOFFEESHOTTKC)
@@ -106,4 +105,9 @@ The swimming complex is closed when it rains. Call <a href="tel:+6562939058">629
 
 ### Fitness Corner
 
-For those who wants to use static stations at a fitness corner for exercises like pull-ups, a fitness corner can be found at the third level open spaces between [blocks 807 and 806](https://goo.gl/maps/sXvFZ) across the Jalan Besar Stadium.
+* [Crossfit Fire city](https://www.facebook.com/crossfitfirecity)
+
+For those who wants to use static stations at a fitness corner for exercises
+like pull-ups, a fitness corner can be found at the third level open spaces
+between [blocks 807 and 806](https://goo.gl/maps/sXvFZ) across the Jalan Besar
+Stadium.
