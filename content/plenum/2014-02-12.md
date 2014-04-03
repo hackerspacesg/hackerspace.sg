@@ -5,7 +5,7 @@
 ### Present
 - Michael Cheng
 - Chinmay Pendharkar
-- Alvin (oops, which one?)
+- Alvin Jiang
 - Roland Turner
 - ChernJie Lim
 - Gibson Tang
