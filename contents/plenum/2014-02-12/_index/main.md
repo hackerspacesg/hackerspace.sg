@@ -3,17 +3,17 @@
 ### Open: 8:40
 
 ### Present
-- Michael
-- Chinmay
-- Alvin
-- Roland
-- CJ
-- The phantom flusher
-- Aaron
-- Luther
-- Soares
-- LJ
-- Valentine
+- Michael Cheng
+- Chinmay Pendharkar
+- Alvin Jiang
+- Roland Turner
+- ChernJie Lim
+- Gibson Tang
+- Aaron Tan
+- Luther Goh
+- Soares Chen
+- Loong Jin Chow
+- Valentine Chua
 
 ### Agenda
 - Kai
