@@ -65,11 +65,25 @@ subscription.
 
 We reserve the right to reject membership applications for any reason.
 
-## Guest Policy
+## Guests
 
 Hackerspace.SG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
 
 If you would like to visit Hackerspace.SG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg), [IRC](irc://irc.freenode.net/hackerspacesg), or the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Alternatively, come visit us at any of the public events listed on our [calendar](/calendar).
+
+## Personal Belongings
+
+Members are invited to leave their stuff at the Hackerspace, with the understanding that other members and guests may [use, handle, break and discard them](http://hackerspaces.org/wiki/The_Old_Hardware_Pattern). This includes, but is not limited to: computers, keyboards, mice, chargers, furniture, and toys.
+
+Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Resident tier.) Please be considerate to fellow members and guests.
+
+### Locker Rental
+
+Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are $15 per month, small lockers are $10 per month, and tiny lockers are $6 per month. Please email [membership@hackerspace.sg](membership@hackerspace.sg) for more details.
+
+### Disclaimer of Responsibility
+
+Hackerspace.SG will not be held responsible for any loss or damage of personal belongings.
 
 ## Organizational Form
 
