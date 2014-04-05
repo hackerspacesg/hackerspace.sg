@@ -1,84 +1,87 @@
+  </div>
+</div>
+
 <footer>
 <p>Source: <a href=https://github.com/hackerspacesg/hackerspace.sg>On Github</a></p>
 </footer>
 
-</div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/davis.min.js"></script>
 <script src="/js/moment.min.js"></script>
 <script>
-	var app;
-	var formatTimes = function(){
-		$('time').each(function(index){
-      d = moment($(this).attr('datetime'));
-			$(this).text(d.fromNow() + ' at ' + d.format('h:mma'));
-		});
-	}
-	var updateHeader = function(path)
-	{
-		var class_name = (path == '/') ? 'home' : 'sub-page';
-		$('body').removeClass().addClass(class_name);
-	}
-	var fetchPage = function(path){
-		updateHeader(path);
-		$('div.container').load(path + " div.container", function(){
-			formatTimes();
-			_gaq.push(['_trackPageview', path]);
-		});
-		return false;
-	}
-	$(document).ready(function(){
-		app = Davis(function () {
-			this.before(function (req) {
-				if ($('button.navbar-toggle').css('display') != 'none')
-				{
-					$('#subpages-navbar').collapse('hide');
-				}
-			})
-			this.get('/', function (req) {
-				fetchPage("/");
-				return false;
-			})
-			this.get('/?', function (req) {
-				return false;
-			})
-			this.get('/:path', function (req) {
-				fetchPage("/"+req.params['path']);
-				return false;
-			})
-		})
-		app.start();
-		formatTimes();
-		updateHeader(window.location.pathname);
-	});
+var app;
+var formatTimes = function(){
+  $('time').each(function(index){
+    d = moment($(this).attr('datetime'));
+    $(this).text(d.fromNow() + ' at ' + d.format('h:mma'));
+  });
+}
+var updateHeader = function(path)
+{
+  var class_name = (path == '/') ? 'home' : 'sub-page';
+  $('body').removeClass().addClass(class_name);
+}
+var fetchPage = function(path){
+  updateHeader(path);
+  $('div.content-wrapper').load(path + " div.container", function(){
+    formatTimes();
+    _gaq.push(['_trackPageview', path]);
+    $('body').animate({scrollTop:0},200);
+  });
+  return false;
+}
+$(document).ready(function(){
+  app = Davis(function () {
+    this.before(function (req) {
+      if ($('button.navbar-toggle').css('display') != 'none')
+      {
+        $('#subpages-navbar').collapse('hide');
+      }
+    })
+    this.get('/', function (req) {
+      fetchPage("/");
+      return false;
+    })
+    this.get('/?', function (req) {
+      return false;
+    })
+    this.get('/:path', function (req) {
+      fetchPage("/"+req.params['path']);
+      return false;
+    })
+  })
+  app.start();
+  formatTimes();
+  updateHeader(window.location.pathname);
+});
 </script>
 
 <script>
 window.scrollback = {
 streams:["hackerspacesg"],
-theme: 'light',
-ticker: true,
+        theme: 'light',
+        ticker: true,
 };
 
 /***** don't edit below *****/
 (function(d,s,h,e){e=d.createElement(s);e.async=1;
-e.src=h+'/client.min.js';scrollback.host=h;
-d.getElementsByTagName(s)[0].parentNode.appendChild(e);}
-(document,'script',location.protocol+'//scrollback.io'));
+ e.src=h+'/client.min.js';scrollback.host=h;
+ d.getElementsByTagName(s)[0].parentNode.appendChild(e);}
+ (document,'script',location.protocol+'//scrollback.io'));
 </script>
 
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11667249-1']);
-  _gaq.push(['_trackPageview']);
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-11667249-1']);
+_gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
 </script>
 
 </body>
