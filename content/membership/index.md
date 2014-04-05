@@ -79,7 +79,7 @@ Please clear all personal belongings from your desk when you leave Hackerspace f
 
 ### Locker Rental
 
-Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are $15 per month, small lockers are $10 per month, and tiny lockers are $6 per month. Please email [membership@hackerspace.sg](membership@hackerspace.sg) for more details.
+Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are $15 per month, small lockers are $10 per month, and tiny lockers are $6 per month. Please email <membership@hackerspace.sg> for more details.
 
 ### Disclaimer of Responsibility
 
