@@ -1,24 +1,22 @@
 {{> header }}
 
-<h2>Upcoming Events</h2>
-
-{{#events}}
-<p>
-{{#URL}}
-<strong><a href="{{URL}}">{{Name}}</a></strong>
-{{/URL}}
-{{^URL}}
-<strong>{{Name}}</strong>
-{{/URL}}
-<time dateTime="{{#datetime}}{{When}}{{/datetime}}"
- title="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
-</p>
-{{/events}}
-
-<h2>Tweets</h2>
-
-<ul>
-{{{tweets}}}
-</ul>
+<div class="row">
+  <div class="col-md-6 events-block">
+    <h2>Upcoming Events</h2>
+    <ul>
+      {{#events}}
+        <li>
+          {{#URL}}<h4><a href="{{URL}}">{{Name}}</a></h4>{{/URL}}
+          {{^URL}}<h4>{{Name}}</h4>{{/URL}}
+          <time dateTime="{{#datetime}}{{When}}{{/datetime}}"
+           title="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
+        </li>
+      {{/events}}
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <iframe src="/tweets.html" scrolling="no" frameborder="0" allowtransparency="true" width="520" height="600" style="margin-top: 27px; border: none; max-width: 100%; min-width: 180px;"></iframe>
+  </div>
+</div>
 
 {{> footer }}

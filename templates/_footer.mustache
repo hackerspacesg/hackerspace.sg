@@ -12,7 +12,8 @@
 	var app;
 	var formatTimes = function(){
 		$('time').each(function(index){
-			$(this).text(moment($(this).attr('datetime')).fromNow());
+      d = moment($(this).attr('datetime'));
+			$(this).text(d.fromNow() + ' at ' + d.format('h:mma'));
 		});
 	}
 	var updateHeader = function(path)
