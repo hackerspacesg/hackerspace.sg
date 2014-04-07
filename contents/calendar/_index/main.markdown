@@ -31,7 +31,7 @@ events (excluding HackerspaceSG’s cleaning every Tuesday, of course).
 
 HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 
-- Hacking[1](#1) and Technology
+- Hacking<sup>[1](#1)</sup> and Technology
 - Entrepreneurship
 - Interesting/unusual/offbeat thinkers
 - After-parties for events in the above areas held elsewhere
@@ -39,9 +39,9 @@ HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 The constraints are minimal:
 
 - Up to 40 people
-- Open to HackerspaceSG members who happen to be present[2](#2)
+- Open to HackerspaceSG members who happen to be present<sup>[2](#2)</sup>
 - For more than 5 people: outside office hours (After 6PM weekdays, all day Saturday/Sunday)
-- Within the law[3](#3)
+- Within the law<sup>[3](#3)</sup>
 
 To arrange an event:
 
@@ -71,14 +71,14 @@ To host an event:
 	1. Provide a title for the event
 	1. Provide a preferred date and time (if any) and intended duration of the event
 	1. Provide a description of the event; include links to Facebook/Meetup/etc. event pages if they exist
-	1. Confirm your willingness to act as host for the event[4](#4) (i.e. take care of the things described below)
-	1. Provide your mobile contact number for use during the event[5](#5)
+	1. Confirm your willingness to act as host for the event<sup>[4](#4)</sup> (i.e. take care of the things described below)
+	1. Provide your mobile contact number for use during the event<sup>[5](#5)</sup>
 - Once the spot is reserved invite your attendees (or where you aren't the organiser, advise the organisers to go ahead)
 - On the day of the event:
 	- Preparation:
 		- Turn up at least 30 minutes in advance
 		- Chock the door ajar
-		- Turn on all of the air-conditioners set to 24°C[6](#6) with automatic fan, oscillation, etc. 30 minutes should be enough to get the space comfortable without using more extreme settings
+		- Turn on all of the air-conditioners set to 24°C<sup>[6](#6)</sup> with automatic fan, oscillation, etc. 30 minutes should be enough to get the space comfortable without using more extreme settings
 		- Arrange furniture as required. Please do this quietly if it's still office hours for our downstairs neighbour.
   - Holding the event:
   	- Welcome guests as they arrive
