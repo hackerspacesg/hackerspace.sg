@@ -1,12 +1,12 @@
-# Hackerspace.SG calendar
+# Hackerspace.SG calendar of events
 
 ## Hosting an event
 
-If you wish to host an event at Hackerspace.SG, see [Hosting an Event](#Hosting_an_Event) below.
+If you wish to host an event at Hackerspace.SG, see [the section on Hosting Events below](#hosting-events).
 
 <iframe src="https://www.google.com/calendar/hosted/hackerspace.sg/embed?height=650&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mengwong%40hackerspace.sg&amp;color=%232952A3&amp;ctz=Asia%2FSingapore" style=" border-width:0 " width="900" height="650" frameborder="0" scrolling="no"></iframe>
 
-# Rojak calendar
+## Rojak calendar
 
 Why rojak, you may ask? Rojak, which means “wild mix” or “combination of
 ingredients” in Malay, is built on a vibrant assortment of fresh fruits and
@@ -21,13 +21,13 @@ events (excluding HackerspaceSG’s cleaning every Tuesday, of course).
 
 <iframe src="https://www.google.com/calendar/embed?title=Rojak%20Calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kmijr97dtpbmf8a7r2ajgdogu0%40group.calendar.google.com&amp;color=%235229A3&amp;src=mengwong%40hackerspace.sg&amp;color=%23691426&amp;src=6nf1p8b3amg68bvaovgfdluhj0%40group.calendar.google.com&amp;color=%232F6309&amp;src=sgentrepreneurs.sg%40gmail.com&amp;color=%23B1440E&amp;ctz=Asia%2FSingapore&amp;src=84arudvc87kfnrlm7n3vbaoki4%40group.calendar.google.com" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-# Other Singapore tech event aggregators
+## Other Singapore tech event aggregators
 
 * <http://www.webuild.sg/>
 
-## <a name="Hosting_an_Event">Hosting an Event</a>
+# Hosting Events
 
-### Event Organisers
+## Event Organisers
 
 HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 
@@ -38,23 +38,23 @@ HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 
 The constraints are minimal:
 
-- Up to 40 people
+- A soft cap of 40 – 50 people, up to 60 people
 - Open to HackerspaceSG members who happen to be present<sup>[2](#2)</sup>
-- For more than 5 people: outside office hours (After 6PM weekdays, all day Saturday/Sunday)
+- For more than 5 people: outside office hours (After 6PM on weekdays, all day on Saturday/Sunday)
 - Within the law<sup>[3](#3)</sup>
 
 To arrange an event:
 
 - If you're a member:
-	- Work through the [Hosting Member](#Hosting_Member) section below.
+	- Work through the [Hosting Member](#hosting-member) section below.
 - If you're not a member:
 	- You'll need to locate a member who is willing to host your event, which means that they are willing to take on everything described below.
 	- A good way to do this is usually to post to the [HackerspaceSG Google Group](https://groups.google.com/forum/#!forum/hackerspacesg).
-	- Note that it is not enough to find a member who acknowledges that your event is a good idea, you need them to agree explicitly to host your event and to making the booking request to the event officers.
+	- Note that it is not enough to find a member who acknowledges that your event is a good idea; you will need them to agree explicitly towards hosting your event and making the booking request with the event officers.
 	- Wait until your host confirms that they've booked a calendar slot before you invite your guests or announce HackerspaceSG as a venue.
 	- If you are planning to host events on a regular basis, please consider [becoming a member](http://hackerspace.sg/membership/).
 
-### <a name="Hosting_Member">Hosting Member</a>
+## Hosting Member
 
 Whether you're hosting your own event or someone else's, you're taking on several specific responsibilities:
 
@@ -62,7 +62,7 @@ Whether you're hosting your own event or someone else's, you're taking on severa
 - to be present throughout the event as host and to take responsibility for the event's non-member attendees as your guests
 - to clean up the space immediately after the event
 
-Please don't shirk these; putting other members in the situation of having to take over as host without notice because you failed to turn up is bad karma. It's probably a very good idea to only ever agree to be host for an event that you actually want to attend.
+Please don't shirk these responsibilities. Putting other members in the situation of having to take over as host without notice because you failed to turn up is bad karma. It's probably a very good idea to only ever agree to be host for an event that you actually want to attend.
 
 To host an event:
 
@@ -78,8 +78,8 @@ To host an event:
 	- Preparation:
 		- Turn up at least 30 minutes in advance
 		- Chock the door ajar
-		- Turn on all of the air-conditioners set to 24°C<sup>[6](#6)</sup> with automatic fan, oscillation, etc. 30 minutes should be enough to get the space comfortable without using more extreme settings
-		- Arrange furniture as required. Please do this quietly if it's still office hours for our downstairs neighbour.
+		- Turn on all of the air-conditioners, set to 24°C<sup>[6](#6)</sup> with automatic fan, oscillation, etc. 30 minutes should be enough to get the space comfortable without using more extreme settings
+		- Arrange furniture as required. Please do this quietly if it's still office hours, in consideration of our neighbours downstairs.
   - Holding the event:
   	- Welcome guests as they arrive
   	- When you're ready to start, welcome everyone to Hackerspace, explain a little about what we do, invite guests to make use of our drinks supply and make contributions. If you are unclear on what to say, perhaps say something like:
@@ -106,14 +106,14 @@ To host an event:
 	  - If no members remain:
   		- Turn off air-conditioning and lights as you leave
 
-### Event Officers
+## Event Officers
 
 - Before adding an event to the calendar, ensure that a specific member has undertaken to host the event:
 	- Don't accept event requests from someone other than the hosting member, even if they say "member X said he would host". Not only is it possible that X didn't undertake to host the event, it's also possible that X isn't clear on what's involved.
-	- Ensure that the host has understood the responsibilities described above and is willing to carry them out. At the very least ensure that they're planning to be present throughout the event plus about a half hour either side.
+	- Ensure that the host has understood the responsibilities described above and is willing to carry them out. At the very least, ensure that they're planning to be present throughout the event, plus about a half hour at the beginning and end of the events.
 	- Unless you personally are willing to host, advise non-member organisers to find a host and to have the host make the request. You are free to decide to host of course, but please don't accept bookings for events with no host and **then** asking the mailing list for a volunteer to host.
-- Err on the side of inclusiveness. A large part of HackerspaceSG's approach from the outset has been to be an inclusive as reasonably possible. If an event is even remotely related to the areas listed above then the request should probably be accepted, subject to calendar availability.
-	- If there are concerns about events that appear to be of questionable legality then discuss it with HackerspaceSG's directors.
+- Err on the side of inclusiveness. A large part of HackerspaceSG's approach from the outset has been to be an inclusive as reasonably possible. If an event is even remotely related to the areas listed above, then the request should probably be accepted, subject to calendar availability.
+	- If there are concerns about events that appear to be of questionable legality, discuss it with HackerspaceSG's directors.
 	- If there are concerns about an event being potentially objectionable, discuss it on the Google Group **before** committing a calendar slot. Until/unless specific guidelines are adopted, please don't decline an event request on the basis of your own personal response to the event being proposed.
 	- (Note to event organisers/hosts who are reading along: this does not mean that event officers are obliged to accept your request unless they can convince you that they shouldn't. HackerspaceSG reserves the right to decline event requests without explanation.)
 - If the organisers have not already created a Facebook event page for the event, offer to create an event on the [HackerspaceSG page](https://www.facebook.com/HackerspaceSG). If they accept, create the event and include the link in the calendar entry.
