@@ -23,12 +23,28 @@ var updateHeader = function(path)
   var class_name = (path == '/') ? 'home' : 'sub-page';
   $('body').removeClass().addClass(class_name);
 }
+var scrollToPosition = function(pos){
+  $('body').animate({scrollTop:pos},200);
+}
+var scrollToElement = function(el){
+  var pos = $(el).offset().top;
+  scrollToPosition(parseInt(pos) - 56);
+}
 var fetchPage = function(path){
   updateHeader(path);
+  var hasCallback = false;
+  if (arguments.length > 1){
+    hasCallback = true;
+    var callback = arguments[1];
+  }
   $('div.content-wrapper').load(path + " div.container", function(){
     formatTimes();
     _gaq.push(['_trackPageview', path]);
-    $('body').animate({scrollTop:0},200);
+    if (hasCallback){
+      callback();
+    } else {
+      scrollToPosition(0);
+    }
   });
   return false;
 }
@@ -48,7 +64,24 @@ $(document).ready(function(){
       return false;
     })
     this.get('/:path', function (req) {
-      fetchPage("/"+req.params['path']);
+      var pathStr = req.location();
+      if (pathStr.indexOf('#') > 0)
+      {
+        var parts = pathStr.split('#');
+        elem = '#' + parts[1];
+        var callback = function(){
+          scrollToElement(elem);
+        }
+        if (parts[0] == window.location.pathname){
+          callback();
+        } else {
+          fetchPage(pathStr, callback);
+        }
+      }
+      else
+      {
+        fetchPage(pathStr);
+      }
       return false;
     })
   })

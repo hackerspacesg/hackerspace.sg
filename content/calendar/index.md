@@ -118,14 +118,14 @@ To host an event:
 	- (Note to event organisers/hosts who are reading along: this does not mean that event officers are obliged to accept your request unless they can convince you that they shouldn't. HackerspaceSG reserves the right to decline event requests without explanation.)
 - If the organisers have not already created a Facebook event page for the event, offer to create an event on the [HackerspaceSG page](https://www.facebook.com/HackerspaceSG). If they accept, create the event and include the link in the calendar entry.
 
-<a name="1">1</a>: "[Hacking](http://www.catb.org/jargon/html/H/hacker.html)" meaning ingenuity or playful cleverness, not criminal activity.
+<a name="1" id="1">1</a>: "[Hacking](http://www.catb.org/jargon/html/H/hacker.html)" meaning ingenuity or playful cleverness, not criminal activity.
 
-<a name="2">2</a>: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
+<a name="2" id="2">2</a>: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
 
-<a name="3">3</a>: We may consider closed events in extraordinary cases, but the answer will almost always be no.
+<a name="3" id="3">3</a>: We may consider closed events in extraordinary cases, but the answer will almost always be no.
 
-<a name="4">4</a>: Please volunteer your undertaking to be host for the event when requesting the booking, rather than putting the events officers in the position of having to press you for it.
+<a name="4" id="4">4</a>: Please volunteer your undertaking to be host for the event when requesting the booking, rather than putting the events officers in the position of having to press you for it.
 
-<a name="5">5</a>: This is particularly about what happens if you're late arriving and attendees start turning up. If you're not willing to make this information public then please reconsider being an event host. TODO: Some members may not be comfortable with this; further discussion on making it possible for members in the space to immediately contact an absent/delayed host may be warranted.
+<a name="5" id="5">5</a>: This is particularly about what happens if you're late arriving and attendees start turning up. If you're not willing to make this information public then please reconsider being an event host. TODO: Some members may not be comfortable with this; further discussion on making it possible for members in the space to immediately contact an absent/delayed host may be warranted.
 
-<a name="6">6</a>: You don't want kittens to die, do you?
+<a name="6" id="6">6</a>: You don't want kittens to die, do you?
