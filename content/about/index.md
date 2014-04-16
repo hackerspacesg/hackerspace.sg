@@ -16,6 +16,10 @@ HSG was Singapore's first co-working space. Since we launched, many more have ap
 
 > Then there’s the uber cool Hackerspace, a cowork space which also plays host to a number of events related to tech, programming, and the like. If words like CSS, Scala and Raspberry Pi (no, not the sweet pastry commonly found on window sills) are familiar, this is probably the place for you to keep an eye out for seminars, workshops and meetups using their user-friendly calendar. &mdash; [TimeOut Singapore](http://www.timeoutsingapore.com/aroundtown/feature/going-beyond-ted-singapores-vibrant-talks-scene) (8 April 2014)
 
+#### November 2013
+
+> &hellip;the community was launched with a commitment of six months membership in 2009, and since then it has not only been a launchpad for events like BarCampSG and GeekcampSG, but has also played host to the Python Platoon, the Ruby Brigade, the PHP Meetup, iOS Dev Scout, CodeAndroid, Hack and Tell, besides others. It has also been a home to successful startups like Viki. &mdash; [e27](http://e27.co/hackerspacesg-seeks-funds-to-open-new-office-in-singapore/) (4 November 2013)
+
 #### March 2013
 
 > The mother of co-working space here is Hackerspace.sg, which paved the way in 2009.
@@ -32,6 +36,12 @@ HSG was Singapore's first co-working space. Since we launched, many more have ap
 >
 >They have a lab/pantry hybrid with a fridge stocked to the brim with beer. There’s a library and a quiet room for escaping the excitement of the main area. The entire hackerspace is community run by about 40 paying members, but they have over 700 members in their Google group. &mdash; [Dangerous Prototypes](http://dangerousprototypes.com/2012/08/10/workshop-video-singapore-sim-lim-square-and-hackerspace-visit/) (10 August 2012)
 
+#### January 2012
+
+> The first of these spaces to emerge is Hackerspace.sg, which was set up as an entirely community funded and supported initiative in 2009. 
+>
+> It is located within the Arab Street area, which contains an eclectic mix of shisha smoking joints, Indian restaurants, carpet merchants, and hip bars. A Hackerspace sign leads visitors through a door and up a staircase, into a cosy place many geeks call home. &mdash; [Tech in Asia](http://www.techinasia.com/why-investors-should-take-a-long-hard-look-at-southeast-asia/) (9 January 2012)
+
 #### May 2011
 
 >DIY enthusiasts are also flocking to Hackerspace, a clubhouse for tinkerers and hackers in a Bussorah Street shophouse.
@@ -45,6 +55,12 @@ HSG was Singapore's first co-working space. Since we launched, many more have ap
 #### October 2009
 
 > Are you passionate about technology? Do you want to turn your idea into a prototype? Are you interested in meeting people with similar interests and curiosity to test new ideas? Chua Ruiwen, Wong Meng Weng, Luther Goh, and Justin Lee talks about a new initiative Hackerspace SG that they have put together that involved all technologists, entrepreneurs, innovators and developers. &mdash; [Tech in Asia](http://www.techinasia.com/co-workers-of-the-world-unite-at-hackerspace-sg/) (16 October 2009)
+
+&nbsp;
+> By day, hackerspace.sg will be a co-working shared office for entrepreneurs and independents. For people who want to get out of the house, but don’t necessarily want to make Starbucks their second home.
+>
+>When night falls, the hackers come. Out of the darkness. Dressed in black. Like vampires. Geeky vampires. Who build robots. Because they have Asperger’s. &mdash; [e27](http://e27.co/what-do-seattle-silicon-valley-berlin-and-cambridge-both-cambridges-have-in-common/) (14 October 2009)
+
 
 ### Coverage on members
 
