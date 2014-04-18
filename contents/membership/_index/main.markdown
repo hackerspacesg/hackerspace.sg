@@ -85,6 +85,10 @@ Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers 
 
 Hackerspace.SG will not be held responsible for any loss or damage of personal belongings.
 
+### Dealing with Old Hardware
+
+Hackerspace.SG implements the [Old Hardware Pattern](/old-hardware/).
+
 ## Organizational Form
 
 Hackerspace.SG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently four directors.
