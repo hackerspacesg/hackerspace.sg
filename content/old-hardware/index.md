@@ -35,6 +35,24 @@ About once a week the maintainer will discard items on this shelf.
 
 # Items Placed in the Pile
 
+## 2014-04-26
+
+![](2014-04-26.jpg)
+
+- 13.3" Macbook Pro A1278, in box
+- Operation Instruction for "A380" remote control plane
+- Unclaimed mail
+	- Loong Jin Chow (1 package)
+	- Fazli Mansor (1 package)
+	- AMS Associates Pte Ltd
+	- Harvest Global Investments Pte Ltd (2)
+	- Launchpad Technologies Pte Ltd (3)
+	- New Geok Kim / Kim New (4) (I suspect this is the previous tennant)
+	- Ubiquinix Systems Pte Ltd
+	- Wee Hur Holidings Ltd.
+	- Sim Lye Huat (5)
+	- W. Ling Gwen / Aimpact Consultancy (2)
+
 ## 2014-04-18
 
 ![](2014-04-18.png)
