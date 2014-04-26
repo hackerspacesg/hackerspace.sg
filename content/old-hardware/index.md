@@ -39,6 +39,7 @@ About once a week the maintainer will discard items on this shelf.
 
 ![](2014-04-26.jpg)
 
+- Assorted Lego
 - 13.3" Macbook Pro A1278, in box
 - Operation Instruction for "A380" remote control plane
 - Unclaimed mail
