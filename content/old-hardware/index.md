@@ -35,6 +35,19 @@ About once a week the maintainer will discard items on this shelf.
 
 # Items Placed in the Pile
 
+## 2014-05-03
+
+![](2014-05-03-01.jpg)
+![](2014-05-03-02.jpg)
+![](2014-05-03-03.jpg)
+
+- iword hand roll up piano
+- Singapore Geek Girls banner and stand
+- assorted plastic bags
+- cigarettes and lighters
+- frog poster
+- spider poster
+
 ## 2014-04-26
 
 ![](2014-04-26.jpg)
