@@ -23,7 +23,8 @@
 	},
 	"license": "MIT",
 	"scripts": {
-  		"test": "make"
+		"test": "make",
+		"start": "punch server"
 	},
 	"engines": {
 		"node": ">=0.10"
