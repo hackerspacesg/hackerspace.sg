@@ -47,7 +47,7 @@ branch code of `057` should display on your internet banking interface.
 Another painless way is to use PayPal to enter into a monthly
 subscription.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="Y8P3EHLJGVLYL">
 <table>
