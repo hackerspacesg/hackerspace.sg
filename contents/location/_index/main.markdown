@@ -8,7 +8,7 @@
 	var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
 	if (iOS) {
 		document.getElementById('maps').innerHTML = "";
-		document.getElementById('maps').innerHTML = '<a href="http://maps.apple.com/?q=HackerspaceSG&ll=1.310393,103.862473"<img src="http://maps.googleapis.com/maps/api/staticmap?zoom=16&amp;size=1200x600&amp;maptype=roadmap&amp;markers=%7C1.3104381856185,103.86247224201&amp;sensor=true"></a>';
+		document.getElementById('maps').innerHTML = '<a href="http://maps.apple.com/?q=344B King George’s Avenue, Singapore 208576"<img src="http://maps.googleapis.com/maps/api/staticmap?zoom=16&amp;size=1200x600&amp;maptype=roadmap&amp;markers=%7C1.3104381856185,103.86247224201&amp;sensor=true"></a>';
 	}
 </script>
 
