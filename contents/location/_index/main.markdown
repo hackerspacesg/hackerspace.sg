@@ -2,7 +2,15 @@
 
 <h2><a href="https://maps.google.com.sg/?q=344B%20King%20George%20Avenue,%20Singapore,%20208576">344B King George&#8217;s Avenue, Singapore 208576</a></h2>
 
-<p><img src="http://maps.googleapis.com/maps/api/staticmap?zoom=16&amp;size=1200x600&amp;maptype=roadmap&amp;markers=%7C1.3104381856185,103.86247224201&amp;sensor=true" /></p>
+<p id='maps'><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.774893372845!2d103.86247299999998!3d1.310392999999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c97c42f525%3A0x26d1643c9443eec1!2sHackerspaceSG!5e0!3m2!1sen!2ssg!4v1400557632249" width="800" height="600" frameborder="0" style="border:0"></iframe></p>
+
+<script>
+	var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
+	if (iOS) {
+		document.getElementById('maps').innerHTML = "";
+		document.getElementById('maps').innerHTML = '<a href="http://maps.apple.com/?q=HackerspaceSG&ll=1.310393,103.862473"<img src="http://maps.googleapis.com/maps/api/staticmap?zoom=16&amp;size=1200x600&amp;maptype=roadmap&amp;markers=%7C1.3104381856185,103.86247224201&amp;sensor=true"></a>';
+	}
+</script>
 
 [Google Street view](https://www.google.com/maps/views/view/111275777733753676700/photo/aap1HsPKpIQAAAAGOpJOlg?gl=sg&heading=310&pitch=59&fovy=75)
 
