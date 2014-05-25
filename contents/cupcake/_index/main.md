@@ -15,11 +15,11 @@ It is a [Makerbot](http://makerbot.com/) [batch 12 Cupcake CNC](http://en.wikipe
 
 ![](/cupcake/power-switch.png)
 - If it's not already connected, connect the USB cable to your computer.
+- Set Machine > Driver to Cupcake Basic.
 - Run ReplicatorG, use Machine > Serial Port to find and select your serial port. You may need to
 	- Unplug and replug the USB cable
 	- Machine > Serial Port > Rescan serial ports
 	- Machine > Serial Port > {whatever}
-- Set Machine > Driver to Cupcake Basic.
 - Click the Connect icon.
 - The bar below the icons should turn green and display "Machine test ready" and the text console at the bottom of the window should display something like the following. Note in particular firmware version 2.4 on **both** the motherboard and the toolhead. If you don't see firmware versions for both boards, or if you see later versions because someone has thoughtfully upgraded to an unsupported version then stop and [get help](http://rolandturner.com/contact).
 
