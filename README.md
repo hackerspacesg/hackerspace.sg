@@ -35,8 +35,10 @@ We use [Punch](https://github.com/laktek/punch/wiki) as our content management s
 
 [node.js](http://nodejs.org/) is required. Punch is installable via the [node.js package manager](https://www.npmjs.org/package/punch):
 
-	sudo npm install -g punch
-	punch s
+```bash
+$ npm test
+$ npm start # this will start the server at http://localhost:9009
+```
 
 No httpd is required!
 
