@@ -35,6 +35,21 @@ About once a week the maintainer will discard items on this shelf.
 
 # Items Placed in the Pile
 
+## 2014-06-02
+
+![](2014-06-02.jpg)
+
+- Hubsan x4 video recording quadcopter
+- 2 * 240V UK-style power outlets
+- A possibly antique camera case
+- A [Panasonic SL-J900](http://catalog2.panasonic.com/webapp/wcs/stores/servlet/PremiumsModelDetail?storeId=11251&catalogId=11008&itemId=63299&catGroupId=11883&modelNo=SL-J900) MP3 CD player and speaker unit
+- Plastic bag containing seeds for a Pet Pet and instructions in Japanese [(Chia Pet?)](http://en.wikipedia.org/wiki/Chia_Pet)
+- Pokemon
+- Go Gopher
+- LeBao USB-powered humidifier
+- Tambourine
+- Blackburn torch (bike light?)
+
 ## 2014-05-03
 
 ![](2014-05-03-01.jpg)
