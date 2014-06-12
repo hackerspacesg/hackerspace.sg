@@ -3,7 +3,7 @@
 ### Meeting
 
 - Opened: 20:30
-- Present:
+- Present: TODO
 
 ### 20:30 Finances
 
@@ -11,7 +11,7 @@
 
 **Resolved**
 
-- 
+- TODO
 
 ### 20:40 Website
 
@@ -19,7 +19,7 @@
 
 **Resolved**
 
-- 
+- TODO
 
 ### 20:50 Market Survey
 
@@ -27,7 +27,7 @@
 
 **Resolved**
 
-- 
+- TODO
 
 ### 21:00 HackerspaceSG Layout, Decor, Tidyness, Cleanliness...
 
@@ -43,7 +43,7 @@
 
 **Resolved**
 
-- 
+- TODO
 
 ### 21:10 Email, LAN, technical infrastructure...
 
@@ -51,13 +51,13 @@
 
 **Resolved**
 
-- 
+- TODO
 
 ### 21:20 Any other business
 
 **Resolved**
 
-- 
+- TODO
 
 ### Meeting
 
