@@ -1,4 +1,4 @@
-## Plenum 2014-05-12 Agenda/Minutes
+## Plenum 2014-06-12 Agenda/Minutes
 
 ### Meeting
 
@@ -11,7 +11,7 @@
 
 **Resolved**
 
--
+- 
 
 ### 20:40 Website
 
@@ -19,7 +19,7 @@
 
 **Resolved**
 
--
+- 
 
 ### 20:50 Market Survey
 
@@ -57,7 +57,7 @@
 
 **Resolved**
 
--
+- 
 
 ### Meeting
 
