@@ -1,6 +1,6 @@
 ## Plenum 2014-06-12 Agenda/Minutes
 
-- Present: Gibson, Nicholas, Will Myers, Luther, LJ, Valentine, Eric Teubert, Claudio, Nigel, Soares, Aizat, Aaron, CJ, Hazwan
+- Present: Gibson, Nicholas, Will Myers, Luther, LJ, Valentine, Eric Teubert, Claudio, Nigel, Soares, Aizat, Aaron, CJ, Hazwan, Roland
 
 ### 20:30 Finances
 
