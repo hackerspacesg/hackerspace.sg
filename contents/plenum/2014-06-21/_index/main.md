@@ -1,8 +1,5 @@
 ## Plenum 2014-06-12 Agenda/Minutes
 
-### Meeting
-
-- Opened: 20:30
 - Present: TODO
 
 ### 20:30 Finances
@@ -59,6 +56,4 @@
 
 - TODO
 
-### Meeting
-
-- Closed: 21:30
+### 21:30 Close
