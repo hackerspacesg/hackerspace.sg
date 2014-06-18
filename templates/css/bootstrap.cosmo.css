@@ -6474,26 +6474,3 @@ a.list-group-item-danger.active:focus {
 .popover {
   color: #333333;
 }
-
-p, blockquote p
-{
-  line-height: 1.5em;
-}
-.membership-tiers
-{
-  margin-top: 1.5em;
-}
-.membership-tiers th
-{
-  text-align: center;
-}
-.membership-tiers-tr-2
-{
-  vertical-align: top;
-}
-.membership-tiers-tr-2 td
-{
-  width: 32%;
-  text-align: center;
-  padding-bottom: 1em;
-}
