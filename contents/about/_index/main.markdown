@@ -126,7 +126,7 @@ HSG was Singapore's first co-working space. Since we launched, many more have ap
 
 > &hellip; I don’t have experience with incubators and accelerators but I do have experience with Hackerspaces. &hellip; They are essentially community-building projects and I’d definitely encourage the formation and creation of small hackerspaces as they possess a buzz and vibrancy.
 > 
->[]&hellip;]
+>[&hellip;]
 >
 >They bring people together in a space to exchange ideas without a profit motive. And with travellers passing through, it also provides a neutral and affordable event space. For instance, you can follow big conferences and then host a seminar or lecture in a hackerspace to air ideas. I invited two Cambodian friends to come down to **Hackerspace.sg** to talk about how Cambodian youth were using technology. &mdash; Preetam Rai, [e27](http://e27.co/asian-entrepreneurs-go-beyond-home-markets-preetam-rai/) (14 May 2014)
 
