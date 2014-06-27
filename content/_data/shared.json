@@ -1,5 +1,5 @@
 {
-	"site-title": "Hackerspace Singapore",
+	"site-title": "HackerspaceSG: the Singapore tech scene's community centre",
 	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a>",
 	"navbar": [
 		{ "label": "Home",       "href": "/" },
