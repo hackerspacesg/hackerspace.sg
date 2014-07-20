@@ -2,11 +2,19 @@
 
 Hackerspace.SG is Singapore's very own Hackerspace. 
 
-There are hundreds of such <a href="http://www.hackerspaces.org/">hackerspaces</a> around the world, where people with common interests in computers, technology, science, digital and electronic art, come together to meet, socialise and collaborate.
+There are hundreds of such [hackerspaces](http://www.hackerspaces.org/) around the world, where people with common interests in computers, technology, science, digital and electronic art, come together to meet, socialise and collaborate.
 
 Built by and for geeks, nerds, inventors, engineers, and entrepreneurs, Hackerspace.SG is the Singapore hacker community's home, living room and laboratory.  Come hang out with the community in the evenings.  Co-work with us during the day.  We also host regular events, meetups, presentations, workshops, and movie nights for the local community.
 
-HSG was Singapore's first co-working space. Since we launched, many more have appeared &ndash; see [E27's list of co-working spaces in Singapore](http://e27.co/surviving-in-the-jungle-of-singapores-co-working-space/).
+HSG was Singapore's first co-working space. Since we launched, many more have appeared &mdash; see [e27's list of co-working spaces in Singapore](http://e27.co/surviving-in-the-jungle-of-singapores-co-working-space/).
+
+## Facilities
+
+- Makerbot [Cupcake CNC 3D printer](/cupcake)
+- Flashforge Creator 3D printer
+- [RIPE Atlas Probe](https://atlas.ripe.net/probes/14603/)
+- [Kitchen](http://hackerspaces.org/wiki/The_Kitchen_Pattern) &mdash; fridge, freezer, dishwasher, microwave and toaster ovens
+- [Shower](http://hackerspaces.org/wiki/The_Shower_Pattern)
 
 ## Press Mentions
 
@@ -355,9 +363,3 @@ Members of the local hacker community have selflessly volunteered their time, en
 The members of Hackerspace.SG acknowledge and appreciate the efforts of the community in helping put the space together. The following list is not exhaustive.
 
 Luther Goh Lu Feng, Justin Lee, Ruiwen Chua, Meng Weng Wong, Michael Cheng, Lakshan Perera, Sayanee Basu, Drenboy
-
-## Facilities
-
-- A Makerbot [Cupcake CNC 3D printer](/cupcake) is available for member use.
-- [RIPE Atlas Probe](https://atlas.ripe.net/probes/14603/)
-- Shower
