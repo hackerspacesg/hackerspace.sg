@@ -207,7 +207,7 @@ Eventually, he hopes, a community of experienced, passionate hackers will be for
 &hellip;  Are you passionate about technology? Do you want to turn your idea into a prototype? Are you interested in meeting people with similar interests and curiosity to test new ideas? Chua Ruiwen, Wong Meng Weng, Luther Goh, and Justin Lee talks about a new initiative **Hackerspace SG** that they have put together that involved all technologists, entrepreneurs, innovators and developers. 
 </blockquote>
 
-&mdash; [Tech in Asia](http://www.techinasia.com/co-workers-of-the-world-unite-at-hackerspace-sg/) (16 October 2009)</blockquote>
+&mdash; [Tech in Asia](http://www.techinasia.com/co-workers-of-the-world-unite-at-hackerspace-sg/) (16 October 2009)
 
 </div>
 
