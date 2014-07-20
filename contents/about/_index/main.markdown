@@ -56,7 +56,6 @@ HSG was Singapore's first co-working space. Since we launched, many more have ap
 &mdash; [The Straits Times, Singapore](http://dawo.me/files/st/2013/06/23.pdf) (pdf) (23 June 2013)
 
 </div>
-
 </div>
 
 <div class="row">
@@ -115,7 +114,6 @@ It is located within the Arab Street area, which contains an eclectic mix of shi
 &mdash; [Tech in Asia](http://www.techinasia.com/why-investors-should-take-a-long-hard-look-at-southeast-asia/) (9 January 2012)
 
 </div>
-
 </div>
 
 <div class="row">
@@ -156,7 +154,6 @@ Since its inception in late 2009, Hackerspace now has a 300-strong mailing list 
 &mdash; [ZDNet](http://www.zdnet.com/developing-a-hacker-culture-of-ideas-innovation-2062204330/) (9 November 2010)
 
 </div>
-
 </div>
 
 <div class="row">
@@ -261,7 +258,6 @@ It will also serve the community’s need for meetup spaces: rather than scroung
 &mdash; [e27](http://e27.co/what-do-seattle-silicon-valley-berlin-and-cambridge-both-cambridges-have-in-common/) (14 October 2009)
 
 </div>
-
 </div>
 
 ### Coverage on members and friends
@@ -302,7 +298,6 @@ During the first four to five months in Singapore, the men hung out at **Hackers
 &mdash; [JFDI.Asia](http://jfdi.asia/2012/01/19/meet-the-jfdi-2012-startups/) (19 January 2012)
 
 </div>
-
 </div>
 
 <div class="row">
@@ -325,7 +320,6 @@ It spurred him to begin writing programs. Years later, hanging out at **Hackersp
 &mdash; [The Straits Times](http://www.sim.edu.sg/News/NewsClippings/Documents/090311%20ST%20DL%20Four%20of%20tech's%20best.pdf) (pdf) (9 March 2011)
 
 </div>
-
 </div>
 
 ### What people are saying
