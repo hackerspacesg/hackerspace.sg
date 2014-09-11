@@ -9,7 +9,7 @@ function(err, data) {
 			if (ev.start && ! isNaN(ev.start) && (ev.start > Date.now() - 60 * 60 * 1000)) {
 				var e = {
 					"Name": ev.summary,
-					"When": ev.start.getTime()
+					"When": ev.start.toISOString()
 				}
 
 				if (ev.url && ev.url.indexOf("http") == 0) {
