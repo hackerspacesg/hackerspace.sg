@@ -8,8 +8,7 @@
         <li>
           {{#URL}}<h4><a href="{{URL}}">{{Name}}</a></h4>{{/URL}}
           {{^URL}}<h4>{{Name}}</h4>{{/URL}}
-          <time dateTime="{{#datetime}}{{When}}{{/datetime}}"
-           title="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
+          <time dateTime="{{When}}" title="{{When}}">{{When}}</time>
         </li>
       {{/events}}
     </ul>
