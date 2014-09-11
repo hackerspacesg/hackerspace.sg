@@ -7,7 +7,7 @@
 <script>
 	var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
 	if (iOS) {
-		document.getElementById('maps').innerHTML = "";
+		console.log("IOS device detected, serving you a less heavy map");
 		document.getElementById('maps').innerHTML = '<a href="http://maps.apple.com/?q=344B King George’s Avenue, Singapore 208576"><img src="http://maps.googleapis.com/maps/api/staticmap?zoom=16&amp;size=1200x600&amp;maptype=roadmap&amp;markers=%7C1.3104381856185,103.86247224201&amp;sensor=true"></a>';
 	}
 </script>
@@ -37,6 +37,7 @@ Please proceed up to the 3rd floor.
 * [Swee Choon Tim Sum](https://foursquare.com/v/swee-choon-tim-sum-restaurant-%E7%91%9E%E6%98%A5%E9%BB%9E%E5%BF%83%E6%8B%89%E9%9D%A2%E5%B0%8F%E7%B1%A0%E5%8C%85/4bb610c81344b71318e99c04) and the satay shop next door
 * [Hill Street Tai Hwa Pork Noodle](https://foursquare.com/v/hill-street-tai-hwa-pork-noodle-%E5%90%8A%E6%A1%A5%E5%A4%B4%E5%A4%A7%E5%8D%8E%E7%8C%AA%E8%82%89%E7%B2%BF%E6%9D%A1-singapore/4b80b8b3f964a5205a8830e3) and [Happy Chef Western Food](https://foursquare.com/v/happy-chef-western-food/4bc00eec74a9a5937ea7cff6), on the other side of Lavender MRT
 * [Sungei Road Laksa](https://foursquare.com/v/sungei-road-laksa-%E7%BB%93%E9%9C%9C%E6%A1%A5%E5%8F%BB%E6%B2%99/4c19e647834e2d7f94102b80) near Syed Alwi Road
+* [Pizza](http://ieatishootipost.sg/crosta-pizza-restaurant-quality-pizza-11/)
 
 ### Fast food
 * [Wendy's](https://foursquare.com/v/wendys/4dae4a77a86e29d01a41d7ac) at Lavender MRT
@@ -84,7 +85,7 @@ There is another one at Lavender MRT, outside MRT station entrance A, near the
 taxi stand.
 
 Postage can be bought at the SAM machine at Lavender MRT on the concourse
-level, near the DBS ATM. 
+level, near the DBS ATM.
 
 Closest post office locations:
 1. [Crawford](http://www.street-directory.com/singpost/singpost.cgi?x=373521.5390&y=144085.8737&level=7&star=1&categories=POL&name=Crawford&address_display=Blk%2015%20Beach%20Road%20@01-4685%20|Singapore&opr_hour_display=Mon%20-%20Fri%208.30%20am%20-%205.00%20pm%20|Sat%208.30%20am%20-%201.00%20pm%20|Sun/P.Hol%20Closed&newpostalcode2=190015&phone=&remit=&post=#switchbar), Beach Road, near the Army Market and Golden Mile Food Centre.
@@ -108,7 +109,7 @@ Road](https://maps.google.com.sg/maps?q=44+Horne+Road&hl=en&z=17).
 
 [Jalan Besar Swimming
 Complex](http://www.singaporeswimming.com/pools/jalan-besar-swimming-pool/) is
-next to the North Entrance of the Jalan Besar Stadium, less than five minutes' walk away. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends. 
+next to the North Entrance of the Jalan Besar Stadium, less than five minutes' walk away. Admission for adults is SGD 1.00 on weekdays and SGD 1.30 on weekends.
 
 The swimming complex is closed when it rains. Call <a href="tel:+6562939058">62939058</a> in advance to ask if they are open. This saves you 10 minutes in case it is closed as a precaution for lightning strikes.
 
