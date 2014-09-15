@@ -5,7 +5,7 @@
 All hackers in or connected to Singapore are welcome to join. You don't need to
 be a paid member of HSG. This is the best way to contact the HSG community.
 
-# <abbr title="Inter Relay Chat">IRC</abbr>
+# <abbr title="Internet Relay Chat">IRC</abbr>
 
 <irc://irc.freenode.net/hackerspacesg> or <http://hackerspace.sg/chat/>
 
