@@ -1,10 +1,13 @@
-# IRC / Scrollback
+# Mailing list
 
-<irc://irc.freenode.net/hackerspacesg>
+<https://groups.google.com/forum/#!forum/hackerspacesg> &dash; all members **should** join!
 
-or
+All hackers in or connected to Singapore are welcome to join. You don't need to
+be a paid member of HSG. This is the best way to contact the HSG community.
 
-<http://scrollback.io/hackerspacesg/>
+# <abbr title="Inter Relay Chat">IRC</abbr>
+
+<irc://irc.freenode.net/hackerspacesg> or <http://hackerspace.sg/chat/>
 
 # Facebook
 
@@ -23,12 +26,6 @@ If you are a news organization, please don't bother asking for permission to use
 # Youtube
 
 <http://www.youtube.com/user/hackerspacesg>
-
-# Mailing list
-
-<https://groups.google.com/forum/#!forum/hackerspacesg>
-
-All hackers in or connected to Singapore are welcome to join. You don't need to be a paid member of HSG. This is the best way to contact the HSG community.
 
 # Twitter
 
