@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://hackerspace.sg/</loc>
+	</url>
+	<url>
+		<loc>http://hackerspace.sg/calendar/</loc>
+	</url>
+	<url>
+		<loc>http://hackerspace.sg/connect/</loc>
+	</url>
+	<url>
+		<loc>http://hackerspace.sg/location/</loc>
+	</url>
+	<url>
+		<loc>http://hackerspace.sg/membership/</loc>
+	</url>
+	<url>
+		<loc>http://hackerspace.sg/about/</loc>
+	</url>
+	<url>
+		<loc>http://hackerspace.sg/faq/</loc>
+	</url>
+</urlset>
