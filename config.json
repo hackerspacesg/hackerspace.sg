@@ -11,5 +11,12 @@
 		"generator_hooks": {
 			"htaccess": "./bin/htaccess.js"
 		}
+	},
+
+	"bundles" : {
+		"/all.css" : [
+			"/css/styles.less",
+			"/css/bootstrap.cosmo.css"
+		]
 	}
 }
