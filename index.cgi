@@ -1,4 +1,5 @@
 #!/bin/sh
+# http://punch-hook.beta.hackerspace.sg/
 
 POST=$(</dev/stdin)
 exec 2>&1
@@ -11,7 +12,7 @@ END
 umask 002
 git fetch origin
 git reset --hard origin/master
-make
+make deploy
 
 # Azure doesn't allow email
-test "$POST" && echo $POST | sed -n '/^payload=/s///p' | node bin/pretty-print-json.js | mail -s "HSG update" hendry
+# test "$POST" && echo $POST | sed -n '/^payload=/s///p' | node bin/pretty-print-json.js | mail -s "HSG update" hendry
