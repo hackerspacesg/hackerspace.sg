@@ -1,4 +1,4 @@
-# Hackerspace.SG Website [![Build Status](https://travis-ci.org/notthetup/hackerspace.sg.png)](https://travis-ci.org/notthetup/hackerspace.sg)
+# Hackerspace.SG Website [![Build Status](https://travis-ci.org/hackerspacesg/hackerspace.sg.png)](https://travis-ci.org/hackerspacesg/hackerspace.sg)
 
 >Hackerspace.SG is Singapore's very own Hackerspace. 
 >
