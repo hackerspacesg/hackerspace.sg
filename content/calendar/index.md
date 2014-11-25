@@ -4,7 +4,7 @@
 
 If you wish to host an event at Hackerspace.SG, see [the section on Hosting Events below](#hosting-events).
 
-<iframe src=" https://www.google.com/calendar/embed?height=650&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mengwong%40hackerspace.sg&amp;color=%232952A3&amp;ctz=Asia%2FSingapore" style=" border-width:0 " width="900" height="650" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?height=650&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mengwong%40hackerspace.sg&amp;color=%232952A3&amp;ctz=Asia%2FSingapore" style=" border-width:0 " width="900" height="650" frameborder="0" scrolling="no"></iframe>
 
 ## Rojak calendar
 
