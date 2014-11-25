@@ -1,7 +1,7 @@
 {
 	"template_dir": "templates",
 	"content_dir": "contents",
-	"output_dir": "output",
+	"output_dir": "output-new",
 
 	"server": {
 		"port": 9009

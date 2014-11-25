@@ -8,7 +8,7 @@ module.exports = {
 
 		// Empty path means it's the last thing it does
 		if (!path) {
-			fs.createReadStream('htaccess').pipe(fs.createWriteStream('output/.htaccess'));
+			fs.createReadStream('htaccess').pipe(fs.createWriteStream('output-new/.htaccess'));
 		}
 
 		return callback();
