@@ -3,11 +3,11 @@ all:
 	node bin/newevents.js
 	punch g
 
-        # atomically replace output symlink
+	# atomically replace output symlink
 	ln -fsT output-new output-lnk
 	mv -T output-lnk output
 
-        # update output-current
+	# update output-current
 	rsync --delete -a output-new/ output-current/
 
 	# atomically replace output symlink
