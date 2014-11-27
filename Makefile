@@ -8,7 +8,7 @@ all:
 	mv -T output-lnk output
 
 	# update output-current
-	rsync --delete -a output-new/ output-current/
+	rsync --delete -a --no-times output-new/ output-current/
 
 	# atomically replace output symlink
 	ln -fsT output-current output-lnk
