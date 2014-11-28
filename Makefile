@@ -5,12 +5,13 @@ all:
 	npm install
 	node bin/newevents.js
 	punch g
-	mv output $(newout)
-	ln -sfT $(newout) www
-	test -d $(oldout) && rm -rf $(oldout)
+	mv output "$(newout)"
+	ln -sf "$(newout)" "lnk-$(newout)"
+	mv -T "lnk-$(newout)" www
+	rm -rf "$(oldout)"
 
 clean:
-	rm -rf output* www
+	rm -rf www output*
 
 deploy: all
 	# Publishing to http://hackerspace.sg.s3-website-ap-southeast-1.amazonaws.com/
