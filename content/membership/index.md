@@ -59,7 +59,7 @@ subscription.
 	<option value="Hotdesk Regular">Hotdesk Regular : $128.00 SGD - monthly</option>
 	<option value="Youth/NSF">Youth/NSF : $64.00 SGD - monthly</option>
 	<option value="Advocate">Advocate : $32.00 SGD - monthly</option>
-	<!-- <option value="Backer">Backer : $16.00 SGD - monthly</option> -->
+	<option value="Backer">Backer : $16.00 SGD - monthly</option>
 	<!-- <option value="Friend">Friend : $8.00 SGD - monthly</option> -->
 </select> </td></tr>
 </table>
