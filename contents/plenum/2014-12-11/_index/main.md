@@ -1,10 +1,13 @@
 ## Plenum 2014-12-11 Agenda/Minutes
 
+  N.B. This plenum will not happen in December, most likely in January.
+
 - Present: TODO
 
 ### 20:30 Finances
 
-- TODO
+- TODO (What's the plan?)
+- Concern by Claudio: Enforcement of membership payments/financial transparency ("There seems to be no system in place to make sure people actually pay.")
 
 **Resolved**
 
