@@ -1,12 +1,11 @@
-## Plenum 2014-12-11 Agenda/Minutes
-
-  N.B. This plenum will not happen in December, most likely in January.
+## Plenum 2015-01-15 Agenda/Minutes
 
 - Present: TODO
 
 ### 20:30 Finances
 
-- TODO (What's the plan?)
+- Luther: overall status and plan
+- Roland: status of discussion with Kolibri
 - Concern by Claudio: Enforcement of membership payments/financial transparency ("There seems to be no system in place to make sure people actually pay.")
 
 **Resolved**
