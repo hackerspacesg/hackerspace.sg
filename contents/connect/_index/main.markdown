@@ -31,7 +31,7 @@ An alternative discussion forum for hackers who are more inclined to be on Faceb
 
 <a href="http://www.flickr.com/search/?q=hackerspacesg+OR+hackerspace.sg&m=tags&ss=0&ct=0&mt=all&w=all&adv=1">View Archives</a>
 
-If you are a news organisation, permission is granted under either Fair Use or [Creative Commons](http://creativecommons.org/licenses/) to be used in your articles, wherever it is applicable. All we ask for is an [email](#email-hsg), alerting us to the articles you have published.
+Photos uploaded on Flickr might not be owned by HackerspaceSG. If you are a news organisation, there is a [Set Of Principles In Fair Use For Journalism](http://www.cmsimpact.org/journalism) for your consideration in deciding which materials to use. An [email](#email-hsg) alerting us to your articles would be nice, but is not mandatory.
 
 # Youtube
 
