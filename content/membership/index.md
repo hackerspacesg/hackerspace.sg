@@ -82,9 +82,27 @@ Members are invited to leave their stuff at the Hackerspace, with the understand
 
 Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Resident tier.) Please be considerate to fellow members and guests.
 
-### Locker Rental
+### Membership Addons
 
-Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are $15 per month, small lockers are $10 per month, and tiny lockers are $6 per month. Please email <membership@hackerspace.sg> for more details.
+Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are SGD15 per month, small lockers are SGD10 per month, and tiny lockers are SGD7.50 per month. 
+
+Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="Y8P3EHLJGVLYL">
+<table>
+<tr><td><input type="hidden" name="on0" value="Addon subscriptions">Addon subscriptions</td></tr><tr><td><select name="os0">
+	<option value="Address rental">Address rental : $10.00 SGD - monthly</option>
+	<option value="Big locker">Big locker : $15.00 SGD - monthly</option>
+	<option value="Small locker">Small locker : $10.00 SGD - monthly</option>
+	<option value="Tiny locker">Tiny locker : $7.50 SGD - monthly</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="SGD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 ### Disclaimer of Responsibility
 
