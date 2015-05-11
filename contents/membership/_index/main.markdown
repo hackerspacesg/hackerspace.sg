@@ -51,21 +51,20 @@ subscription.
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="3PFMZ99CUZ7HU">
 <table>
-<tr><td><input type="hidden" name="on0" value="HackerspaceSG monthly membership">HackerspaceSG monthly membership</td></tr><tr><td><select name="os0">
-	<!-- <option value="Sponsor">Sponsor : $2,048.00 SGD - monthly</option> -->
-	<!-- <option value="Patron">Patron : $1,024.00 SGD - monthly</option> -->
-	<option value="Resident">Resident : $512.00 SGD - monthly</option>
-	<option value="Hotdesk Priority">Hotdesk Priority : $256.00 SGD - monthly</option>
-	<option value="Hotdesk Regular">Hotdesk Regular : $128.00 SGD - monthly</option>
-	<option value="Youth/NSF">Youth/NSF : $64.00 SGD - monthly</option>
-	<option value="Advocate">Advocate : $32.00 SGD - monthly</option>
-	<option value="Backer">Backer : $16.00 SGD - monthly</option>
-	<!-- <option value="Friend">Friend : $8.00 SGD - monthly</option> -->
+<tr><td><input type="hidden" name="on0" value="HackerspaceSG monthly membership">HackerspaceSG <strong>monthly</strong> membership</td></tr><tr><td><select name="os0">
+	<!-- <option value="Sponsor">Sponsor : $2,048.00 SGD</option> -->
+	<!-- <option value="Patron">Patron : $1,024.00 SGD</option> -->
+	<option value="Resident">Resident : $512.00 SGD</option>
+	<option value="Hotdesk Priority">Hotdesk Priority : $256.00 SGD</option>
+	<option value="Hotdesk Regular">Hotdesk Regular : $128.00 SGD</option>
+	<option value="Youth/NSF">Youth/NSF : $64.00 SGD</option>
+	<option value="Advocate">Advocate : $32.00 SGD</option>
+	<option value="Backer">Backer : $16.00 SGD</option>
+	<!-- <option value="Friend">Friend : $8.00 SGD</option> -->
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="SGD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal Ð The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" name="submit" alt="PayPal Ð The safer, easier way to pay online.">
 </form>
 
 We reserve the right to reject membership applications for any reason.
@@ -92,16 +91,15 @@ Address rental for members' companies are at SGD 10 per month. Please email <mem
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="Y8P3EHLJGVLYL">
 <table>
-<tr><td><input type="hidden" name="on0" value="Addon subscriptions">Addon subscriptions</td></tr><tr><td><select name="os0">
-	<option value="Address rental">Address rental : $10.00 SGD - monthly</option>
-	<option value="Big locker">Big locker : $15.00 SGD - monthly</option>
-	<option value="Small locker">Small locker : $10.00 SGD - monthly</option>
-	<option value="Tiny locker">Tiny locker : $7.50 SGD - monthly</option>
+<tr><td><input type="hidden" name="on0" value="Addon subscriptions"><strong>Monthly</strong> addon subscriptions</td></tr><tr><td><select name="os0">
+	<option value="Address rental">Address rental : $10.00 SGD</option>
+	<option value="Big locker">Big locker : $15.00 SGD</option>
+	<option value="Small locker">Small locker : $10.00 SGD</option>
+	<option value="Tiny locker">Tiny locker : $7.50 SGD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="SGD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
 </form>
 
 ### Disclaimer of Responsibility
