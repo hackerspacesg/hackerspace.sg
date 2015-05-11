@@ -4,7 +4,7 @@ oldout:= $(shell readlink www)
 all:
 	npm install
 	node bin/newevents.js
-	punch g
+	$(shell npm bin)/punch g
 	mv output "$(newout)"
 	ln -sf "$(newout)" "lnk-$(newout)"
 	mv -T "lnk-$(newout)" www
