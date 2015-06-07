@@ -15,25 +15,25 @@
 ## List of available boards
 
 ### Arduinos: 
-1. [Teensy v3.1](https://www.pjrc.com/store/teensy31.html) (Arduino-compatible ARM board) - MJG
-2. [Arduino Micro](http://www.arduino.cc/en/Main/ArduinoBoardMicro) (breadboardable Arduino with AtMega 328) - MJG
-3. [Diavolino](http://www.evilmadscientist.com/2010/diavolino/) (standard Arduino with AtMega 328, shield compatible with Uno) - MJG
+*  [Teensy v3.1](https://www.pjrc.com/store/teensy-.html) (Arduino-compatible ARM board) - MJG
+*  [Arduino Micro](http://www.arduino.cc/en/Main/ArduinoBoardMicro) (breadboardable Arduino with AtMega -- - MJG
+*  [Diavolino](http://www.evilmadscientist.com/--/diavolino/) (standard Arduino with AtMega -- shield compatible with Uno) - MJG
 
 #### ARM-based with Linux
-4. [RasPi B rev2]() - MJG
-5. Olinuxino Lime (RasPi clone with AllWinner A10) - MJG
+*  [RasPi B rev2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) - MJG
+*  Olinuxino [Lime](https://www.olimex.com/wiki/A10-OLinuXino-LIME) (RasPi clone with AllWinner A10, expected to be available *as long as there is demand) - MJG
 
-##### [Fernvale platform](http://www.kosagi.com/w/index.php?title=Fernvale_Main_Page)
-6. MediaTek 6260 SmartWatch - MJG
-7. MediaTek 6260 FernVale *Blade* board - MJG
+##### [*Fernvale* platform](http://www.kosagi.com/w/index.php?title=Fernvale_Main_Page)
+*  MediaTek 6260 SmartWatch from [FitBo](http://fitbo.en.alibaba.com/) - MJG
+*  MediaTek 6260 Fernvale [Frond](http://www.kosagi.com/w/index.php?title=Fernvale_Main_Page#Fernvale_Frond) board - MJG
 
 #### Other ARM-based kits (non-Arduino)
-8. STM32F04 Discovery with current measurement daughterboard. - MJG
+*  [STM32F04 Discovery](http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/PF252419) with current measurement daughterboard. - MJG
 
 #### FPGAs: 
-9. [Papillio](http://papilio.cc/) 250K FPGA with LogicStart wing (Xilinx ISE SDK works 
+*  [Papillio](http://papilio.cc/) 250K FPGA with LogicStart wing (Xilinx ISE SDK works 
 beautifully on any Linux.) - MJG
-10. Lattice Micro IceStick FPGA (Diamond SDK seems to need old RedHat to 
+*  Lattice Micro [IceStick](http://www.latticesemi.com/icestick) FPGA (Diamond SDK seems to need old RedHat to 
 work) - MJG
-11. Altera Cyclone IV Dev Board - MJG
+*  Altera Cyclone IV Dev Board - MJG
 
