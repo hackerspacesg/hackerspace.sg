@@ -15,16 +15,15 @@
 ## List of available boards
 
 ### Arduinos: 
-1. Teensy v3.1 (Arduino-compatible ARM board) - MJG
-https://www.pjrc.com/store/teensy31.html 
-2. Arduino Micro (breadboardable Arduino with AtMega 328) - MJG
-3. Diavolino (standard Arduino with AtMega 328, shield compatible with Uno) - MJG
+1. [Teensy v3.1](https://www.pjrc.com/store/teensy31.html) (Arduino-compatible ARM board) - MJG
+2. [Arduino Micro](http://www.arduino.cc/en/Main/ArduinoBoardMicro) (breadboardable Arduino with AtMega 328) - MJG
+3. [Diavolino](http://www.evilmadscientist.com/2010/diavolino/) (standard Arduino with AtMega 328, shield compatible with Uno) - MJG
 
 #### ARM-based with Linux
-4. RasPi B rev2 - MJG
+4. [RasPi B rev2]() - MJG
 5. Olinuxino Lime (RasPi clone with AllWinner A10) - MJG
 
-##### Fernvale platform
+##### [Fernvale platform](http://www.kosagi.com/w/index.php?title=Fernvale_Main_Page)
 6. MediaTek 6260 SmartWatch - MJG
 7. MediaTek 6260 FernVale *Blade* board - MJG
 
@@ -32,7 +31,7 @@ https://www.pjrc.com/store/teensy31.html
 8. STM32F04 Discovery with current measurement daughterboard. - MJG
 
 #### FPGAs: 
-9. Papillio 250K FPGA with LogicStart wing (Xilinx ISE SDK works 
+9. [Papillio](http://papilio.cc/) 250K FPGA with LogicStart wing (Xilinx ISE SDK works 
 beautifully on any Linux.) - MJG
 10. Lattice Micro IceStick FPGA (Diamond SDK seems to need old RedHat to 
 work) - MJG
