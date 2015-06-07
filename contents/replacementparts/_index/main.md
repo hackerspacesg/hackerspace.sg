@@ -1,5 +1,7 @@
 ## Replacement Parts 3D Printing
 
+![Thor's BAN Hammer](/imgs/thor-hammer-ban.jpg)
+
 ### Broke something? Need it printed?
 Go to our friendly neighbourhood Hackerspace and Bob will print it for you (for a nice exchange).
 
@@ -10,4 +12,6 @@ No problem at all! Our printer comes with a 3D engineer, it works most of the ti
 ### About the Printer
 
 It is a [FlashForge Creator](http://www.ff3dp.com/). It comes with a 3D engineer.
+
+![Thor's BAN Hammer on shit](/imgs/thor-hammer-ban-on-shit.jpg)
 
