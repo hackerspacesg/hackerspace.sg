@@ -120,9 +120,9 @@ To host an event:
 
 <a name="1" id="1">1</a>: "[Hacking](http://www.catb.org/jargon/html/H/hacker.html)" meaning ingenuity or playful cleverness, not criminal activity.
 
-<a name="2" id="2">2</a>: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
+<a name="2" id="2">2</a>: We may consider closed events in extraordinary cases, but the answer will almost always be no.
 
-<a name="3" id="3">3</a>: We may consider closed events in extraordinary cases, but the answer will almost always be no.
+<a name="3" id="3">3</a>: "Within the law" should go without saying, but occasionally people are confused about the term "hacker".
 
 <a name="4" id="4">4</a>: Please volunteer your undertaking to be host for the event when requesting the booking, rather than putting the events officers in the position of having to press you for it.
 
