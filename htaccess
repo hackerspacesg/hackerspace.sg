@@ -1,11 +1,11 @@
-Redirect /calendar/hackerspacesg-events http://hackerspace.sg/calendar
+Redirect /calendar/hackerspacesg-events https://hackerspace.sg/calendar
 Redirect gone /calendar/geektechdevdesign-events
-Redirect /calendar/rojak-calendar http://hackerspace.sg/calendar
-Redirect /readme-txt/membership/ http://hackerspace.sg/membership
+Redirect /calendar/rojak-calendar https://hackerspace.sg/calendar
+Redirect /readme-txt/membership/ https://hackerspace.sg/membership
 Redirect gone /intertubes/
-Redirect /readme-txt/donations/ http://hackerspace.sg/membership
-Redirect /about-us/ http://hackerspace.sg/about
-Redirect /social/location/ http://hackerspace.sg/location
+Redirect /readme-txt/donations/ https://hackerspace.sg/membership
+Redirect /about-us/ https://hackerspace.sg/about
+Redirect /social/location/ https://hackerspace.sg/location
 Redirect /chat https://scrollback.io/hackerspacesg/
 Redirect gone /feed
 Redirect gone /rss.xml

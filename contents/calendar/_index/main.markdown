@@ -52,7 +52,7 @@ To arrange an event:
 	- A good way to do this is usually to post to the [HackerspaceSG Google Group](https://groups.google.com/forum/#!forum/hackerspacesg).
 	- Note that it is not enough to find a member who acknowledges that your event is a good idea; you will need them to agree explicitly towards hosting your event and making the booking request with the event officers.
 	- Wait until your host confirms that they've booked a calendar slot before you invite your guests or announce HackerspaceSG as a venue.
-	- If you are planning to host events on a regular basis, please consider [becoming a member](http://hackerspace.sg/membership/).
+	- If you are planning to host events on a regular basis, please consider [becoming a member](https://hackerspace.sg/membership/).
 
 ## Hosting Member
 
@@ -66,7 +66,7 @@ Please don't shirk these responsibilities. Putting other members in the situatio
 
 To host an event:
 
-- Locate a free spot on the [calendar](http://hackerspace.sg/calendar/) that is at least a week - preferably somewhat more than a week - from now
+- Locate a free spot on the [calendar](https://hackerspace.sg/calendar/) that is at least a week - preferably somewhat more than a week - from now
 - Email the [events officers](mailto:events@hackerspace.sg) requesting the slot:
 	1. Provide a title for the event
 	1. Provide a preferred date and time (if any) and intended duration of the event
