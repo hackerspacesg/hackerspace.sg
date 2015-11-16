@@ -13,8 +13,8 @@ HSG was Singapore's first co-working space. Since we launched, many more have ap
 - Makerbot [Cupcake CNC 3D printer](/cupcake)
 - Flashforge Creator 3D printer
 - [RIPE Atlas Probe](https://atlas.ripe.net/probes/14603/)
-- [Kitchen](http://hackerspaces.org/wiki/The_Kitchen_Pattern) &mdash; fridge, freezer, dishwasher, microwave and toaster ovens
-- [Shower](http://hackerspaces.org/wiki/The_Shower_Pattern)
+- [Kitchen](https://hackerspaces.org/wiki/The_Kitchen_Pattern) &mdash; fridge, freezer, dishwasher, microwave and toaster ovens
+- [Shower](https://hackerspaces.org/wiki/The_Shower_Pattern)
 - [Development boards bank](/DevBoards)
 
 ## Press Mentions
