@@ -6,9 +6,15 @@ Join the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). 
 
 You may also drop by any time members are around, especially when an [event](/calendar) is happening.
 
-## I'd like to visit Hackerspace. Do I need to make an appointment?
+## What are your opening hours?
 
-No. Just drop by. There are usually people around between noon and midnight.
+24/7. The space will remain open for as long as there is a member physically present to oversee the space.
+
+## I'd like to visit Hackerspace.SG. Do I need to make an appointment?
+
+No. Just visit us any time between the following timings, subjected to any member's physical presence:
+Monday - Friday: 10AM - 10PM
+Weekends & public holidays: 2PM - 10PM
 
 If you want to get your time and money's worth, come when an event is taking place. Check the [calendar](/calendar).
 
