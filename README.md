@@ -1,5 +1,7 @@
 # Hackerspace.SG Website [![Build Status](https://travis-ci.org/hackerspacesg/hackerspace.sg.png)](https://travis-ci.org/hackerspacesg/hackerspace.sg)
 
+[![Join the chat at https://gitter.im/hackerspacesg/hackerspace.sg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hackerspacesg/hackerspace.sg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 >Hackerspace.SG is Singapore's very own Hackerspace. 
 >
 >There are hundreds of such [hackerspaces](http://www.hackerspaces.org/) around the world, where people with common interests in computers, technology, science, digital and electronic art, come together to meet, socialise and collaborate.
