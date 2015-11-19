@@ -12,7 +12,7 @@ You may also drop by any time members are around, especially when an [event](/ca
 
 ## I'd like to visit Hackerspace.SG. Do I need to make an appointment?
 
-No. Just visit us any time between the following timings, subjected to any member's physical presence:
+No. Just visit us any time between the following timings, subjected to any member's availability:
 Monday - Friday: 10AM - 10PM
 Weekends & public holidays: 2PM - 10PM
 
