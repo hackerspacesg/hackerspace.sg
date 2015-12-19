@@ -73,6 +73,7 @@
 				</ul>
 			</div>
 		</div>
+		<div align="center"><p>(Tickets aren't required if you're not joining us for dinner — just drop by!)</p></div>
 		<h2>Dinner</h2>
 		<p>A dinner ticket buys you access to our wildly popular dinner, where Meng will be cooking up his famous Meng's Meat.</p>
 		<div class="menu">
@@ -93,13 +94,13 @@
 					<option value="" disabled>Early bird tickets</option>
 					<option value="1 early-bird ticket">1 early-bird ticket — $30.00 SGD</option>
 					<option value="2 early-bird tickets">2 early-bird tickets — $60.00 SGD</option>
-					<option value="1 early-bird ticket (halal)">1 early-bird ticket (halal) — $30.00 SGD</option>
-					<option value="1 early-bird ticket (vegetarian)">1 early-bird ticket (vegetarian) — $30.00 SGD</option>
+					<option value="1 x early-bird ticket (halal)">1 early-bird ticket (halal) — $30.00 SGD</option>
+					<option value="1 x early-bird ticket (vegetarian)">1 early-bird ticket (vegetarian) — $30.00 SGD</option>
 					<option value="" disabled>Normal tickets (from 24 Dec 2015)</option>
 					<option value="1 normal ticket" disabled>1 normal ticket — $50.00 SGD</option>
 					<option value="2 normal tickets" disabled>2 normal tickets — $100.00 SGD</option>
-					<option value="1 normal ticket (halal)" disabled>1 normal ticket (halal) — $30.00 SGD</option>
-					<option value="1 normal ticket (vegetarian)" disabled>1 normal ticket (vegetarian) — $30.00 SGD</option>
+					<option value="1 x normal ticket (halal)" disabled>1 normal ticket (halal) — $30.00 SGD</option>
+					<option value="1 x normal ticket (vegetarian)" disabled>1 normal ticket (vegetarian) — $30.00 SGD</option>
 				</select> </td></tr>
 			</table>
 			<input type="hidden" name="currency_code" value="SGD">
