@@ -84,7 +84,7 @@
 		</div>
 		<p>Please note that guests with halal and vegetarian dietary preferences will be served different menus. You're welcome to BYOB (bring your own bottle). Dress code: casual.</p>
 		<p>All net proceeds from this event will be used to support HackerspaceSG in its future activities.</p>
-		<p>Early bird tickets are available until 23 December 2015, 11:59pm.</p>
+		<p>Early bird tickets are available until 25 December 2015, 11:59pm.</p>
 		<div class="payment">
 			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 				<input type="hidden" name="cmd" value="_s-xclick">
@@ -96,11 +96,11 @@
 					<option value="2 early-bird tickets">2 early-bird tickets — $60.00 SGD</option>
 					<option value="1 x early-bird ticket (halal)">1 early-bird ticket (halal) — $30.00 SGD</option>
 					<option value="1 x early-bird ticket (vegetarian)">1 early-bird ticket (vegetarian) — $30.00 SGD</option>
-					<option value="" disabled>Normal tickets (from 24 Dec 2015)</option>
+					<option value="" disabled>Normal tickets (from 26 Dec 2015)</option>
 					<option value="1 normal ticket" disabled>1 normal ticket — $50.00 SGD</option>
 					<option value="2 normal tickets" disabled>2 normal tickets — $100.00 SGD</option>
-					<option value="1 x normal ticket (halal)" disabled>1 normal ticket (halal) — $30.00 SGD</option>
-					<option value="1 x normal ticket (vegetarian)" disabled>1 normal ticket (vegetarian) — $30.00 SGD</option>
+					<option value="1 x normal ticket (halal)" disabled>1 normal ticket (halal) — $50.00 SGD</option>
+					<option value="1 x normal ticket (vegetarian)" disabled>1 normal ticket (vegetarian) — $50.00 SGD</option>
 				</select> </td></tr>
 			</table>
 			<input type="hidden" name="currency_code" value="SGD">
