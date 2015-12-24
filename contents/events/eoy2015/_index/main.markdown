@@ -56,7 +56,7 @@
 	<div class="col-md-2"></div>
 	<div class="col-md-8">
 		<h1>End-of-Year Party</h1>
-		<h2>Saturday, 26 November 2015</h2>
+		<h2>Saturday, 26 December 2015</h2>
 		<h3>7pm till late</h3>
 
 		<p>**HackerspaceSG**, the Singapore tech scene's community centre, is having its end-of-year party on **26 December 2015**. Let's celebrate!</p>
