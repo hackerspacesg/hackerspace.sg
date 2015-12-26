@@ -94,15 +94,15 @@
 					<table>
 						<tr><td><input type="hidden" name="on0" value="Ticket types">Get your tickets here!</td></tr><tr><td><select name="os0">
 						<option value="" disabled>Early bird tickets</option>
-						<option value="1 early-bird ticket">1 early-bird ticket — $30.00 SGD</option>
-						<option value="2 early-bird tickets">2 early-bird tickets — $60.00 SGD</option>
-						<option value="1 x early-bird ticket (halal)">1 early-bird ticket (halal) — $30.00 SGD</option>
-						<option value="1 x early-bird ticket (vegetarian)">1 early-bird ticket (vegetarian) — $30.00 SGD</option>
+						<option value="1 early-bird ticket" disabled>1 early-bird ticket — $30.00 SGD</option>
+						<option value="2 early-bird tickets" disabled>2 early-bird tickets — $60.00 SGD</option>
+						<option value="1 x early-bird ticket (halal)" disabled>1 early-bird ticket (halal) — $30.00 SGD</option>
+						<option value="1 x early-bird ticket (vegetarian)" disabled>1 early-bird ticket (vegetarian) — $30.00 SGD</option>
 						<option value="" disabled>Normal tickets (from 26 Dec 2015)</option>
-						<option value="1 normal ticket" disabled>1 normal ticket — $50.00 SGD</option>
-						<option value="2 normal tickets" disabled>2 normal tickets — $100.00 SGD</option>
-						<option value="1 x normal ticket (halal)" disabled>1 normal ticket (halal) — $50.00 SGD</option>
-						<option value="1 x normal ticket (vegetarian)" disabled>1 normal ticket (vegetarian) — $50.00 SGD</option>
+						<option value="1 normal ticket">1 normal ticket — $50.00 SGD</option>
+						<option value="2 normal tickets">2 normal tickets — $100.00 SGD</option>
+						<option value="1 x normal ticket (halal)">1 normal ticket (halal) — $50.00 SGD</option>
+						<option value="1 x normal ticket (vegetarian)">1 normal ticket (vegetarian) — $50.00 SGD</option>
 					</select> </td></tr>
 				</table>
 				<input type="hidden" name="currency_code" value="SGD">
