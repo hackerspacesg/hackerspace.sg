@@ -53,6 +53,10 @@ That kind of sweet talk is guaranteed to get you interest amongst the Hackerspac
 
 As above, we don't employ people, so we're not in a position to field your enquiry. If you're not able to put together whatever you need from publicly available sources, then we certainly aren't. if you require additional permissions then the answer is no. If you are proposing something that requires us to pay, then the answer is no.
 
+### I can help you improve your website, perform SEO, make awesome flash, etc.
+
+No.
+
 ### I am a journalist/prominent blogger and wish to interview/photograph HackerspaceSG people for an upcoming publication.
 
 For this we'll find people and time: [email us](https://hackerspace.sg/connect/).
