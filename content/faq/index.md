@@ -36,7 +36,7 @@ This means that the opportunity for organisations seeking to reach HackerspaceSG
 - We don't grant or deny permission to communicate on these channels, but you can be reasonably confident that if you offend members of our community then robust abuse reports will make their way to Google and/or Facebook. This may or may not affect your future ability to use those services.
 - What is of interest to HackerspaceSG's community is **technology**. If you are promoting something that's specifically of interest to technologists in Singapore, then it's generally within reason to promote it directly to HackerspaceSG's community.
 - **General interest** items with a technological slant are probably **not** appropriate. It's easy to tell the difference: is your thing likely to be of interest to a non-technical audience too? If so, then it's probably too general for the HackerspaceSG community.
-- We're not in the technology incubator mould that many hackerspaces and co-working spaces follow, even though several startups, one accelerator and and least one VC fund have bootstrapped out of HackerspaceSG. Startup-related technical items are OK, but only if they're specifically of interest to technologists. If what you're promoting is also interesting to, say, non-technical co-founders then it's probably too general for the HackerspaceSG community.
+- We're not in the technology incubator mould that many hackerspaces and co-working spaces follow, even though several startups, one accelerator and at least one VC fund have bootstrapped out of HackerspaceSG. Startup-related technical items are OK, but only if they're specifically of interest to technologists. If what you're promoting is also interesting to, say, non-technical co-founders then it's probably too general for the HackerspaceSG community.
 - Repetition is generally not appreciated. If you post your thing one time each to the Google and Facebook Groups and no-one responds, then no-one's interested. Move on.
 
 Typical enquiries include:
@@ -51,7 +51,7 @@ That kind of sweet talk is guaranteed to get you interest amongst the Hackerspac
 
 ### I am creating a product/service/thing **for co-working spaces** like yours and for some reason I need to talk to someone at your organisation about this.
 
-As above, we don't employ people, so we're not in a position to field your enquiry. If you're not able to put together whatever you need from publicly available sources, then we certainly aren't. if you require additional permissions then the answer is no. If you are proposing something that requires us to pay, then the answer is no.
+As above, we don't employ people, so we're not in a position to field your enquiry. If you're not able to put together whatever you need from publicly available sources, then we certainly aren't. If you require additional permissions then the answer is no. If you are proposing something that requires us to pay, then the answer is no.
 
 ### I can help you improve your website, perform SEO, make awesome flash, etc.
 
