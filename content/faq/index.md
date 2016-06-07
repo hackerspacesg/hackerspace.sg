@@ -26,7 +26,7 @@ By the way, this may not be obvious to you since you're too close to the situati
 
 Tech startups are welcome at HackerspaceSG. Non-tech startups might be more comfortable at a [commercial co-working space](http://e27.co/surviving-in-the-jungle-of-singapores-co-working-space/).
 
-<a href="organisational-partnering-enquiries" name="organisational-partnering-enquiries"><h2>Organisational / Partnering Enquiries</h2></a>
+<a href="#organisational-partnering-enquiries" name="organisational-partnering-enquiries"><h2>Organisational / Partnering Enquiries</h2></a>
 
 We get a variety of enquiries from organisations who are looking to partner with us on various things. This is generally not feasible because HackerspaceSG has a rather unusual structure: **we have no employees**. Really none, not even a general manager. Almost everything that happens in HackerspaceSG happens at the personal initiative of one or more members, rather than of HackerspaceSG's non-existent management. (As a private limited company we do have directors of course, however they are all rather busy with other things.)
 
