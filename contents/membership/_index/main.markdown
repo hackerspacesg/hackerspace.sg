@@ -2,27 +2,45 @@
 
 ## Membership Tiers
 
-### Resident &mdash; $512 SGD monthly
-
-A reserved desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution.
-
-### Hotdesk &mdash; $256 SGD monthly
-
-Priority at desks whenever you drop by the space (oversubscription may occur at
-peak hours, we aim for 90% availability). You cannot keep your crap at the
-desk.
-
-### Regular Member &mdash; $128 SGD monthly
-
+<table class="membership-tiers">
+	<tr>
+		<th>
+Resident
+		</th>
+		<th>
+Hotdesk Priority
+		</th>
+		<th>
+Hotdesk Regular
+		</th>
+	</tr>
+	<tr class="membership-tiers-tr-2">
+		<td>
+<h3>$512 SGD</h3> <sub>/monthly</sub>
+		</td>
+		<td style="text-align:center">
+<h3>$256 SGD</h3> <sub>/monthly</sub>
+		</td>
+		<td>
+<h3>$128 SGD</h3> <sub>/monthly</sub>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+A reserved desk for co-working. You can keep your stuff at the desk.
+We'll label a desk with your name, in honour of your contribution.
+		</td>
+		<td>
+Priority at desks whenever you drop by the space (oversubscription may occur at peak hours, we aim for 90% availability).
+You cannot keep your crap at the desk.
+		</td>
+		<td>
 Use any of the open desks. Hang out on the sofas. Keep your crap in a locker (rental applies).
 Use the workbench. Borrow books from our library. Keep your toys and tools onsite.
+		</td>
+	</tr>
+</table>
 
-### Broke Member &mdash; $64 SGD monthly
-
-If you are a student or a starving hacker, all the benefits of regular
-membership at a reduced rate. Also, if you really want to support the space, but
-don't come by regularly.
 
 ## How do I sign up?
 
