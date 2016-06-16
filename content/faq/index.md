@@ -24,7 +24,7 @@ By the way, this may not be obvious to you since you're too close to the situati
 
 ## I'm looking for a co-working office for my non-tech business. Should I take a desk at HSG?
 
-Tech startups are welcome at HackerspaceSG. Non-tech startups might be more comfortable at a [commercial co-working space](http://e27.co/surviving-in-the-jungle-of-singapores-co-working-space/).
+Tech startups are welcome at HackerspaceSG. Non-tech startups might be more comfortable at a [commercial co-working space](https://e27.co/surviving-in-the-jungle-of-singapores-co-working-space-20140708/).
 
 <a href="#organisational-partnering-enquiries" name="organisational-partnering-enquiries"><h2>Organisational / Partnering Enquiries</h2></a>
 
