@@ -11,7 +11,7 @@ be a paid member of HSG. This is the best way to contact the HSG community.
 
 # Facebook
 
-<https://www.facebook.com/hackerspacesg>
+<https://www.facebook.com/hackerspacesg><br/> <https://www.facebook.com/groups/hackerspacesg/>
 
 # Google+
 
