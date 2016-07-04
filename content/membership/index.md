@@ -1,7 +1,7 @@
 # Join us!
 
 ## Membership Tiers
-
+<img src="/imgs/membership_1.jpg" class="img-responsive center-block" style="width:50%" >
 ### Patron &mdash; $1337 SGD monthly
 
 24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
@@ -37,6 +37,8 @@ A listing on our contributors page with up to 2 links of your choice.
 ### Friend of HackerspaceSG &mdash; $16 SGD monthly
 
 A listing on our contributors page with one link of your choice.
+
+<img src="/imgs/membership.jpg" class="img-responsive center-block" style="width:50%" >
 
 ___
 
@@ -88,6 +90,7 @@ We reserve the right to reject membership applications for any reason.
 ___
 
 ## Guests
+<img src="/imgs/membership_2.jpg" class="img-responsive center-block" style="width:50%" >
 
 Hackerspace.SG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
 
