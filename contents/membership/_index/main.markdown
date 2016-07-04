@@ -2,7 +2,7 @@
 
 ## Membership Tiers
 
-### Patron &mdash; $1024 SGD monthly
+### Patron &mdash; $1337 SGD monthly
 
 24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
 label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page with multiple links
