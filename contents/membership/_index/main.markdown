@@ -26,7 +26,7 @@ desk. Standard listing in the contributors page with up to 3 links.
 
 ### Associate Member &mdash; $64 SGD monthly
 
-24-7 access. If you are a student or a starving hacker, all the benefits of regular
+24-7 access. If you are a student, NSF or a starving hacker, all the benefits of regular
 membership at a reduced rate. Also, if you really want to support the space, but
 don't come by regularly. Standard listing in the contributors page with up to 2 links.
 
