@@ -2,27 +2,43 @@
 
 ## Membership Tiers
 
-### Resident &mdash; $512 SGD monthly
+### Patron &mdash; $1024 SGD monthly
 
-A reserved desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution.
+24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
+label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page with multiple links
 
-### Hotdesk &mdash; $256 SGD monthly
+### Sponsor &mdash; $512 SGD monthly
 
-Priority at desks whenever you drop by the space (oversubscription may occur at
+24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
+label a desk with your name, in honour of your contribution. Premium listing in the contributors page with multiple links.
+
+### Resident &mdash; $256 SGD monthly
+
+24-7 access. Priority hotdesking whenever you drop in. (oversubscription may occur at
 peak hours, we aim for 90% availability). You cannot keep your crap at the
-desk.
+desk. Standing listing in the contributors page with multiple links.
 
 ### Regular Member &mdash; $128 SGD monthly
 
-Use any of the open desks. Hang out on the sofas. Keep your crap in a locker (rental applies).
-Use the workbench. Borrow books from our library. Keep your toys and tools onsite.
+24-7 access.  Hotdesking. Hang out on the sofas. Keep your crap in a locker (rental applies).
+Use the workbench. Borrow books from our library. Keep your toys and tools onsite. You cannot keep your crap at the
+desk. Standard listing in the contributors page with up to 3 links.
 
-### Broke Member &mdash; $64 SGD monthly
+### Associate Member &mdash; $64 SGD monthly
 
-If you are a student or a starving hacker, all the benefits of regular
+24-7 access. If you are a student or a starving hacker, all the benefits of regular
 membership at a reduced rate. Also, if you really want to support the space, but
-don't come by regularly.
+don't come by regularly. Standard listing in the contributors page with up to 2 links.
+
+### Honarary Member &mdash; $32 SGD monthly
+
+A listing on our contributors page with up to 2 links of your choice.
+
+### Supporters &mdash; $16 SGD monthly
+
+A listing on our contributors page with one link of your choice.
+
+___
 
 ## How do I sign up?
 
