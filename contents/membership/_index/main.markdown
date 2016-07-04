@@ -16,7 +16,7 @@ label a desk with your name, in honour of your contribution. Premium listing in 
 
 24-7 access. Priority hotdesking whenever you drop in. (oversubscription may occur at
 peak hours, we aim for 90% availability). You cannot keep your crap at the
-desk. Standing listing in the contributors page with multiple links.
+desk. Standard listing in the contributors page with multiple links.
 
 ### Regular Member &mdash; $128 SGD monthly
 
