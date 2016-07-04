@@ -34,7 +34,7 @@ don't come by regularly. Standard listing in the contributors page with up to 2 
 
 A listing on our contributors page with up to 2 links of your choice.
 
-### Supporters &mdash; $16 SGD monthly
+### Friend of HackerspaceSG &mdash; $16 SGD monthly
 
 A listing on our contributors page with one link of your choice.
 
