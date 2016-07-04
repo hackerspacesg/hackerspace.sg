@@ -86,6 +86,8 @@ subscription.
 
 We reserve the right to reject membership applications for any reason.
 
+___
+
 ## Guests
 
 Hackerspace.SG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
@@ -97,6 +99,8 @@ If you would like to visit Hackerspace.SG but do not know a member, please let u
 Members are invited to leave their stuff at the Hackerspace, with the understanding that other members and guests may [use, handle, break and discard them](http://hackerspaces.org/wiki/The_Old_Hardware_Pattern). This includes, but is not limited to: computers, keyboards, mice, chargers, furniture, and toys.
 
 Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Resident tier.) Please be considerate to fellow members and guests.
+
+___
 
 ### Membership Addons
 
@@ -119,6 +123,8 @@ Address rental for members' companies are at SGD 10 per month. Please email <mem
 <input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+___
 
 ### Disclaimer of Responsibility
 
