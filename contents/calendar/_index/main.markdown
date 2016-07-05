@@ -1,4 +1,6 @@
 # Hackerspace.SG calendar of events
+<img src="/imgs/membership_3.jpg" class="img-responsive center-block" style="width:50%" >
+
 
 ## Hosting an event
 
@@ -24,6 +26,8 @@ events (excluding HackerspaceSG’s cleaning every Tuesday, of course).
 # Hosting Events
 
 ## Event Organisers
+<img src="/imgs/membership_4.jpg" class="img-responsive center-block" style="width:50%" >
+
 
 HackerspaceSG welcomes a wide range of events, particularly in the areas of:
 
@@ -51,6 +55,8 @@ To arrange an event:
 	- If you are planning to host events on a regular basis, please consider [becoming a member](/membership/).
 
 ## Hosting Member
+<img src="/imgs/calendar.jpg" class="img-responsive center-block" style="width:50%" >
+
 
 Whether you're hosting your own event or someone else's, you're taking on several specific responsibilities:
 
@@ -103,6 +109,8 @@ To host an event:
   		- Turn off air-conditioning and lights as you leave
 
 ## Event Officers
+<img src="/imgs/calendar_1.jpg" class="img-responsive center-block" style="width:50%" >
+
 
 - Before adding an event to the calendar, ensure that a specific member has undertaken to host the event:
 	- Don't accept event requests from someone other than the hosting member, even if they say "member X said he would host". Not only is it possible that X didn't undertake to host the event, it's also possible that X isn't clear on what's involved.

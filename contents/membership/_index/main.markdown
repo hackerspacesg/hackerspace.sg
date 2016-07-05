@@ -5,38 +5,41 @@
 ### Patron &mdash; $1337 SGD monthly
 
 24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page with multiple links
+label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page* with multiple links
 
 ### Sponsor &mdash; $512 SGD monthly
 
 24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution. Premium listing in the contributors page with multiple links.
+label a desk with your name, in honour of your contribution. Premium listing in the contributors page* with multiple links.
 
 ### Resident &mdash; $256 SGD monthly
 
 24-7 access. Priority hotdesking whenever you drop in. (oversubscription may occur at
 peak hours, we aim for 90% availability). You cannot keep your crap at the
-desk. Standard listing in the contributors page with multiple links.
+desk. Standard listing in the contributors page* with multiple links.
 
 ### Regular Member &mdash; $128 SGD monthly
 
 24-7 access.  Hotdesking. Hang out on the sofas. Keep your crap in a locker (rental applies).
 Use the workbench. Borrow books from our library. Keep your toys and tools onsite. You cannot keep your crap at the
-desk. Standard listing in the contributors page with up to 3 links.
+desk. Standard listing in the contributors page* with up to 3 links.
 
 ### Associate Member &mdash; $64 SGD monthly
 
 24-7 access. If you are a student, NSF or a starving hacker, all the benefits of regular
 membership at a reduced rate. Also, if you really want to support the space, but
-don't come by regularly. Standard listing in the contributors page with up to 2 links.
+don't come by regularly. Standard listing in the contributors page* with up to 2 links.
 
 ### Honarary Member &mdash; $32 SGD monthly
 
-A listing on our contributors page with up to 2 links of your choice.
+A listing on our contributors page* with up to 2 links of your choice.
 
 ### Friend of HackerspaceSG &mdash; $16 SGD monthly
 
-A listing on our contributors page with one link of your choice.
+A listing on our contributors page* with one link of your choice.
+
+
+_*The contributors page is currently a work in progress and should be up by Aug 2016_
 
 <img src="/imgs/membership.jpg" class="img-responsive center-block" style="width:50%" >
 
