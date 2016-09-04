@@ -24,7 +24,7 @@ Please proceed up to the 3rd floor.
 
 ## Food
 
-* See also: [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq)
+* See also: [makespace.sg](http://makespace.sg/) [recommendations](https://hackpad.com/Best-Eating-Places-around-Makespace-fySmJkJGhwq) and [Michelin Guide Singapore](https://guide.michelin.sg/2016-guide?lang=en&year=2016&areas=Lavender&sort=name)
 
 ### Hawker and street fare
 
@@ -40,7 +40,7 @@ Please proceed up to the 3rd floor.
 * [Original Serangoon Fried Hokkien Mee](https://foursquare.com/v/original-serangoon-fried-hokkien-mee-singapore/4c1b65aeb9f876b0f21b7a46), at Serangoon Road
 
 ### Fast food
-* [Wendy's](https://foursquare.com/v/wendys/4dae4a77a86e29d01a41d7ac) at Lavender MRT
+* [McDonald's](https://foursquare.com/v/mcdonalds/557bc110498e1b84b5a61ee4) at Lavender MRT
 * Burger King, Long John Silver's, McDonald's, Pizza Hut, Popeyes and Subway at [City Square Mall](http://www.citysquaremall.com.sg/shops-category.php?type=23)
 
 ### Restaurants
@@ -60,7 +60,7 @@ Please proceed up to the 3rd floor.
 * [The Coffee Shot](https://www.facebook.com/THECOFFEESHOTTKC)
 * [Tiramisu Hero](http://thetiramisuhero.com/)
 * [The Bravery](http://thebravery.com.sg/)
-* [Windowsill Pies](http://windowsillpies.sg/)
+* [The Bao Makers](https://www.baomakers.com/home.html)
 
 ### Coffee Farby
 
@@ -80,7 +80,7 @@ Please proceed up to the 3rd floor.
 
 * [PZO Printing](https://www.facebook.com/pzoprintingSIN), Blk 803 King George's Avenue. SGD 0.20 per A4 print.
 
-HackerspaceSG also has a black-and-white laser printer for low-volume printing.
+HackerspaceSG also has a black-and-white laser printer and colour ink printer for low-volume printing.
 
 ## Postal services
 
@@ -93,7 +93,12 @@ level, near the DBS ATM.
 
 Closest post office locations:
 1. [Crawford](http://www.street-directory.com/singpost/singpost.cgi?x=373521.5390&y=144085.8737&level=7&star=1&categories=POL&name=Crawford&address_display=Blk%2015%20Beach%20Road%20@01-4685%20|Singapore&opr_hour_display=Mon%20-%20Fri%208.30%20am%20-%205.00%20pm%20|Sat%208.30%20am%20-%201.00%20pm%20|Sun/P.Hol%20Closed&newpostalcode2=190015&phone=&remit=&post=#switchbar), Beach Road, near the Army Market and Golden Mile Food Centre
-2. [Kitchener Road](http://www.street-directory.com/singpost/singpost.cgi?x=372682.9263&y=144879.0497&level=7&star=1&categories=POL&name=Kitchener%20Road&address_display=181%20Kitchener%20Road%20@01-26/28%20New%20Park%20Hotel%20Shopping%20Arcade%20|Singapore&opr_hour_display=Mon%20-%20Fri%208.30%20am%20-%205.00%20pm%20|Sat%208.30%20am%20-%201.00%20pm%20|Sun/P.Hol%20Closed&newpostalcode2=208533&phone=&remit=&post=#switchbar), New Park Hotel Shopping Arcade, near Mustafa Centre
+2. [City Square Mall](http://www.singpost.com/locate-us?id=2713), 180 Kitchener Rd #B2-33, City Square Mall, Singapore 208539
+
+Closest POPStation:
+1. [Kitchener's Complex](https://www.mypopstation.com/sgselect/P27)
+2. [Aperia Mall](https://www.mypopstation.com/sgselect/S63)
+3. [City Sqaure Mall](https://www.mypopstation.com/sgselect/S25)
 
 
 ## Sports
@@ -102,12 +107,6 @@ Closest post office locations:
 
 Just south of the space there is an awesome walkway to the Marina Bay Sands
 Helix bridge. Approximately 7km there and back!
-
-### Table tennis
-
-Around the corner, SGD 10.00 for 1 hour at Lian Hong Canvas Hardware
-Trading [44 Horne
-Road](https://maps.google.com.sg/maps?q=44+Horne+Road&hl=en&z=17).
 
 ### Swimming
 
