@@ -51,7 +51,9 @@ That kind of sweet talk is guaranteed to get you interest amongst the Hackerspac
 
 ### I am creating a product/service/thing **for co-working spaces** like yours and for some reason I need to talk to someone at your organisation about this.
 
-As above, we don't employ people, so we're not in a position to field your enquiry. If you're not able to put together whatever you need from publicly available sources, then we certainly aren't. If you require additional permissions then the answer is no. If you are proposing something that requires us to pay, then the answer is no.
+As above, we don't employ people, so we're not in a position to field your enquiry:
+- If you are proposing something that requires us to pay - whether now or in the future - then the answer is no.
+- We get an astonishing number of enquiries from people who want to list us in directories of co-working spaces etc. If you are doing this and are not able to put together whatever you need from publicly available sources, then we certainly aren't. If you require additional permissions then the answer is no.
 
 ### I can help you improve your website, perform SEO, make awesome flash, etc.
 
