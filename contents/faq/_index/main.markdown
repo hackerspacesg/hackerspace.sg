@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## I want to learn more about Hackerspace.SG. How?
+## I want to learn more about HackerspaceSG. How?
 
 Join the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Lurk for a while, then engage in discussions. Optionally, write a short email to introduce yourself.
 
