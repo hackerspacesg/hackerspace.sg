@@ -55,7 +55,7 @@ target="_blank">membership form</a> and pass it to any member. You need two memb
 support your application.
 
 We accept membership payments via direct bank
-transfer to the Hackerspace.SG Standard Chartered bank account:
+transfer to the HackerspaceSG Standard Chartered bank account:
 
 	Bank code: 7144
 	Branch code: 057
@@ -95,9 +95,9 @@ ___
 ## Guests
 <img src="/imgs/membership_2.jpg" class="img-responsive center-block" style="width:50%" >
 
-Hackerspace.SG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
+HackerspaceSG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
 
-If you would like to visit Hackerspace.SG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg), [IRC](irc://irc.freenode.net/hackerspacesg), or the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Alternatively, come visit us at any of the public events listed on our [calendar](/calendar).
+If you would like to visit HackerspaceSG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg), [IRC](irc://irc.freenode.net/hackerspacesg), or the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Alternatively, come visit us at any of the public events listed on our [calendar](/calendar).
 
 ## Personal Belongings
 
@@ -109,7 +109,7 @@ ___
 
 ### Membership Addons
 
-Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are SGD15 per month, small lockers are SGD10 per month, and tiny lockers are SGD7.50 per month. 
+HackerspaceSG offers three sizes of lockers for rental to members. Big lockers are SGD15 per month, small lockers are SGD10 per month, and tiny lockers are SGD7.50 per month. 
 
 Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
 
@@ -125,7 +125,7 @@ Address rental for members' companies are at SGD 10 per month. Please email <mem
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="SGD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal Â¿ The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -133,19 +133,19 @@ ___
 
 ### Disclaimer of Responsibility
 
-Hackerspace.SG will not be held responsible for any loss or damage of personal belongings.
+HackerspaceSG will not be held responsible for any loss or damage of personal belongings.
 
 ### Dealing with Old Hardware
 
-Hackerspace.SG implements the [Old Hardware Pattern](/old-hardware/).
+HackerspaceSG implements the [Old Hardware Pattern](/old-hardware/).
 
 ## Organizational Form
 
-Hackerspace.SG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently four directors.
+HackerspaceSG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently four directors.
 
 All finances will be transparently disclosed to the membership.
 
 We intend to operate with a small profit margin.
 
 Any operating surplus will not be distributed to partners or members, but will
-be directed at activities approved by the Hackerspace.SG board of directors.
+be directed at activities approved by the HackerspaceSG board of directors.
