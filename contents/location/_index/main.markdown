@@ -35,7 +35,7 @@ Please proceed up to the 3rd floor.
 * [Soon Ho Eating House](https://foursquare.com/v/soon-ho-eating-house/4bce8a9ac564ef3bf485eef0) near Jalan Besar Stadium
 * [Beach Road Scissor-Cut Curry Rice](https://foursquare.com/v/beach-road-scissorcut-curry-rice-%E5%89%AA%E5%88%80%E5%89%AA%E5%92%96%E5%93%A9%E9%A3%AF/4b529ebdf964a520218427e3) at Kitchener Road
 * [Swee Choon Tim Sum](https://foursquare.com/v/swee-choon-tim-sum-restaurant-%E7%91%9E%E6%98%A5%E9%BB%9E%E5%BF%83%E6%8B%89%E9%9D%A2%E5%B0%8F%E7%B1%A0%E5%8C%85/4bb610c81344b71318e99c04) along Jalan Besar Road
-* [Hill Street Tai Hwa Pork Noodle](https://foursquare.com/v/hill-street-tai-hwa-pork-noodle-%E5%90%8A%E6%A1%A5%E5%A4%B4%E5%A4%A7%E5%8D%8E%E7%8C%AA%E8%82%89%E7%B2%BF%E6%9D%A1-singapore/4b80b8b3f964a5205a8830e3) and [Happy Chef Western Food](https://foursquare.com/v/happy-chef-western-food/4bc00eec74a9a5937ea7cff6), on the other side of Lavender MRT. There is also [Italian-style pizza](http://ieatishootipost.sg/crosta-pizza-restaurant-quality-pizza-11/) at the next block.
+* [Hill Street Tai Hwa Pork Noodle](https://foursquare.com/v/hill-street-tai-hwa-pork-noodle-%E5%90%8A%E6%A1%A5%E5%A4%B4%E5%A4%A7%E5%8D%8E%E7%8C%AA%E8%82%89%E7%B2%BF%E6%9D%A1-singapore/4b80b8b3f964a5205a8830e3) and [Happy Chef Western Food](https://foursquare.com/v/happy-chef-western-food/4bc00eec74a9a5937ea7cff6), on the other side of Lavender MRT.
 * [Sungei Road Laksa](https://foursquare.com/v/sungei-road-laksa-%E7%BB%93%E9%9C%9C%E6%A1%A5%E5%8F%BB%E6%B2%99/4c19e647834e2d7f94102b80) near Syed Alwi Road
 * [Original Serangoon Fried Hokkien Mee](https://foursquare.com/v/original-serangoon-fried-hokkien-mee-singapore/4c1b65aeb9f876b0f21b7a46), at Serangoon Road
 
@@ -96,9 +96,9 @@ Closest post office locations:
 2. [City Square Mall](http://www.singpost.com/locate-us?id=2713), 180 Kitchener Rd #B2-33, City Square Mall, Singapore 208539
 
 Closest POPStation:
-1. [Kitchener's Complex](https://www.mypopstation.com/sgselect/P27)
+1. [Kitchener Complex](https://www.mypopstation.com/sgselect/P27)
 2. [Aperia Mall](https://www.mypopstation.com/sgselect/S63)
-3. [City Sqaure Mall](https://www.mypopstation.com/sgselect/S25)
+3. [City Square Mall](https://www.mypopstation.com/sgselect/S25)
 
 
 ## Sports
