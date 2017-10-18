@@ -16,6 +16,6 @@
 - Discussion of potential approaches.
 
 ### Next Meeting
-- 2017-11-14 ?
+- 2017-11-14 20:00 ?
 
 ### ??:?? Close
