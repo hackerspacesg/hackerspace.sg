@@ -15,4 +15,7 @@
 ### HackerspaceSG Future
 - Discussion of potential approaches.
 
+### Next Meeting
+- 2017-11-14 ?
+
 ### ??:?? Close
