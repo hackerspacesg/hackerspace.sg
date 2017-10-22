@@ -103,7 +103,7 @@ If you would like to visit HackerspaceSG but do not know a member, please let us
 
 Members are invited to leave their stuff at the Hackerspace, with the understanding that other members and guests may [use, handle, break and discard them](http://hackerspaces.org/wiki/The_Old_Hardware_Pattern). This includes, but is not limited to: computers, keyboards, mice, chargers, furniture, and toys.
 
-Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Resident tier.) Please be considerate to fellow members and guests.
+Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Sponsor tier.) Please be considerate to fellow members and guests.
 
 ___
 
