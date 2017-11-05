@@ -3,7 +3,7 @@
 ### 20:05 Open
 
 ### Credentials
-- Present: Luther, Hassan, Bob, Jorg, Adrian, JQ, KH, Fazli, Roland, Benji, Haswan, Caj, Valentine, Robert Sim
+- Present: Luther, Hassan, Bob, Jorg, Adrian, JQ, KH, Fazli, Alvin, Roland, Benji, Haswan, Caj, Valentine, Robert Sim
 
 ### HackerspaceSG Status
 - ACRA filings, position: Complete to 2016-09-30. Filing for 2017-09-30 is expected to be on time.
