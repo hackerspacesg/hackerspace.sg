@@ -47,12 +47,12 @@ ___
 
 ## How do I sign up?
 
-Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so that we can know
-you better, and so that you are sure that you really want to be part of the community.
+Drop by HackerspaceSG and get to know us. Hang out for a week or two, just so that we can know you better, and so that you are sure that you really want to be part of the community.
+
+(Please refer to the [best times to visit](#best-times-to-visit) below.)
 
 Complete the <a href="/membership/MembershipAgreement.pdf"
-target="_blank">membership form</a> and pass it to any member. You need two members to
-support your application.
+target="_blank">membership form</a> and pass it to any member. You need two members to support your application.
 
 We accept membership payments via direct bank
 transfer to the HackerspaceSG Standard Chartered bank account:
@@ -98,6 +98,9 @@ ___
 HackerspaceSG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
 
 If you would like to visit HackerspaceSG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg), [IRC](irc://irc.freenode.net/hackerspacesg), or the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Alternatively, come visit us at any of the public events listed on our [calendar](/calendar).
+### Best times to visit
+
+Members are usually around in the space between 2pm to 6pm, and 9pm to midnight, on most days. Some members also go out semi-regularly for dinner between 8pm to 9pm on most days.
 
 ## Personal Belongings
 
