@@ -97,10 +97,11 @@ ___
 
 HackerspaceSG welcomes infrequent visitors and foreign travellers. Guests are invited to drop by whenever members are present.
 
-If you would like to visit HackerspaceSG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg), [IRC](irc://irc.freenode.net/hackerspacesg), or the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Alternatively, come visit us at any of the public events listed on our [calendar](/calendar).
 ### Best times to visit
 
 Members are usually around in the space between 2pm to 6pm, and 9pm to midnight, on most days. Some members also go out semi-regularly for dinner between 8pm to 9pm on most days.
+
+If you would like to visit HackerspaceSG but do not know a member, please let us know via [Facebook](https://www.facebook.com/hackerspacesg), [IRC](irc://irc.freenode.net/hackerspacesg) (response might be slow), or the [mailing list](https://groups.google.com/forum/#!forum/hackerspacesg). Alternatively, come visit us at any of the public events listed on our [calendar](/calendar).
 
 ## Personal Belongings
 
