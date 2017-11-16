@@ -1,3 +1,9 @@
+# This file is named 'redirects' because Punch doesn't recognise files
+# starting with an underscore.
+#
+# Netlify redirect documentation is available here:
+# https://www.netlify.com/docs/redirects/
+
 /*  https://hackerspace.sg/:splat  301!
 
 /calendar/hackerspacesg-events https://hackerspace.sg/calendar 301
