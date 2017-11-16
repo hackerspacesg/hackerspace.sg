@@ -1,13 +1,13 @@
 /*  https://hackerspace.sg/:splat  301!
 
 /calendar/hackerspacesg-events https://hackerspace.sg/calendar 301
-/calendar/geektechdevdesign-events 404
+/calendar/geektechdevdesign-events / 404
 /calendar/rojak-calendar https://hackerspace.sg/calendar 301
 /readme-txt/membership/ https://hackerspace.sg/membership 301
-/intertubes/ 404
+/intertubes/ / 404
 /readme-txt/donations/ https://hackerspace.sg/membership 301
 /about-us/ https://hackerspace.sg/about 301
 /social/location/ https://hackerspace.sg/location 301
 /chat https://webchat.freenode.net/?channels=hackerspacesg 302
-/feed 404
-/rss.xml 404
+/feed / 404
+/rss.xml / 404
