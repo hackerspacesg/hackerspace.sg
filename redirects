@@ -4,7 +4,7 @@
 # Netlify redirect documentation is available here:
 # https://www.netlify.com/docs/redirects/
 
-/*  https://hackerspace.sg/:splat  301!
+http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
 
 /calendar/hackerspacesg-events https://hackerspace.sg/calendar 301
 /calendar/geektechdevdesign-events / 404
