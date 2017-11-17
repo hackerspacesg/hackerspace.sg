@@ -1,5 +1,5 @@
 <div id="main-content">
-	<article class="hentry"> 
+	<article class="hentry">
 		<h2 class="entry-title">{{{ title }}}</h2>
     <time class="updated" datetime="{{#iso_date}}{{ published_date }}{{/iso_date}}" pubdate>{{#long_date}}{{published_date}}{{/long_date}}</time>
 
@@ -10,9 +10,9 @@
 		<aside role="meta">
 			<div role="tags">
 				<span role="icon" aria-hidden="true" class="icon-tag"></span><span>Tags:</span></span>
-				{{#tags}}  
+				{{#tags}}
 					<a href="/tag/{{#downcase}}{{.}}{{/downcase}}">{{.}}</a>&nbsp;
-				{{/tags}} 
+				{{/tags}}
 			</div>
 
 			<div role="social_media">

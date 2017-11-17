@@ -1,18 +1,18 @@
 <div id="main-content" class="expanded">
-	<h2>Archive</h2> 
+	<h2>Archive</h2>
 
 		<h3>By Year</h3>
 
-		<ul class="filters"> 
+		<ul class="filters">
 			{{#years}}
-				<li><a href="/{{.}}" class="{{#current}}{{.}}{{/current}}">{{.}}</a></li>
+				<li><a href="/updates/{{.}}" class="{{#current}}{{.}}{{/current}}">{{.}}</a></li>
 			{{/years}}
 		</ul>
 
 		<h3>By Tag</h3>
 		<ul class="filters">
 			{{#top_tags}}
-				<li><a href="/tag/{{#downcase}}{{.}}{{/downcase}}"  class="{{#current}}/tag/{{#downcase}}{{.}}{{/downcase}}{{/current}}">{{.}}</a></li>
+				<li><a href="/updates/tag/{{#downcase}}{{.}}{{/downcase}}"  class="{{#current}}/tag/{{#downcase}}{{.}}{{/downcase}}{{/current}}">{{.}}</a></li>
 			{{/top_tags}}
 		</ul>
 

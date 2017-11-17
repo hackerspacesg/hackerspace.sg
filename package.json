@@ -5,7 +5,8 @@
 	"author": "HackerspaceSG",
 	"description": "hackerspace website",
 	"contributors": [
-		"Chinmay Pendharkar <notthetup@gmail.com>"
+		"Chinmay Pendharkar <notthetup@gmail.com>",
+		"Robert Sim <contact@robertsky.com>"
 	],
 	"keywords": [
 		"website",
@@ -18,8 +19,11 @@
 		"url": "https://github.com/hackerspacesg/hackerspace.sg"
 	},
 	"dependencies": {
+		"ical": "~0.3.1",
 		"punch": "~0.5.40",
-		"ical": "~0.3.1"
+		"punch-blog-content-handler": "0.0.9",
+		"punch-current-page-helper": "0.0.3",
+		"punch-sitemap-generator": "0.0.5"
 	},
 	"license": "MIT",
 	"scripts": {

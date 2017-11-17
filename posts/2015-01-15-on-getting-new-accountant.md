@@ -1,3 +1,12 @@
+---
+title: On Getting New Accountant
+published: true
+tags:
+- plenum
+- accounting
+---
+
+
 ## Plenum 2015-01-15 Agenda/Minutes
 
 - Present: Roland, Wyemun, Luther, Robert Sim, Gibson, Claudio, Who is Bob (LJ), Valentine, Michael Cheng, Aaron, Soares
