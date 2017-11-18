@@ -10,8 +10,8 @@
 
 <channel>
   <title>{{ site-title }}</title>
-  <atom:link href="http://{{ host }}/feed/" rel="self" type="application/rss+xml" />
-  <link>http://{{ host }}</link>
+  <atom:link href="https://{{ host }}/feed/" rel="self" type="application/rss+xml" />
+  <link>https://{{ host }}</link>
   <description>{{ tagline }}</description>
 	<lastBuildDate>{{#utc_date}}{{ last_modified }}{{/utc_date}}</lastBuildDate>
 	<language>en</language>
@@ -21,8 +21,8 @@
     {{#all_posts}}
 		<item>
 		<title>{{{ title }}}</title>
-      <link>http://{{ host }}{{{ permalink }}}</link>
-      <comments>http://{{ host }}{{{ permalink }}}/#comments</comments>
+      <link>https://{{ host }}{{{ permalink }}}</link>
+      <comments>https://{{ host }}{{{ permalink }}}/#comments</comments>
       <pubDate>{{#utc_date}}{{ published_date }}{{/utc_date}}</pubDate>
       <dc:creator>{{ creator }}</dc:creator>
 
@@ -30,7 +30,7 @@
       <category><![CDATA[{{ . }}]]></category>
 			{{/tags}}
 
-      <guid isPermaLink="true">http://{{ host }}{{{ permalink }}}</guid>
+      <guid isPermaLink="true">https://{{ host }}{{{ permalink }}}</guid>
 			<description><![CDATA[{{{ content }}}]]></description>
 		</item>
 		{{/all_posts}}
