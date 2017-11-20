@@ -1,3 +1,11 @@
+---
+title: 2nd Meeting On Hackerspace's Future
+published: true
+tags:
+- plenum
+- reorganisation
+---
+
 ## Plenum 2017-11-14 Agenda/Minutes
 
 ### ??:?? Open

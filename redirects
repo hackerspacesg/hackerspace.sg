@@ -15,5 +15,5 @@ http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
 /about-us/ https://hackerspace.sg/about 301
 /social/location/ https://hackerspace.sg/location 301
 /chat https://webchat.freenode.net/?channels=hackerspacesg 302
-/feed /404.html 404
-/rss.xml /404.html 404
+/feed /feed.rss 301
+/rss.xml /feed.rss 301

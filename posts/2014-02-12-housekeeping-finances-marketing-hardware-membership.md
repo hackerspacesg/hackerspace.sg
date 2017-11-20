@@ -1,3 +1,16 @@
+---
+title: Plenum 2014-02-13
+published: true
+tags:
+- plenum
+- technical
+- housekeeping
+- finances
+- marketing
+- hardware
+- membership
+---
+
 ## Plenum 12-Feb-2014
 
 ### Open: 8:40

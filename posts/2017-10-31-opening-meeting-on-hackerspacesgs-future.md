@@ -1,3 +1,11 @@
+---
+title: Opening Meeting On Organsisation Matters
+published: true
+tags:
+- plenum
+- reorganisation
+---
+
 ## Plenum 2017-10-31 Agenda/Minutes
 
 ### 20:05 Open

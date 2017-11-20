@@ -7,9 +7,37 @@
 	},
 
 	"plugins": {
+		"content_handler": "punch-blog-content-handler",
+		"helpers": {
+			"formatted_date": "./helpers/formatted_date_helper.js",
+			"archive_helper": "./helpers/archive_helper.js",
+
+			"feed_helper": "./helpers/feed_helper.js",
+			"current_helper": "punch-current-page-helper"
+		},
 		"generator_hooks": {
 			"htaccess": "./bin/htaccess.js",
-			"redirects": "./bin/redirects.js"
+			"redirects": "./bin/redirects.js",
+			"sitemap_generator_hook": "punch-sitemap-generator"
 		}
+	},
+
+	"blog": {
+		"posts_dir": "posts",
+		"post_format": "md",
+		"post_url": "/updates/{year}/{month}/{date}/{title}",
+		"teaser_length": 2,
+		"homepage_posts": 10,
+		"archive_urls": {
+			"all": "/updates",
+			"year": "/updates/{year}",
+			"year_month": "/updates/{year}/{month}",
+			"year_month_date": "/updates/{year}/{month}/{date}",
+			"tag": "/updates/tag/{tag}"
+		}
+	},
+
+	"sitemap_generator": {
+		"url_root": "https://hackerspace.sg"
 	}
 }

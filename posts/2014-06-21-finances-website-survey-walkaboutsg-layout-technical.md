@@ -1,3 +1,16 @@
+---
+title: Plenum 2014-06-12
+published: true
+tags:
+- plenum
+- finances
+- website
+- marketing
+- housekeeping
+- technical
+---
+
+
 ## Plenum 2014-06-12 Agenda/Minutes
 
 - Present: Gibson, Nicholas, Will Myers, Luther, LJ, Valentine, Eric Teubert, Claudio, Nigel, Soares, Aizat, Aaron, CJ, Hazwan, Roland

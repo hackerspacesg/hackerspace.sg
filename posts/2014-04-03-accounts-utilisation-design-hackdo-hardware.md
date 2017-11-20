@@ -1,3 +1,13 @@
+---
+title: Plenum 2014-04-03
+published: true
+tags:
+- plenum
+- finances
+- membership
+- hackdo
+---
+
 ## Plenum 3-Apr-2014
 
 ### Open: TODO

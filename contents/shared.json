@@ -1,5 +1,8 @@
 {
-	"site-title": "HackerspaceSG: the Singapore tech scene's community centre",
+	"site-title": "HackerspaceSG",
+	"tagline": "the Singapore tech scene's community centre",
+	"host": "hackerspace.sg",
+	"creator": "HackerspaceSG",
 	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a>",
 	"navbar": [
 		{ "label": "Home",       "href": "/" },
@@ -7,7 +10,8 @@
 		{ "label": "Connect",    "href": "/connect" },
 		{ "label": "Location",   "href": "/location" },
 		{ "label": "Membership", "href": "/membership" },
-	    { "label": "About",      "href": "/about" },
-	    { "label": "FAQ",        "href": "/faq" }
+		{ "label": "About",      "href": "/about" },
+		{ "label": "FAQ",        "href": "/faq" },
+		{ "label": "Updates",    "href": "/updates"}
 	]
 }
