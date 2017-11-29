@@ -20,6 +20,6 @@
 - Nominal plenum dates 2018, 2nd Wednesday of odd numbered months.
 
 ### Next Meeting
-- 
+- 2018-01-10 20:00
 
-### 22:0 Close
+### 22:20 Close
