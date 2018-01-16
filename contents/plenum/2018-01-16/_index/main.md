@@ -4,7 +4,7 @@
 
 ### Credentials
 - Present: Fazli, Luther, Bob, Valentine, Roland, JQ, 
-- Apologies:
+- Apologies: Robert
 
 ### Accounts
 - Signifigant progress made, hoping to do first statement run this month.
