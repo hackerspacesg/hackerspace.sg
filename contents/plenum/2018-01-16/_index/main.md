@@ -3,11 +3,11 @@
 ### 20:12 Open
 
 ### Credentials
-- Present: Fazli, Luther, Bob, Valentine, Roland, JQ, 
+- Present: Fazli, Luther, Bob, Valentine, Roland, Benji
 - Apologies: Robert
 
 ### Accounts
-- Signifigant progress made, hoping to do first statement run this month.
+- Significant progress made, hoping to do first statement run this month.
 
 ### HackerspaceSG Future
 - Worked on brief for marketing company
@@ -17,6 +17,6 @@
 - Garage sale on 2018-02-10 or 11.
 
 ### Next Meeting
-- 2018-02-13 20:00 (tentatively scheduled at 2nd Wednesday of odd-numbered months)
+- 2018-02-13 20:00 (tentatively scheduled at 2nd Wednesday of odd-numbered months, but subject to change depending on the schedule of key people)
 
 ### 21:44 Close
