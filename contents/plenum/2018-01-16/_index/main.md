@@ -1,17 +1,18 @@
 ## Plenum 2018-01-16 Agenda/Minutes
 
-### (hh:mm) Open
+### 20:12 Open
 
 ### Credentials
-- Present:
+- Present: Fazli, Luther, Bob, Valentine, Roland, JQ, 
 - Apologies:
 
 ### HackerspaceSG Future
-- (Luther/Fazli) Update on finances.
+- Worked on brief for marketing company
 
 ## Any Other Business
 
-### Next Meeting
-- (yyyy-mm-dd hh:mm) (tentatively scheduled at 2nd Wednesday of odd-numbered months)
 
-### (hh:mm) Close
+### Next Meeting
+- 2018-01-14 20:00 (tentatively scheduled at 2nd Wednesday of odd-numbered months)
+
+### 21: Close
