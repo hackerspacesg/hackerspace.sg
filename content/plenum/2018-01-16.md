@@ -13,6 +13,6 @@
 - Valentine opened discussion about changing joining requirements (e.g. only 1 proposer to join, 2 additional proposers required to continue beyond 3rd month). Suggests that we consider and discuss this at future meetings.
 
 ### Next Meeting
-- 2018-01-14 20:00 (tentatively scheduled at 2nd Wednesday of odd-numbered months)
+- 2018-02-14 20:00 (tentatively scheduled at 2nd Wednesday of odd-numbered months)
 
 ### 21:40 Close
