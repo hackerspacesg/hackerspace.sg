@@ -30,7 +30,7 @@ desk. Standard listing in the contributors page* with up to 3 links.
 membership at a reduced rate. Also, if you really want to support the space, but
 don't come by regularly. Standard listing in the contributors page* with up to 2 links.
 
-### Honarary Member &mdash; $32 SGD monthly
+### Honorary Member &mdash; $32 SGD monthly
 
 A listing on our contributors page* with up to 2 links of your choice.
 
@@ -78,7 +78,7 @@ subscription.
 	<option value="Resident">Resident : $256.00 SGD - monthly</option>
 	<option value="Sponsor">Sponsor : $512.00 SGD - monthly</option>
 	<option value="Patron">Patron : $1,337.00 SGD - monthly</option>
-	<option value="Honarary">Honarary : $32.00 SGD - monthly</option>
+	<option value="Honorary">Honorary : $32.00 SGD - monthly</option>
 	<option value="Friend of HSG">Friend of HSG : $16.00 SGD - monthly</option>
 </select> </td></tr>
 </table>
