@@ -1,4 +1,4 @@
-## Plenum 2018-02-11 Agenda/Minutes
+## Plenum 2018-02-12 Agenda/Minutes
 
 ### (hh:mm) Open
 
