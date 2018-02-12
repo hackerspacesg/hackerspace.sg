@@ -19,9 +19,13 @@
   - Additional proposers to come forward during 3rd month; process not to be hastened.
 
 ### Code of Conduct
-- (Valentine) Discussion on implementation of Code of Conduct.
+- (Valentine) Discussion on implementation of Code of Conduct: Valentine to draft a suitable code for review at next plenum. Suggested form includes:
+  - A list of things we want people in the space to be able to enjoy.
+  - A list of things we won't tolerate.
+  - A minimal grievance procedure; probably just a formal reporting channel and a commitment to review and act on reports.
 
 ## Any Other Business
+
 
 ### Next Meeting
 - (yyyy-mm-dd hh:mm) (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
