@@ -26,8 +26,13 @@
 
 ## Any Other Business
 
+### CoderBunker Partnership Proposal
+- General willingness to proceed; detail questions to pursue on who pays who (HackerspaceSG prefers individual memberships), impact of grievance procedure.
+
+### Carousel account
+- Luther calls for volunteers to photograph and list unsold items from recent garage sale (and clutter generally).
 
 ### Next Meeting
-- (yyyy-mm-dd hh:mm) (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
+- 2018-03-14 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
 
-### (hh:mm) Close
+### 22:12 Close
