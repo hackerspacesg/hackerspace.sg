@@ -145,7 +145,7 @@ HackerspaceSG implements the [Old Hardware Pattern](/old-hardware/).
 
 ## Organizational Form
 
-HackerspaceSG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently four directors.
+HackerspaceSG intends to operate like a non-profit, but has incorporated as a Pte Ltd for convenience. There are presently two directors.
 
 All finances will be transparently disclosed to the membership.
 
