@@ -15,13 +15,13 @@ label a desk with your name, in honour of your contribution. Premium listing in 
 ### Resident &mdash; $256 SGD monthly
 
 24-7 access. Priority hotdesking whenever you drop in. (oversubscription may occur at
-peak hours, we aim for 90% availability). You cannot keep your crap at the
+peak hours, we aim for 90% availability). You cannot keep your stuff at the
 desk. Standard listing in the contributors page* with multiple links.
 
 ### Regular Member &mdash; $128 SGD monthly
 
-24-7 access.  Hotdesking. Hang out on the sofas. Keep your crap in a locker (rental applies).
-Use the workbench. Borrow books from our library. Keep your toys and tools onsite. You cannot keep your crap at the
+24-7 access.  Hotdesking. Hang out on the sofas. Keep your stuff in a locker (rental applies).
+Use the workbench. Borrow books from our library. Keep your toys and tools onsite. You cannot keep your stuff at the
 desk. Standard listing in the contributors page* with up to 3 links.
 
 ### Associate Member &mdash; $64 SGD monthly
