@@ -1,28 +1,28 @@
 ## Plenum 2018-03-14 Agenda/Minutes
 
-### ??:?? Open
+### 20:40 Open
 
 ### Credentials
-- Present:
-- Apologies:
+- Present: Fazli, Roland, Valentine
+- Apologies: Luther, Robert, Bob
 
 ### Accounts
-- (Luther/Fazli) Update on finances.
+- (Luther/Fazli) Update on finances. ~10 statements out, most at $0. Filings imminent and likely to be on time.
 
 ### Memberships
-- (Bob) Update on new members (if any).
+- (Bob) Update on new members (if any). (item deferred)
 
 ### Business Insurance Policy
-- (Luther) Update and discussion.
+- (Luther) Update and discussion. (item deferred)
 
 ### Membership Marketing
-- (Luther) Update on marketing work with Graham.
+- (Luther) Update on marketing work with Graham. (item deferred)
 
 ### CoderBunker Partnership Proposal
-- (Luther) Update on progress.
+- (Luther) Update on progress. (item deferred)
 
 ### Joining Requirements
-- (Valentine) Update on completion.
+- (Valentine) Update on completion. (complete)
 
 ### Code of Conduct and Grievance Procedure
 - (Valentine) Update on draft.
