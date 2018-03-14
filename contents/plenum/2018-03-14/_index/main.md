@@ -30,6 +30,6 @@
 ## Any Other Business
 
 ### Next Meeting
-- 2018-04-11 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
+- 2018-04-12 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people; Valentine and Robert may be busy on April 11)
 
 ### 21:34 Close
