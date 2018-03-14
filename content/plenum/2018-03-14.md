@@ -25,11 +25,11 @@
 - (Valentine) Update on completion. [complete](https://hackerspace.sg/membership/MembershipAgreement.pdf)
 
 ### Code of Conduct and Grievance Procedure
-- (Valentine) Update on draft.
+- (Valentine) Update on draft. General dicussion, suggestions on restructuring offered.
 
 ## Any Other Business
 
 ### Next Meeting
 - 2018-04-11 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
 
-### ??:?? Close
+### 21:34 Close
