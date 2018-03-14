@@ -22,7 +22,7 @@
 - (Luther) Update on progress. (item deferred)
 
 ### Joining Requirements
-- (Valentine) Update on completion. (complete)
+- (Valentine) Update on completion. [complete](https://hackerspace.sg/membership/MembershipAgreement.pdf)
 
 ### Code of Conduct and Grievance Procedure
 - (Valentine) Update on draft.
