@@ -19,9 +19,9 @@ be a paid member of HSG. This is the best way to contact the HSG community.
 
 # Flickr
 
-<a href="http://www.flickr.com/search/?q=hackerspacesg+OR+hackerspace.sg&m=tags&ss=0&ct=0&mt=all&w=all&adv=1">View Archives</a>
+<a href="https://www.flickr.com/search/?text=hackerspacesg%20OR%20hackersapce.sg&sort=date-posted-desc">View Archives</a>
 
-If you are a news organization, please don't bother asking for permission to use pictures of the space -- between Fair Use and Creative Commons, you probably already have the rights that you're looking for.
+If you are a news organization, please don't bother asking for permission to use pictures of the space. -- License is as indicated on the respective photo's page.
 
 # Youtube
 
