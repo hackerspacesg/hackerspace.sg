@@ -3,8 +3,8 @@
 ### 20:26 Open
 
 ### Credentials
-- Present: Bob, Roland, Valentine
-- Apologies:
+- Present: Bob, Roland, Valentine, Michael
+- Apologies: Fazli
 
 ### Accounts
 - (Fazli) Update on finances. (deferred)
