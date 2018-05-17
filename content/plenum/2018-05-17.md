@@ -17,20 +17,28 @@
 
 ### Memberships
 - (Bob) Update on new members (if any).
-Proposed sign-up process:
+- Bob ask Luther to fix PayPal access
+
+#### Proposed sign-up process:
 - New member completes paper form and hands to Bob
 - Bob scans form into Google drive for Fazli, files in white file, asks new member to pay first month by PayPal
 - New member pays and tells Bob payment made
 - Bob verifies payment and issues PIN
-- 
+- At 1st of the month, Fazli notices new member paying and/or new sign up form, issues 1st month invoice (plus 2nd month invoice if joined 1-15/month) and emails new member to request set up of recurring PayPal payment.
+
 ### Business Insurance Policy
 - (Fazli) Update and discussion.
+- Fazli to find another insurer or insurers
 
 ### Membership Marketing
 - (Fazli) Update on marketing work with Graham.
+- Fazli to followup Graham and get sign up form online
+- Fazli will run the soldering village at Infosec event on May 24/25 as HackerspaceSG and promote
+- Bob to followup interested people from FOSSASIA, eventually...
 
 ### Code of Conduct and Grievance Procedure
 - (Valentine) Update on draft (if necessary).
+- still pending
 
 ## Any Other Business
 - Progress on hsg website revamp, spearheadede by Robert Sim
