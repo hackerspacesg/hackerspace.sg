@@ -41,10 +41,13 @@
 - still pending
 
 ## Any Other Business
-- Progress on hsg website revamp, spearheadede by Robert Sim
-- Filling up of Standard Chartered to prevent HSG account from being suspended
-- Valentine membership proposal
+- Progress on hsg website revamp, spearheaded by Robert Sim (deferred)
+- Filing Standard Chartered identity details to prevent HSG account from being suspended: Fazli to ping
+- No change on bank account at the present time
+- Valentine membership proposal 1: how to invite donors to donate without (a) completing a memership form or (b) eating 10% through Patreon (deferred)
+- Valentine membership proposal 2: deposits for higher tiers: no action at this time
+
 ### Next Meeting
 - 2018-06-13 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
 
-### ??:?? Close
+### 22:32 Close
