@@ -43,6 +43,13 @@ The constraints are minimal:
 - For more than 5 people: outside office hours (After 6PM on weekdays, all day on Saturday/Sunday)
 - Within the law<sup>[3](#3)</sup>
 
+Use of the space by members who frequently work in the space for events relating to their work (e.g. press conferences) is also permitted subject to the following additional constraints:
+
+- This type of use is occasional
+- This type of use does not crowd out events that are a closer fit to HackerspaceSG's purpose (e.g. when the schedule is crowded)
+- The event is not something that members would find objectionable (e.g. MLM seminars)
+- The event does not impede member use of the space (i.e. no exclusive room bookings)
+
 To arrange an event:
 
 - If you're a member:
