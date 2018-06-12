@@ -1,4 +1,4 @@
-## Plenum 2018-06-13 Agenda/Minutes
+## Plenum 2018-06-20 Agenda/Minutes
 
 ### ??:?? Open
 

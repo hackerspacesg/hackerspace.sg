@@ -17,3 +17,7 @@ http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
 /chat https://webchat.freenode.net/?channels=hackerspacesg 302
 /feed /404.html 404
 /rss.xml /404.html 404
+
+# Plenum rescheduling
+
+/plenum/2018-06-13 /plenum/2018-06-20 301
