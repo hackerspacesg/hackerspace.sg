@@ -3,7 +3,7 @@
 ### 20:47 Open
 
 ### Credentials
-- Present: Fazli, Valentine, Bob, Roland
+- Present: Fazli, Valentine, Bob, Roland, Robert
 - Apologies:
 
 ### Accounts
