@@ -38,11 +38,12 @@
 
 ### In-space Privacy Notices
 - (Valentine) Update on notices.
-- No progress, but printing of awesome cat imminent
+- No progress, but [printing of awesome squirrel imminent](https://me.me/i/course-out-on-internets-trust-me-of-course-i-not-11965906)
 
 ## Any Other Business
 - (Valentine) Change power supplier: investigate options and report
 - (Robert) Split Cloudflare account into sub-accounts (done!)
+- (Roland) assemble Maker Faire exhibit
 
 ### Next Meeting
 - 2018-08-08 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people) TBC, depending on Fazli's holiday
