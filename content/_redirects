@@ -22,3 +22,4 @@ http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
 # Plenum rescheduling
 
 /plenum/2018-06-13 /plenum/2018-06-20 301
+/plenum/2018-08-08 /plenum/2018-08-23 301
