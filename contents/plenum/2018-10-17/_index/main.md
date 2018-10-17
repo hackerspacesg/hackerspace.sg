@@ -13,6 +13,9 @@
 ### Memberships
 - (Bob) Update on new members (if any).
 
+### Ruiwen's intent to step down as Director
+- Discussion if any.
+
 ### Business Insurance Policy
 - (Valentine/Roland) Update and discussion.
 
