@@ -8,14 +8,15 @@ We aim to meet on the second Wednesday of every month, subject to the availabili
 
 ## Future Planned Plenums
 
-* [2018-10-17](./2018-10-17/)
-* 2018-11-14
+* 2018-11-19
 * 2018-12-12
 
 Note that the dates are tentative and subject to change.
 
 ## Past Plenum Minutes
 
+* [2018-11-21](./2018-11-21/)
+* [2018-10-17](./2018-10-17/)
 * [2018-08-23](./2018-08-23/)
 * [2018-07-11](./2018-07-11/)
 * [2018-06-20](./2018-06-20/)
