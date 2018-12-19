@@ -53,6 +53,6 @@
 - Valentine+Fazli to talk to Mike+Bpb about increasing subscription and receiving individual PINs for engineers.sg equipment access use only. Bob: is maintaining individual PINs feasible?
 
 ### Next Meeting
-- 2018-12-19 21:30 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
+- 2018-12-19 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
 
-### ??:?? Close
+### 21:30 Close
