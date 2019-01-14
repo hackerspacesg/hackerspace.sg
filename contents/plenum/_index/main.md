@@ -9,7 +9,7 @@ We aim to meet on the second Wednesday of every month, subject to the availabili
 ## Future Planned Plenums
 
 * [2018-12-19](./2018-12-19/)
-* 2019-01-09
+* [2019-01-16](./2019-01-16/)
 * 2019-02-13
 * 2019-03-13
 * 2019-04-10
