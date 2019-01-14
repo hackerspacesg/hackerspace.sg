@@ -10,6 +10,17 @@ We aim to meet on the second Wednesday of every month, subject to the availabili
 
 * [2018-12-19](./2018-12-19/)
 * 2019-01-09
+* 2019-02-13
+* 2019-03-13
+* 2019-04-10
+* 2019-05-08
+* 2019-06-12
+* 2019-07-10
+* 2019-08-14
+* 2019-09-11
+* 2019-10-09
+* 2019-11-13
+* 2019-12-11
 
 Note that the dates are tentative and subject to change.
 
