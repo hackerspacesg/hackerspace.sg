@@ -3,7 +3,7 @@
 ### 20:27 Open
 
 ### Credentials
-- Present: Valentine, Dyana, Bob, Robert
+- Present: Valentine, Dyana, Bob, Robert, Roland
 - Apologies:
 
 ### Finances
