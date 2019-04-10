@@ -1,0 +1,41 @@
+## Plenum 2019-04-10 Agenda/Minutes
+
+### ??:?? Open
+
+### Credentials
+- Present:
+- Apologies:
+
+### Finances
+- (Fazli/Dyana) Update on finances, accounts, and cashflow.
+
+## Cost Reduction Measures
+- Discussion if any.
+
+### Services to Raise Funds
+- (Aizat) Discussion if any.
+
+### Electricity Supplier Alternatives
+- (Fazli/Bob) Updates if any.
+
+### Membership Marketing and Website Revamp
+- (Fazli) Update on marketing work with Graham.
+- (Robert) Update on revamp.
+
+### Memberships
+- (Bob) Update on new members (if any).
+
+### Potential Relocation Options
+- Disussion if any.
+
+### Organisation Directorships
+- (Bob/Robert) Discussion if any.
+
+### Upcoming events that HackerspaceSG might be interested in
+
+### Any Other Business
+
+### Next Meeting
+- 2019-05-08 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
+
+### ??:?? Close
