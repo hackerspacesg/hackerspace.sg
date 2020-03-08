@@ -1,0 +1,25 @@
+# This file is named 'redirects' because Punch doesn't recognise files
+# starting with an underscore.
+#
+# Netlify redirect documentation is available here:
+# https://www.netlify.com/docs/redirects/
+
+http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
+
+/calendar/hackerspacesg-events https://hackerspace.sg/calendar 301
+/calendar/geektechdevdesign-events /404.html 404
+/calendar/rojak-calendar https://hackerspace.sg/calendar 301
+/readme-txt/membership/ https://hackerspace.sg/membership 301
+/intertubes/ /404.html 404
+/readme-txt/donations/ https://hackerspace.sg/membership 301
+/about-us/ https://hackerspace.sg/about 301
+/social/location/ https://hackerspace.sg/location 301
+/chat https://webchat.freenode.net/?channels=hackerspacesg 302
+/join https://hackerspace.us2.list-manage.com/subscribe?u=d369fec422dc021e7260ea9d0&id=371f8b9255 301
+/feed /404.html 404
+/rss.xml /404.html 404
+
+# Plenum rescheduling
+
+/plenum/2018-06-13 /plenum/2018-06-20 301
+/plenum/2018-08-08 /plenum/2018-08-23 301

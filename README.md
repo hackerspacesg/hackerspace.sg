@@ -33,7 +33,7 @@ We use [Punch](https://github.com/laktek/punch/wiki) as our content management s
 
 ## Testing the site locally
 
-[node.js](http://nodejs.org/) is required. Punch is installable via the [node.js package manager](https://www.npmjs.org/package/punch):
+[Node.js](http://nodejs.org/) v6/7 is required (you may need a [Node.js version manager](https://github.com/nodenv/nodenv/wiki/Alternatives)). Punch is installable via the [Node.js package manager](https://www.npmjs.org/package/punch):
 
 ```bash
 $ npm test

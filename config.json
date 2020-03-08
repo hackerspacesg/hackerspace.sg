@@ -8,7 +8,8 @@
 
 	"plugins": {
 		"generator_hooks": {
-			"htaccess": "./bin/htaccess.js"
+			"htaccess": "./bin/htaccess.js",
+			"redirects": "./bin/redirects.js"
 		}
 	}
 }
