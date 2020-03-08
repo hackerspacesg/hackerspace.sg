@@ -27,14 +27,16 @@ events (excluding HackerspaceSG’s cleaning every Tuesday, of course).
 
 ## COVID-19 measures
 
-In view of the current outbreak of the Coronavirus Disease 2019 (COVID-19), HackerspaceSG strongly encourages event organisers to take the following measures:
+> This section was last updated on 9 March 2020. We expect this section to evolve frequently; event organisers are advised to read it again just before their event takes place.
 
-* Ask visitors to fill out a travel and health declaration form, and to include their personal information for contact tracing purposes, before the event.
-* Attendees who have been to mainland China, Iran, northern Italy, the Republic of Korea, or [any other such regions highlighted by the Singapore Ministry of Health](https://www.gov.sg/article/covid-19-travel-restrictions-for-foreign-visitors-entering-singapore), within the last 14 days, should be asked to not participate in the event.
-* Attendees who exhibit mild respiratory infection symptoms should wear a mask at all times during the event.
-* Attendees who exhibit serious respiratory infection symptoms should be asked to leave the HackerspaceSG premises.
-* Full discretion falls on either the event organiser, or any other HackerspaceSG member in the premises at the time, to enforce this.
-* Handshaking and other forms of physical contact should be discouraged.
+In view of the current outbreak of Coronavirus Disease 2019 (COVID-19), HackerspaceSG strongly encourages event organisers, and all HackerspaceSG members involved in the hosting of events on the premises, to take the following measures:
+
+* Visitors need to fill up [a travel and health declaration form](https://docs.google.com/forms/d/e/1FAIpQLScGBotz1GKpaTqvZEAw7HecUSSGfBhbEEVxKeTP0kuPSURSAA/viewform), and include their personal information for contact tracing purposes, immediately after entering the HackerspaceSG premises. Please note that false declarations may be prosecuted under the Infectious Diseases Act.
+* Attendees who have been to mainland China, Iran, northern Italy, the Republic of Korea, or [any other such regions highlighted by the Singapore Ministry of Health](https://www.gov.sg/article/covid-19-travel-restrictions-for-foreign-visitors-entering-singapore), within the last 14 days, should be asked to immediately leave the HackerspaceSG premises.
+* Attendees who exhibit mild respiratory infection symptoms should wear a mask at all times during the event. (Please note that we have no disposable masks stockpiled for event use at the HackerspaceSG premises, and event organisers should have their own mask supply prepared or their attendees may be asked to leave.)
+* Attendees who exhibit serious respiratory infection symptoms should be asked to immediately leave the HackerspaceSG premises.
+* Discretion falls on either the event organiser, or any other HackerspaceSG member in the premises at the time, to enforce the above.
+* Handshaking and all other forms of physical contact should be discouraged.
 
 We encourage everyone to be vigilant, socially responsible, and observe good personal hygiene. Please seek [medical assistance](https://www.flugowhere.gov.sg/?searchValue=208576&tab=0) promptly if you are unwell.
 
