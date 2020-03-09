@@ -133,11 +133,7 @@ Address rental for members' companies are at SGD 10 per month. Please email <mem
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<<<<<<< HEAD
 Hackerspace.SG offers three sizes of lockers for rental to members. Big lockers are $15 per month, small lockers are $10 per month, and tiny lockers are $6 per month. Occupied lockers are tagged with member's name. Please email <membership@hackerspace.sg> for more details.
-=======
-___
->>>>>>> 05c4ffcb723b0bbe409ed03fee50305601ca7e53
 
 ### Disclaimer of Responsibility
 

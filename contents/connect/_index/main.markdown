@@ -11,13 +11,9 @@ be a paid member of HSG. This is the best way to contact the HSG community.
 
 # Facebook
 
-<<<<<<< HEAD
 ## Facebook page 
 
 <https://www.facebook.com/hackerspacesg>
-=======
-<https://www.facebook.com/hackerspacesg><br/> <https://www.facebook.com/groups/hackerspacesg/>
->>>>>>> 05c4ffcb723b0bbe409ed03fee50305601ca7e53
 
 For periodic annoucements and event photos.
 
@@ -35,11 +31,8 @@ An alternative discussion forum for hackers who are more inclined to be on Faceb
 
 <a href="https://www.flickr.com/search/?text=hackerspacesg%20OR%20hackersapce.sg&sort=date-posted-desc">View Archives</a>
 
-<<<<<<< HEAD
 Photos uploaded on Flickr might not be owned by HackerspaceSG. If you are a news organisation, there is a [Set Of Principles In Fair Use For Journalism](http://www.cmsimpact.org/journalism) for your consideration in deciding which materials to use. An [email](#email-hsg) alerting us to your articles would be nice, but is not mandatory.
-=======
-If you are a news organization, please don't bother asking for permission to use pictures of the space. -- License is as indicated on the respective photo's page.
->>>>>>> 05c4ffcb723b0bbe409ed03fee50305601ca7e53
+
 
 # Youtube
 
