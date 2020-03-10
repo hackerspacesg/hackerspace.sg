@@ -113,9 +113,11 @@ ___
 
 ### Membership Addons
 
-HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month. 
+HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month. Occupied lockers are tagged with member's name.
 
-Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
+Address rental for members' companies are at SGD 10 per month. 
+
+Please email <membership@hackerspace.sg> for more details on the availability of the addons.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -132,8 +134,6 @@ Address rental for members' companies are at SGD 10 per month. Please email <mem
 <input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-___
 
 ### Disclaimer of Responsibility
 
