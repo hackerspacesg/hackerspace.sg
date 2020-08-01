@@ -57,7 +57,7 @@ target="_blank">membership form</a> and pass it to any member. You need two memb
 We accept membership payments via direct bank
 transfer to the HackerspaceSG Standard Chartered bank account:
 
-	Bank code: 7144
+	Bank code: 9496
 	Branch code: 057
 	Account Number: 5701304090
 
