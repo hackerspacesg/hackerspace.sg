@@ -2,6 +2,7 @@
 
 ## Membership Tiers
 <img src="/imgs/membership_1.jpg" class="img-responsive center-block" style="width:50%" >
+
 ### Patron &mdash; $1337 SGD monthly
 
 24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
@@ -113,7 +114,7 @@ ___
 
 ### Membership Addons
 
-HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month. 
+HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month.
 
 Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
 
