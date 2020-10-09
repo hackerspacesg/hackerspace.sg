@@ -34,7 +34,7 @@
 
 ### Organisation Directorships
 - (Bob/Robert) Discussion if any.
-- (at last plenum) Bob and Robert paperwork processed by Koh on Match 26, ACRA file not yet sighted by Bob and Robert.
+- (at last plenum) Bob and Robert paperwork processed by Koh on March 26, ACRA file not yet sighted by Bob and Robert.
 
 ### Upcoming events that HackerspaceSG might be interested in
 
