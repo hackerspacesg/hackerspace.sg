@@ -38,7 +38,7 @@
 
 ### Organisation Directorships
 - (Bob/Robert) Discussion if any.
-- Bob and Robert paperwork processed by Koh on Match 26, ACRA file not yet sighted by Bob and Robert.
+- Bob and Robert paperwork processed by Koh on March 26, ACRA file not yet sighted by Bob and Robert.
 
 ### Upcoming events that HackerspaceSG might be interested in
 - Maker Faire in October. Roland to Chief Make.
