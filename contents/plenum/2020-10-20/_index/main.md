@@ -21,9 +21,22 @@
 3. Cash balance ?
     - **$19K in the bank as of 1 Oct 2020**
 4. On an accrual basis we are up/down $?/month ?
-    - **including predicted upcoming costs amortised monthly, we are _down_ $620 a month**
+    - **including predicted upcoming costs amortised monthly, we are _down_ $680 a month**
 
 - (Valentine) request for expense breakdown by category, on an annualised (365/12) basis.
+
+
+Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
+-- | -- | -- | --
+Rental | 3400 | 12 | $ 3,400.00
+Utilities (est'd) | 450 | 12 | $ 450.00
+Internet | 148 | 12 | $ 148.00
+CorpSec | 240 | 2 | $ 40.00
+Accounting/Corp Services (est'd) | 3000 | 1 | $ 250.00
+Aircon | 980 | 1 | $ 81.67
+Cleaning (est'd) | 80 | 26 | $ 173.34
+Income Tax (est'd) | 600 | 1 | $ 50.00
+  |   |   | $ 4,593.01
 
 ### Organisation Directorships
 1. (at last plenum) Bob and Robert paperwork processed by Koh on March 26, ACRA file not yet sighted by Bob and Robert.
@@ -42,7 +55,7 @@
 - (Valentine) send members a short email asking:
     1. what their personal vision for a hackerspace is;
     2. what they hope to get out of such a place;
-    2. why they continue to pay their memberships.
+    3. why they continue to pay their memberships.
     - (or something like that)
 
 ### Services to Raise Funds
@@ -54,6 +67,12 @@
 ### Memberships
 - (Bob) Update on new members (if any).
 - (Valentine) Request for latest membership breakdown by tiers.
+
+Tier | 16 | 32 | 64 | 128 | 256 | 512
+-- | -- | -- | -- | -- | -- | --
+Count | 4 | 0 | 13 | 12 | 1 | 3
+
+dwu: two of the 512s will probably drop by December
 
 ### Potential Relocation Options
 - Discussion if any.
