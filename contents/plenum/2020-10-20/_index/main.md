@@ -9,7 +9,7 @@
 ## Updates from last meeting:
 
 ### Electricity Supplier Alternatives
-1. (Bob) was to email someone at SP about contestability. Alteratively, Valentine discuscoverd a 1,700 kWh 19% off regulated tarrif 6 month contract at a comparison website and will email details to Bob.
+1. (Bob) was to email someone at SP about contestability. Alteratively, Valentine discovered a 1,700 kWh 19% off regulated tarrif 6 month contract at a comparison website and will email details to Bob.
     - **Done. We have been on SP wholesale for power since Nov 2019 and have seen reduction in bills, but part of that is due also to reduced space usage during the circuit breaker. Sep 2020 bill was $211.92 for water and power, compared to Sep 2019's $718.22**
 
 ### Finances
