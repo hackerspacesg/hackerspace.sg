@@ -2,11 +2,11 @@
 
 ### [Zoom Link](https://us02web.zoom.us/j/83777553292)
 
-### ??:?? Open
+### 20:06 Open
 
 ### Credentials
-- Present:
-- Apologies:
+- Present: Roland, Robert, Benji, Caj, Corentin, Dyana, Joyce, Bob, Marco, Sheong Chang, Michael Cheng, Andrej, Shranee, Preetam, Adnan
+- Apologies: -
 
 ## Updates from last meeting:
 
@@ -51,26 +51,35 @@ Income Tax (est'd) | 600 | 1 | $ 50.00
 
 ### Organisation Shutdown
 - (Bob, Robert, Dyana) discussion and proposed timeline
-
+ - Robert and Bob wish to step down as directors on/before 30 April 2021 (filing date), and Dyana as treasurer at the same time.
+ - No volunteers stepped forward to take on either role.
+ - Decision not to undertake detailed shutdown discussion sequence as the 6-7 months from May-Nov is plenty.
+ - Should new director(s) and treasurer step foward, a handover period of ~1 month is anticipated.
+ - Valentine has expressed interest, subject to a solution being found on additional revenue sufficient for ~2 years operation.
+ 
 ### Broken and Orphaned Items
 - (Valentine) volunteers to enforce Old Hardware Pattern on all unusable items because nobody's going to repair them here, and to identify (with help) orphaned items in the space for decluttering.
 - Requesting for volunteers for Identification of Owners task.
-
+ - General sense of the meeting was that it was OK for Valentina and/or Caj to step up and resume the pattern, with thought given to communication channels (e.g. mailing list, Facebook Group/Page)
+ 
 ### Membership Survey
 - (Valentine) send members a short email asking:
     1. what their personal vision for a hackerspace is;
     2. what they hope to get out of such a place;
-    3. why they continue to pay their memberships.
-    - (or something like that)
+     - Space for a workshop not at home.
 - (H, in private feedback before plenum) suggested that it be a list of options, with an open-ended field after.
 - (If there's time) brainstorm for options to put on the form.
 
 ### Services to Raise Funds
 - (Aizat) Discussion if any.
-
+ - Terminate item
+ 
 ### Membership Marketing and Website Revamp
 - (Robert) Update on revamp.
+ - No updates
 - (Valentine) Request to add PayNow QR to membership page for donations.
+ - Suitably complicated technology maneouvres were adlibbed in order to successfully print the absurd forms.
+ - Valentine to print, Bob and Robert will obtain, complete, and sign.
 
 ### Memberships
 - (Bob) Update on new members (if any).
@@ -87,13 +96,16 @@ dwu: one of the 512s will probably drop by December
 
 ### Potential Relocation Options
 - Discussion if any.
-
+ - Activity terminated, for resumption if new directors appear.
+ 
 ### Upcoming events that HackerspaceSG might be interested in
+- Nothing relevant given current covid measures.
 
 ### Any Other Business
 - Thanks to The Ukelele Assemble for their fundraising efforts which raised $296.61 (nett PayPal fees)
+- Discussion about the contributor's page text on the membership; no change at this point.
 
 ### Next Meeting
-- 2020-11-11 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
+- 2020-11-17 20:00 (tentatively scheduled for 3rd Tuesday of every month, but subject to change depending on the schedule of key people)
 
-### ??:?? Close
+### 21:37 Close
