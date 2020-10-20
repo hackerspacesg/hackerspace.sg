@@ -1,5 +1,7 @@
 ## Plenum 2020-10-20 Agenda/Minutes
 
+### [Zoom Link](https://us02web.zoom.us/j/83777553292)
+
 ### ??:?? Open
 
 ### Credentials
