@@ -50,18 +50,25 @@ Income Tax (est'd) | 600 | 1 | $ 50.00
 ### Organisation Shutdown
 - (Bob, Robert, Dyana) discussion and proposed timeline
 
+### Broken and Orphaned Items
+- (Valentine) volunteers to enforce Old Hardware Pattern on all unusable items because nobody's going to repair them here, and to identify (with help) orphaned items in the space for decluttering.
+- Requesting for volunteers for Identification of Owners task.
+
 ### Membership Survey
 - (Valentine) send members a short email asking:
     1. what their personal vision for a hackerspace is;
     2. what they hope to get out of such a place;
     3. why they continue to pay their memberships.
     - (or something like that)
+- (H, in private feedback before plenum) suggested that it be a list of options, with an open-ended field after.
+- (If there's time) brainstorm for options to put on the form.
 
 ### Services to Raise Funds
 - (Aizat) Discussion if any.
 
 ### Membership Marketing and Website Revamp
 - (Robert) Update on revamp.
+- (Valentine) Request to add PayNow QR to membership page for donations.
 
 ### Memberships
 - (Bob) Update on new members (if any).
