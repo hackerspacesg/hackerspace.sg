@@ -21,10 +21,9 @@
 3. Cash balance ?
     - **$19K in the bank as of 1 Oct 2020**
 4. On an accrual basis we are up/down $?/month ?
-    - **including predicted upcoming costs amortised monthly, we are _down_ $680 a month**
+    - **including predicted upcoming costs amortised monthly, we are _down_ $1010 a month**
 
-- (Valentine) request for expense breakdown by category, on an annualised (365/12) basis.
-
+5. (Valentine) request for expense breakdown by category, on an annualised (365/12) basis.
 
 Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
 -- | -- | -- | --
@@ -66,13 +65,16 @@ Income Tax (est'd) | 600 | 1 | $ 50.00
 
 ### Memberships
 - (Bob) Update on new members (if any).
+    1. 2 new members subscribed via PayPal (Subhransu/64, Florian/64)
+    2. 1 new member sent in a form, pending subscription (Daniel/16)
+
 - (Valentine) Request for latest membership breakdown by tiers.
 
 Tier | 16 | 32 | 64 | 128 | 256 | 512
 -- | -- | -- | -- | -- | -- | --
-Count | 4 | 0 | 13 | 12 | 1 | 3
+Count | 4 | 0 | 16 | 12 | 1 | 2
 
-dwu: two of the 512s will probably drop by December
+dwu: one of the 512s will probably drop by December
 
 ### Potential Relocation Options
 - Discussion if any.
@@ -80,6 +82,7 @@ dwu: two of the 512s will probably drop by December
 ### Upcoming events that HackerspaceSG might be interested in
 
 ### Any Other Business
+- Thanks to The Ukelele Assemble for their fundraising efforts which raised $296.61 (nett PayPal fees)
 
 ### Next Meeting
 - 2020-11-11 20:00 (tentatively scheduled for 2nd Wednesday of every month, but subject to change depending on the schedule of key people)
