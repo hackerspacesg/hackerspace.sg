@@ -46,13 +46,20 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
+- Seeking consensus to [Old Hardware Pattern](https://wiki.hackerspaces.org/The_Old_Hardware_Pattern) the following:
+  - Sofa under the projector
+  - Large waterspot-marked table top opposite the shelves
+  - Worn out office chairs
+  - High chairs
+  - Beanbags
 
 ### Membership Survey
 - (Valentine) Updates if any.
 
 ### Membership Marketing and Website Revamp
 - (Robert) Update on revamp.
-- (Robert, Bob, Valentine) Request to add PayNow QR to membership page for donations.
+- (Valentine) Propose to remove this since the agenda item has been stagnant for [2.5 years](https://hackerspace.sg/plenum/2018-05-17/).
+- (Valentine) Add PayNow QR to membership page for donations.
 
 ## Agenda:
 
