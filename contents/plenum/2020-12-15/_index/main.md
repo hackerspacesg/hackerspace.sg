@@ -56,6 +56,14 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 
 ## Agenda:
 
+### Rewording of Membership Tiers
+- (Valentine) Idea is that we should not be seen as _just_ a cheap co-working space.
+- We have 12 desks in the main area, and 5 desks in the front area (caa 2020-10-30).
+- 17 x $256 is $4,352 (still not enough to cover running the space).
+- Propose to [anchor](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) $256/month as the standard membership tier.
+- Propose to reword the $512 tier to Dedicated tier, $256 tier to Co-working tier, and $128 tier to Community tier.
+- Pull request: https://github.com/hackerspacesg/hackerspace.sg/pull/171
+
 ### Upcoming events that HackerspaceSG might be interested in
 
 ### Any Other Business
