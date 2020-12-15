@@ -12,16 +12,22 @@
 ## Reports
 
 ### Regulatory
+
 #### ACRA
 - **OK** Due 30 Apr 2021. We have provided Koh Mgmt with books for FYE 30 Sep 2020 for prep and filing. We expect Koh Mgmt to file on time.
+
 #### IRAS
-- **Pending** Due 15 Dec 2020 (today!). We expect Koh Mgmt to file on time.
+- **OK** YA2020 C-S filed.
+- **Pending** Due 31 Dec 2020: YA2021 ECI. Koh is aware.
 
 ### Finance
+
 #### Cash
 - **$23K** in the bank as of 1 Dec 2020
+
 #### Accrual (up/down $?/month)
 - Including predicted upcoming costs amortised monthly, we are **_down_ $1284.81** a month.
+
 #### Expense breakdown by category, on an annualised (365/12) basis.
 Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
 -- | -- | -- | --
@@ -64,7 +70,7 @@ Note: Live data for finances/memberships is in the membership register which Jen
 ## Ongoing business
 
 ### Organisation Shutdown
-- (Bob, Robert, Dyana) discussion and proposed timeline
+- (Bob, Robert, Dyana) Call for directors has been issued via mailing list and Facebook page (not group)
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
