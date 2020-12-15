@@ -1,25 +1,31 @@
-## Plenum 2020-12-15 Agenda/Minutes
+# Plenum 2020-12-15 Agenda/Minutes
 
-### Zoom Link to be provided
+## Venue
+- [Zoom](https://us02web.zoom.us/j/83591014534?pwd=YlFObzJ5QnE0ZE94Vi9FdWxTU1U2UT09)
 
-### ??:?? Open
+## ??:?? Open
 
-### Credentials
+## Credentials
 - Present: 
 - Apologies: 
 
-## Updates from last meeting:
+-----
 
-### Finances
-1. Books (ACRA filing) due ?, Taxes due ?
-    - **Done. Books have been submitted for FYE 30 Sep 2020 for prep and filing by 30 Apr 2021**
-    - **Pending: taxes to be e-filed by Koh Mgmt by 15 Dec 2020**
-2. Cash balance ?
-    - **$19K in the bank as of 1 Oct 2020**
-3. On an accrual basis we are up/down $?/month ?
-    - **including predicted upcoming costs amortised monthly, we are _down_ $1010 a month**
-4. (Valentine) request for expense breakdown by category, on an annualised (365/12) basis.
+## Reports
 
+### Regulatory
+#### ACRA
+- **OK** Due 30 Apr 2021. We have provided Koh Mgmt with books for FYE 30 Sep 2020 for prep and filing. We expect Koh Mgmt to file on time.
+#### IRAS
+- **Pending** Due 15 Dec 2020 (today!). We expect Koh Mgmt to file on time.
+
+### Finance
+#### Cash
+- **$19K** in the bank as of 1 Oct 2020
+- (That's two months ago; is that intended? - Roland)
+#### Accrual (up/down $?/month)
+- Including predicted upcoming costs amortised monthly, we are **_down_ $1010** a month.
+#### Expense breakdown by category, on an annualised (365/12) basis.
 Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
 -- | -- | -- | --
 Rental | 3400 | 12 | $ 3,400.00
@@ -41,6 +47,10 @@ Tier | 16 | 32 | 64 | 128 | 256 | 512
 -- | -- | -- | -- | -- | -- | --
 Count | 4 | 0 | 16 | 12 | 1 | 2
 
+-----
+
+## Ongoing business
+
 ### Organisation Shutdown
 - (Bob, Robert, Dyana) discussion and proposed timeline
 
@@ -61,7 +71,11 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 - (Valentine) Propose to remove this since the agenda item has been stagnant for [2.5 years](https://hackerspace.sg/plenum/2018-05-17/).
 - (Valentine) Add PayNow QR to membership page for donations.
 
-## Agenda:
+### Upcoming events that HackerspaceSG might be interested in
+
+-----
+
+## New business
 
 ### Rewording of Membership Tiers
 - (Valentine) Idea is that we should not be seen as _just_ a cheap co-working space.
@@ -71,11 +85,13 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 - Propose to reword the $512 tier to Dedicated tier, $256 tier to Co-working tier, and $128 tier to Community tier.
 - Pull request: https://github.com/hackerspacesg/hackerspace.sg/pull/171
 
-### Upcoming events that HackerspaceSG might be interested in
+-----
 
-### Any Other Business
+## Any Other Business
 
-### Next Meeting
+-----
+
+## Next Meeting
 - 2021-??-?? 20:00 (tentatively scheduled for 3rd Tuesday of every month, but subject to change depending on the schedule of key people)
 
 ### ??:?? Close
