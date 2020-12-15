@@ -39,14 +39,14 @@ Income Tax (est'd) | 600 | 1 | $ 50.00
 
 ### Memberships
 1. (Bob) Update on new members (if any).
- - downgrades
-  - corentin 64 -> 0
-  - shramee 512 -> 128
-  - dwerp 512 -> 64
-  - andrei 64 -> 32
- - upgrades
-  - ohno 0 -> 128
-  - subh 0 -> 64
+  - downgrades
+    - corentin 64 -> 0
+    - shramee 512 -> 128
+    - dwerp 512 -> 64
+    - andrei 64 -> 32
+  - upgrades
+    - ohno 0 -> 128
+    - subh 0 -> 64
 
 2. Current membership breakdown by tiers.
 
