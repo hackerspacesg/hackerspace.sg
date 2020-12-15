@@ -19,10 +19,9 @@
 
 ### Finance
 #### Cash
-- **$19K** in the bank as of 1 Oct 2020
-- (That's two months ago; is that intended? - Roland)
+- **$23K** in the bank as of 1 Dec 2020
 #### Accrual (up/down $?/month)
-- Including predicted upcoming costs amortised monthly, we are **_down_ $1010** a month.
+- Including predicted upcoming costs amortised monthly, we are **_down_ $1284.81** a month.
 #### Expense breakdown by category, on an annualised (365/12) basis.
 Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
 -- | -- | -- | --
@@ -39,13 +38,28 @@ Income Tax (est'd) | 600 | 1 | $ 50.00
 ([readable version of table](https://github.com/hackerspacesg/hackerspace.sg/blob/master/contents/plenum/2020-12-15/_index/main.md))
 
 ### Memberships
-- (Bob) Update on new members (if any).
+1. (Bob) Update on new members (if any).
+ - downgrades
+  - corentin 64 -> 0
+  - shramee 512 -> 128
+  - dwerp 512 -> 64
+  - andrei 64 -> 32
+ - upgrades
+  - ohno 0 -> 128
+  - subh 0 -> 64
 
-- (Valentine) Request for latest membership breakdown by tiers.
+2. Current membership breakdown by tiers.
 
-Tier | 16 | 32 | 64 | 128 | 256 | 512
--- | -- | -- | -- | -- | -- | --
-Count | 4 | 0 | 16 | 12 | 1 | 2
+| Tier | Count |
+| --   | --    |
+| 16   | 5     |
+| 32   | 1     |
+| 64   | 14    |
+| 128  | 14    |
+| 256  | 1     |
+| 512  | 1     |
+
+Note: Live data for finances/memberships is in the membership register which Jen now has access to
 
 ## Ongoing business
 
