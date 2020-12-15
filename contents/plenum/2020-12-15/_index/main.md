@@ -8,41 +8,55 @@
 - Present: 
 - Apologies: 
 
-## Updates from last meeting:
+## Recurring Updates
 
 ### Finances
-1. Books (ACRA filing) due ?, Taxes due ?
-    - **Done. Books have been submitted for FYE 30 Sep 2020 for prep and filing by 30 Apr 2021**
-    - **Pending: taxes to be e-filed by Koh Mgmt by 15 Dec 2020**
-2. Cash balance ?
-    - **$19K in the bank as of 1 Oct 2020**
-3. On an accrual basis we are up/down $?/month ?
-    - **including predicted upcoming costs amortised monthly, we are _down_ $1010 a month**
-4. (Valentine) request for expense breakdown by category, on an annualised (365/12) basis.
+1. Compliance
+    - Books have been submitted for FYE 30 Sep 2020 for prep and filing by 30 Apr 2021
+2. Cash balance
+    - $23k in the bank as of 1 Dec 2020
+3. Average monthly profit/loss
+    - including predicted upcoming costs amortised monthly, we are _down_ $1284.81 a month
+4. Regular expenses
 
-Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
--- | -- | -- | --
-Rental | 3400 | 12 | $ 3,400.00
-Utilities (est'd) | 450 | 12 | $ 450.00
-Internet | 148 | 12 | $ 148.00
-CorpSec | 240 | 2 | $ 40.00
-Accounting/Corp Services (est'd) | 3000 | 1 | $ 250.00
-Aircon | 980 | 1 | $ 81.67
-Cleaning (est'd) | 80 | 26 | $ 173.34
-Income Tax (est'd) | 600 | 1 | $ 50.00
-  |   |   | $ 4,593.01
+| Expense                          | Amount | Frequency | Monthly Cost (amortised) |
+| --                               | --     | --        | --                       |
+| Rental                           | 3400   | 12        | $ 3,400.00               |
+| Utilities (est'd)                | 450    | 12        | $ 450.00                 |
+| Internet                         | 148    | 12        | $ 148.00                 |
+| CorpSec                          | 240    | 2         | $ 40.00                  |
+| Accounting/Corp Services (est'd) | 3000   | 1         | $ 250.00                 |
+| Aircon                           | 980    | 1         | $ 81.67                  |
+| Cleaning (est'd)                 | 80     | 26        | $ 173.34                 |
+| Income Tax (est'd)               | 600    | 1         | $ 50.00                  |
+|                                  |        |           | $ 4,593.01               |
+
 
 ### Memberships
-- (Bob) Update on new members (if any).
+1. (Bob) Update on new members (if any).
+    - downgrades
+      - corentin 64 -> 0
+      - shramee 512 -> 128
+      - dwerp 512 -> 64
+      - andrei 64 -> 32
+    - upgrades
+      - ohno 0 -> 128
+      - subh 0 -> 64
 
-- (Valentine) Request for latest membership breakdown by tiers.
+2. Current membership breakdown by tiers.
 
-Tier | 16 | 32 | 64 | 128 | 256 | 512
--- | -- | -- | -- | -- | -- | --
-Count | 4 | 0 | 16 | 12 | 1 | 2
+| Tier | Count |
+| --   | --    |
+| 16   | 5     |
+| 32   | 1     |
+| 64   | 14    |
+| 128  | 14    |
+| 256  | 1     |
+| 512  | 1     |
 
-### Organisation Shutdown
-- (Bob, Robert, Dyana) discussion and proposed timeline
+Note: Live data for finances/memberships is in the membership register which Jen now has access to
+
+## Followup from last meeting
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
@@ -53,6 +67,7 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
   - High chairs
   - Beanbags
 
+
 ### Membership Survey
 - (Valentine) Updates if any.
 
@@ -61,7 +76,7 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 - (Valentine) Propose to remove this since the agenda item has been stagnant for [2.5 years](https://hackerspace.sg/plenum/2018-05-17/).
 - (Valentine) Add PayNow QR to membership page for donations.
 
-## Agenda:
+## Agenda
 
 ### Rewording of Membership Tiers
 - (Valentine) Idea is that we should not be seen as _just_ a cheap co-working space.
