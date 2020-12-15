@@ -3,11 +3,11 @@
 ## Venue
 - [Zoom](https://us02web.zoom.us/j/83591014534?pwd=YlFObzJ5QnE0ZE94Vi9FdWxTU1U2UT09)
 
-## ??:?? Open
+## 20:05 Open
 
 ## Credentials
-- Present: 
-- Apologies: 
+- Present: Dyana, Bob, Valentine, Roland, Kheng Hui, Jen, Robert
+- Apologies: -
 
 ## Reports
 
@@ -17,7 +17,7 @@
 - **OK** Due 30 Apr 2021. We have provided Koh Mgmt with books for FYE 30 Sep 2020 for prep and filing. We expect Koh Mgmt to file on time.
 
 #### IRAS
-- **OK** YA2020 C-S filed.
+- **OK** YA2020 C-S filed about 6 weeks ago.
 - **Pending** Due 31 Dec 2020: YA2021 ECI. Koh is aware.
 
 ### Finance
@@ -40,8 +40,6 @@ Aircon | 980 | 1 | $ 81.67
 Cleaning (est'd) | 80 | 26 | $ 173.34
 Income Tax (est'd) | 600 | 1 | $ 50.00
   |   |   | $ 4,593.01
-
-([readable version of table](https://github.com/hackerspacesg/hackerspace.sg/blob/master/contents/plenum/2020-12-15/_index/main.md))
 
 ### Memberships
 1. (Bob) Update on new members (if any).
@@ -69,27 +67,45 @@ Note: Live data for finances/memberships is in the membership register which Jen
 
 ## Ongoing business
 
-### Organisation Shutdown
+### Change of directorship (was organisational shutdown)
 - (Bob, Robert, Dyana) Call for directors has been issued via mailing list and Facebook page (not group)
+ - Valentine and Jen are likely; they are considering registration as a social enterprise or similar.
+ - Potential volunteers to assist on moving/removing/renovating have been identified.
+ - Chucking out much of the crap and rearranging the tables so that more space is available for use.
+ - Ideas include day passes for students (vs. say Starbucks), with a view to reaching break-even on that basis.
+ - Dyana points out that, although we know the sequence for bank account handover, 6 weeks' of calendar is recommend to deal with SC paperwork.
+ - Jen will do finance-related things with Dyana watching in January (rather than the reverse).
+ - Valentine flagged an issue with an individual, Jen offered to intervence.
+ - Once resolved, Valentine is willing to step as a director in January with Jen as treasurer.
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
+ - The not-turned-on-in-8-years TV
 - Seeking consensus to [Old Hardware Pattern](https://wiki.hackerspaces.org/The_Old_Hardware_Pattern) the following:
   - Sofa under the projector
   - Large waterspot-marked table top opposite the shelves
   - Worn out office chairs
-  - High chairs
+  - White stool (i.e. retain red stool)
   - Beanbags
+  - 4 VGA monitors previously donated by Roland: free to good home
+  - Likewise switches
+  - Stuffed toys in claw machine
+ - (Valentine) Post OHP call to mailing list and Facebook page+group and then release/dispose. Repeat as he has inclination.
+- If/when we get garbage removed, the broken fridge and claw machine should go at the same time.
 
 ### Membership Survey
 - (Valentine) Updates if any.
+- Terminate item.
 
 ### Membership Marketing and Website Revamp
 - (Robert) Update on revamp.
 - (Valentine) Propose to remove this since the agenda item has been stagnant for [2.5 years](https://hackerspace.sg/plenum/2018-05-17/).
-- (Valentine) Add PayNow QR to membership page for donations.
+- (Valentine) Add PayNow QR to membership page for donations. Will completing adding today (Dec 15).
+- Robert will off work Xmas/CNY period and plans to work on website then.
 
 ### Upcoming events that HackerspaceSG might be interested in
+- FOSSASIA in March (largely online)
+- No information about Maker Faire at present.
 
 ## New business
 
@@ -100,10 +116,14 @@ Note: Live data for finances/memberships is in the membership register which Jen
 - Propose to [anchor](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)) $256/month as the standard membership tier.
 - Propose to reword the $512 tier to Dedicated tier, $256 tier to Co-working tier, and $128 tier to Community tier.
 - Pull request: https://github.com/hackerspacesg/hackerspace.sg/pull/171
+- Proposed additional language: Community Tier members are welcome to visit the space any time, however regular use exceeding one day per week is not anticipated.
 
 ## Any Other Business
 
-## Next Meeting
-- 2021-??-?? 20:00 (tentatively scheduled for 3rd Tuesday of every month, but subject to change depending on the schedule of key people)
+- "Someone" to post a sign reminding people not to overload the space's eletrical circuit with the shower heater on it.
+- Valentine to firm up date for next plenum
 
-### ??:?? Close
+## Next Meeting
+- 2021-01-19 20:00 tentative (tentatively scheduled for 3rd Tuesday of every month, but subject to change depending on the schedule of key people)
+
+### 21:12 Close
