@@ -9,8 +9,6 @@
 - Present: 
 - Apologies: 
 
------
-
 ## Reports
 
 ### Regulatory
@@ -38,6 +36,8 @@ Cleaning (est'd) | 80 | 26 | $ 173.34
 Income Tax (est'd) | 600 | 1 | $ 50.00
   |   |   | $ 4,593.01
 
+([readable version of table](https://github.com/hackerspacesg/hackerspace.sg/blob/master/contents/plenum/2020-12-15/_index/main.md))
+
 ### Memberships
 - (Bob) Update on new members (if any).
 
@@ -46,8 +46,6 @@ Income Tax (est'd) | 600 | 1 | $ 50.00
 Tier | 16 | 32 | 64 | 128 | 256 | 512
 -- | -- | -- | -- | -- | -- | --
 Count | 4 | 0 | 16 | 12 | 1 | 2
-
------
 
 ## Ongoing business
 
@@ -73,8 +71,6 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 
 ### Upcoming events that HackerspaceSG might be interested in
 
------
-
 ## New business
 
 ### Rewording of Membership Tiers
@@ -85,11 +81,7 @@ Count | 4 | 0 | 16 | 12 | 1 | 2
 - Propose to reword the $512 tier to Dedicated tier, $256 tier to Co-working tier, and $128 tier to Community tier.
 - Pull request: https://github.com/hackerspacesg/hackerspace.sg/pull/171
 
------
-
 ## Any Other Business
-
------
 
 ## Next Meeting
 - 2021-??-?? 20:00 (tentatively scheduled for 3rd Tuesday of every month, but subject to change depending on the schedule of key people)
