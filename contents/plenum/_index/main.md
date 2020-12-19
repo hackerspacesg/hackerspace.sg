@@ -4,7 +4,7 @@ HackerspaceSG plenums are regular meetings for us to exercise democratic decisio
 
 We aim to meet on the second Wednesday of every month, subject to the availability of key people (i.e. our Treasurer, and the leads of key ongoing projects).
 
-<div style="text-align: right">(h.t. the [Plenum Pattern](https://wiki.hackerspaces.org/The_Plenum_Pattern) and the [Tuesday pattern](https://wiki.hackerspaces.org/The_Tuesday_Pattern) on the [Hackerspaces Wiki](https://wiki.hackerspaces.org/Hackerspaces).)</div>
+(h.t. the [Plenum Pattern](https://wiki.hackerspaces.org/The_Plenum_Pattern) and the [Tuesday pattern](https://wiki.hackerspaces.org/The_Tuesday_Pattern) on the [Hackerspaces Wiki](https://wiki.hackerspaces.org/Hackerspaces).)
 
 ## Future Planned Plenums
 
