@@ -66,6 +66,10 @@ The account name is `Hackerspace.SG Pte. Ltd`. and the bank code is
 `scblsgsgxxx` (which is the SWIFT code). Once you have the right bank code the
 branch code of `057` should display on your internet banking interface.
 
+We accept PayNow for one-off payments.
+
+<img src="/imgs/paynowqr.jpg" class="img-responsive center-block" style="max-width: 200px" >
+
 Another painless way is to use PayPal to enter into a monthly
 subscription.
 
