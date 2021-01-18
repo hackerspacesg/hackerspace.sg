@@ -29,17 +29,17 @@
 - Including predicted upcoming costs amortised monthly, we are **_down_ $1284.81** a month.
 
 #### Expense breakdown by category, on an annualised (365/12) basis.
-Regular Expenses | Amount | Frequency | Monthly Cost (amortised)
--- | -- | -- | --
-Rental | 3400 | 12 | $ 3,400.00
-Utilities (est'd) | 450 | 12 | $ 450.00
-Internet | 148 | 12 | $ 148.00
-CorpSec | 240 | 2 | $ 40.00
-Accounting/Corp Services (est'd) | 3000 | 1 | $ 250.00
-Aircon | 980 | 1 | $ 81.67
-Cleaning (est'd) | 80 | 26 | $ 173.34
-Income Tax (est'd) | 600 | 1 | $ 50.00
-  |   |   | $ 4,593.01
+| Regular Expenses                 | Amount | Frequency | Monthly Cost (amortised)
+| --                               | --     | --        | --
+| Rental                           | 3400   | 12        | $ 3,400.00
+| Utilities (est'd)                | 450    | 12        | $ 450.00
+| Internet                         | 148    | 12        | $ 148.00
+| CorpSec                          | 240    | 2         | $ 40.00
+| Accounting/Corp Services (est'd) | 3000   | 1         | $ 250.00
+| Aircon                           | 980    | 1         | $ 81.67
+| Cleaning (est'd)                 | 80     | 26        | $ 173.34
+| Income Tax (est'd)               | 600    | 1         | $ 50.00
+|                                  |        |           | $ 4,593.01
 
 ### Memberships
 1. (Bob) Update on new members (if any).
@@ -100,8 +100,8 @@ Note: Live data for finances/memberships is in the membership register which Jen
 ### Membership Marketing and Website Revamp
 - (Robert) Update on revamp.
 - (Valentine) Propose to remove this since the agenda item has been stagnant for [2.5 years](https://hackerspace.sg/plenum/2018-05-17/).
-- (Valentine) Add PayNow QR to membership page for donations. Will completing adding today (Dec 15).
-- Robert will off work Xmas/CNY period and plans to work on website then.
+- (Valentine) Add PayNow QR to membership page for donations. Will complete adding today (Dec 15).
+- Robert will off work Xmas/NY period and plans to work on website then.
 
 ### Upcoming events that HackerspaceSG might be interested in
 - FOSSASIA in March (largely online)
