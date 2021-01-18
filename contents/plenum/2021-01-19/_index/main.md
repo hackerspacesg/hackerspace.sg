@@ -14,19 +14,19 @@
 ### Regulatory
 
 #### ACRA
-- **OK** Due 30 Apr 2021. We have provided Koh Mgmt with books for FYE 30 Sep 2020 for prep and filing. We expect Koh Mgmt to file on time.
+- **OK** Due 30 Apr 2021. We have signed and returned documents to Koh; pending their confirmation of receipt.
 
 #### IRAS
 - **OK** YA2020 C-S filed about late November.
-- **Pending** Due 31 Dec 2020: YA2021 ECI. Koh is aware.
+- **OK** Due 31 Dec 2020: YA2021 ECI filed about mid December.
 
 ### Finance
 
 #### Cash
-- **$??K** in the bank as of 1 Jan 2021
+- **$22.4K** in the bank as of 1 Jan 2021
 
 #### Accrual (up/down $?/month)
-- Including predicted upcoming costs amortised monthly, we are **_down_ $??.??** a month.
+- Including predicted upcoming costs amortised monthly, we are **_down_ $1,195.23** a month.
 
 #### Significant changes to regular expenses (if any)
 | Regular Expenses                 | Amount | Frequency | Monthly Cost (amortised)
@@ -44,26 +44,31 @@
 ### Memberships
 1. (Bob) Update on new members (if any).
   - downgrades
-    - name? 64 -> 0
+    - Shing 128 -> 0
+    - Adrian O. 16 -> 0
   - upgrades
+    - Chu Junhao 0 -> 64
+    - Joyce Ng 0 -> 64
+    - Woo Huiren 0 -> 64
+    - Clara 0 -> 64
 
 2. Current membership breakdown by tiers.
 
 | Tier | Count |
 | --   | --    |
-| 16   | 5     |
+| 16   | 4     |
 | 32   | 1     |
-| 64   | 14    |
-| 128  | 14    |
+| 64   | 18    |
+| 128  | 13    |
 | 256  | 1     |
 | 512  | 1     |
 
-Note: Live data for finances/memberships is in the membership register which Jen now has access to
+Note: Live data for finances/memberships is in the membership register
 
 ## Ongoing business
 
 ### Change of directorship and bank signatories
-- (Bob, Robert, Dyana, Jen, Valentine) Updates if any.
+- (Bob, Robert, Dyana, Jen, Valentine) Jen/Valentine have submitted forms to SCB for change of signatories; pending SCB response.
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
@@ -88,6 +93,7 @@ Note: Live data for finances/memberships is in the membership register which Jen
 - All members get 1x 22L box with their membership. All boxes are to be clearly labelled. 4x6" label printer coming soon.
 - Members (in some tiers?) can subscribe to additional boxes, like for lockers.
 - Multiple stacking areas around the space. Shelves might be bought and installed.
+- Dyana notes that any stack of < 2 Samlas is annoying to retrieve items from, based on very annoying personal experience; shelves are probably a good idea.
 
 ### Shifting of Hardware Room
 - (Valentine) Received some feedback from visitors over the past few months that we should put more focus on the hardware area.
