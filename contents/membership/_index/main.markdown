@@ -68,7 +68,7 @@ branch code of `057` should display on your internet banking interface.
 
 We accept PayNow for one-off payments.
 
-<img src="/imgs/paynowqr.jpg" class="img-responsive center-block" style="max-width: 200px" >
+<img src="/imgs/paynowqr.png" class="img-responsive center-block" style="max-width: 200px" >
 
 Another painless way is to use PayPal to enter into a monthly
 subscription.
