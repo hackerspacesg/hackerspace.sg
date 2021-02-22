@@ -8,12 +8,13 @@ We aim to meet on the second Wednesday of every month, subject to the availabili
 
 ## Future Planned Plenums
 
-* [2021-01-19](./2021-01-19/)
+* [2021-02-23](./2021-02-23/)
 
 Note that the dates are tentative and subject to change.
 
 ## Past Plenum Minutes
 
+* [2021-01-19](./2021-01-19/)
 * [2020-12-15](./2020-12-15/)
 * [2020-10-20](./2020-10-20/)
 * [2019-04-10](./2019-04-10/)
