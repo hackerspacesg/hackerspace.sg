@@ -20,8 +20,8 @@
 
 #### IRAS
 - **DONE** YA2020 C-S filed about late November. (dyana proposes removing this line from the next plenum)
-- **for future view**: due 30/11/2021: YA2021 C-S (tax filing); Koh has visibility
 - **DONE** YA2021 ECI filed about mid December.
+- **for future view**: due 30/11/2021: YA2021 C-S (tax filing); Koh has visibility
 
 ### Finance
 
@@ -72,6 +72,7 @@ Note: Live data for finances/memberships is in the membership register
 
 ### Change of Directorship and Adding of Shareholders
 - (Bob, Robert, Dyana, Jen, Valentine, Ruiwen, Roland) Discussion.
+- dyana would like to remind Valentine/Jen to complete file transfer due to Google Drive not allowing ownership transfer from dyana's Drive to either Valentine/Jen's emails
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
