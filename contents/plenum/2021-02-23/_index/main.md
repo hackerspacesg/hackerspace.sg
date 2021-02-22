@@ -15,11 +15,13 @@
 ### Regulatory
 
 #### ACRA
-- **OK** Due 30 Apr 2021. We have signed and returned documents to Koh; pending their confirmation of receipt.
+- **DONE** Due 30 Apr 2021. Annual report has been filed 22/01/2021. (dyana proposes removing this line from the next plenum)
+- **for future view**: due 30 Apr 2022: Annual report submission of accounts to Koh.
 
 #### IRAS
-- **OK** YA2020 C-S filed about late November.
-- **OK** Due 31 Dec 2020: YA2021 ECI filed about mid December.
+- **DONE** YA2020 C-S filed about late November. (dyana proposes removing this line from the next plenum)
+- **DONE** YA2021 ECI filed about mid December.
+- **for future view**: due 30/11/2021: YA2021 C-S (tax filing); Koh has visibility
 
 ### Finance
 
@@ -45,7 +47,7 @@
 |                                  |        |           | $ 4,593.01
 
 ### Memberships
-1. (Bob, Valentine) Update on new members (if any).
+1. (Jen, Valentine) Update on new members (if any).
   - downgrades
     - John 128 -> 0
     - Tong Wei 64 -> 0
@@ -70,6 +72,7 @@ Note: Live data for finances/memberships is in the membership register
 
 ### Change of Directorship and Adding of Shareholders
 - (Bob, Robert, Dyana, Jen, Valentine, Ruiwen, Roland) Discussion.
+- dyana would like to remind Valentine/Jen to complete file transfer due to Google Drive not allowing ownership transfer from dyana's Drive to either Valentine/Jen's emails
 
 ### Broken and Orphaned Items
 - (Valentine) Updates if any.
