@@ -1,4 +1,4 @@
-# Plenum 2021-04-20 Agenda
+# Plenum 2021-04-20 Minutes
 
 ## Venue
 
