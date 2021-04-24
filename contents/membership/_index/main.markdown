@@ -1,46 +1,42 @@
 # Join us!
 
-## Membership Tiers
 <img src="/imgs/membership_1.jpg" class="img-responsive center-block" style="width:50%" >
 
-### Patron &mdash; $1337 SGD monthly
+## Membership Benefits
 
-24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page* with multiple links
+- 24/7 access to the space
+- Keep your stuff in a locker or designated storage box (additional subscription applies) 
+- Use the workbench and hardware tools
+- Host community meetups, workshops, and other events at the space
+- Borrow books from our library
 
-### Sponsor &mdash; $512 SGD monthly
+## Membership Tiers
 
-24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution. Premium listing in the contributors page* with multiple links.
+### Dedicated Member &mdash; $512 SGD/month
 
-### Resident &mdash; $256 SGD monthly
+A dedicated desk for co-working. You can keep your stuff at your desk. We'll label a desk with your name, in honour of your contribution.
 
-24-7 access. Priority hotdesking whenever you drop in. (oversubscription may occur at
-peak hours, we aim for 90% availability). You cannot keep your stuff at the
-desk. Standard listing in the contributors page* with multiple links.
+_Great for: people who really want to support the space; people who have lots of stuff; people who like their multi-monitor setups._
 
-### Regular Member &mdash; $128 SGD monthly
+### Co-working Member &mdash; $256 SGD/month
 
-24-7 access.  Hotdesking. Hang out on the sofas. Keep your stuff in a locker (rental applies).
-Use the workbench. Borrow books from our library. Keep your toys and tools onsite. You cannot keep your stuff at the
-desk. Standard listing in the contributors page* with up to 3 links.
+Unlimited use of the space. You cannot keep your stuff at a desk when you leave for the day.
 
-### Associate Member &mdash; $64 SGD monthly
+_Great for: freelancers and small companies using the space daily during regular business hours._
 
-24-7 access. If you are a student, NSF or a starving hacker, all the benefits of regular
-membership at a reduced rate. Also, if you really want to support the space, but
-don't come by regularly. Standard listing in the contributors page* with up to 2 links.
+### Community Member &mdash; $128 SGD/month
 
-### Honorary Member &mdash; $32 SGD monthly
+Occasional use of the space (around 9 hours a week)^. You cannot keep your stuff at a desk when you leave for the day.
 
-A listing on our contributors page* with up to 2 links of your choice.
+_Great for: occasional co-workers; people who come in after work or school to hang out._
 
-### Friend of HackerspaceSG &mdash; $16 SGD monthly
+### Concessionary Member &mdash; $64 SGD/month
 
-A listing on our contributors page* with one link of your choice.
+If you earn under $2,500/month, all the benefits of Community membership, at a reduced rate. Occasional use of the space (around 9 hours a week)^. You cannot keep your stuff at a desk when you leave for the day.
 
+_Great for: full-time students, NSFs, underemployed, unemployed._
 
-_*The contributors page is currently a work in progress and should be up by Aug 2016_
+_^ HackerspaceSG is primarily member-run. To promote member involvement and financial inclusivity, you may use the space for more than 9 hours/week if you contribute your time towards HackerspaceSG maintenance duties. Community members should pledge 0.5 hours for every 8 additional hours of space use, and Concessionary members should pledge 1 hour for every 8 additional hours of space use._
 
 <img src="/imgs/membership.jpg" class="img-responsive center-block" style="width:50%" >
 
@@ -75,16 +71,13 @@ subscription.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="6YY74YT8UKT9E">
+<input type="hidden" name="hosted_button_id" value="ZEEGTJ889KERG">
 <table>
 <tr><td><input type="hidden" name="on0" value="HackerspaceSG monthly membership">HackerspaceSG monthly membership</td></tr><tr><td><select name="os0">
-	<option value="Regular">Regular : $128.00 SGD - monthly</option>
-	<option value="Associate">Associate : $64.00 SGD - monthly</option>
-	<option value="Resident">Resident : $256.00 SGD - monthly</option>
-	<option value="Sponsor">Sponsor : $512.00 SGD - monthly</option>
-	<option value="Patron">Patron : $1,337.00 SGD - monthly</option>
-	<option value="Honorary">Honorary : $32.00 SGD - monthly</option>
-	<option value="Friend of HSG">Friend of HSG : $16.00 SGD - monthly</option>
+	<option value="Co-working">Co-working : $256.00 SGD - monthly</option>
+	<option value="Community">Community : $128.00 SGD - monthly</option>
+	<option value="Concessionary">Concessionary : $64.00 SGD - monthly</option>
+	<option value="Dedicated">Dedicated : $512.00 SGD - monthly</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="SGD">
@@ -112,7 +105,7 @@ If you would like to visit HackerspaceSG but do not know a member, please let us
 
 Members are invited to leave their stuff at the Hackerspace, with the understanding that other members and guests may [use, handle, break and discard them](http://hackerspaces.org/wiki/The_Old_Hardware_Pattern). This includes, but is not limited to: computers, keyboards, mice, chargers, furniture, and toys. Please label your items.
 
-Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Sponsor tier.) Please be considerate to fellow members and guests.
+Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Dedicated tier.) Please be considerate to fellow members and guests.
 
 ___
 
