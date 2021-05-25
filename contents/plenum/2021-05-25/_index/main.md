@@ -1,4 +1,4 @@
-# Plenum 2021-05-25 Agenda
+# Plenum 2021-05-25 Minutes
 
 ## Venue
 
