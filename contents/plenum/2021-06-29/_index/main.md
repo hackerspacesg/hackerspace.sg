@@ -1,15 +1,15 @@
-# Plenum 2021-06-29 Agenda
+# Plenum 2021-06-29 Minutes
 
 ## Venue
 
 - [Zoom](https://us02web.zoom.us/j/85857463027?pwd=dnE2WnMvbDNQaFJReTNVRTlLM2hqZz09)
 
-## ??:?? Open
+## 20:39 Open
 
 ## Credentials
 
-- Present:
-- Apologies:
+- Present: Roland, Valentine, Martin, Joyce, Elise
+- Apologies: Andrei appears to have been felled by the publishing of the wrong Zoom link
 
 ## Reports
 
@@ -23,7 +23,7 @@
 
 - **for future view**: due 30 Nov 2021: YA2021 C-S (tax filing); Koh has visibility
 - **for future view**: ECI due FYE+? months
-<!-- (Jen) Find out and update dates for each of the three filings: date of last filing, date of next filing, status of next filing -->
+- (Jen) Find out and update dates for each of the three filings: date of last filing, date of next filing, status of next filing before next plenum.
 
 ### Finance
 
@@ -78,46 +78,60 @@
 
 ## Ongoing business
 
-### Broken and orphaned items
+### Broken and orphaned items (Old Hardware Pattern (OHP))
 
 - (Valentine, Andrei, Roland) Updates; review if Old Hardware Pattern works.
   - Adrian will collect his printer some time in the future.
+- Roland expresses thanks for the use of the WordPress tote bags for packaging old hardware claimed for removal.
+- Jen has processed most of the laptops and gifted or absorbed them (will consider a donation).
 
 ### Storage boxes
 
 - (Valentine) Updates.
   - 9 x 45L boxes bought during 6/6 sales.
   - To implement (HSG's own) Bounded Storage Pattern for members and community organisations.
-  - Timeline:
+  - Timeline (proposed, not adopted):
     - End-July for Phase 1 (members should start putting most items into labelled boxes)
     - August to September for Phase 2 (OHP acceleration) 
-    - Start-October for Endgame (all items should be individually labelled or in boxes).
+    - Start-October for intended end state (all items should be individually labelled or in boxes).
   - Additional 45L boxes will be purchased during 7/7 sales.
+  - Roland suggests immediate OHP for **all** clutter currently located in the space. The process is built with clear protection for personal property for those who wish to assert ownership over items left in the space, and a fair basis for resolving dibs claims of abandonned property, plus a predictable timeline for the clutter to leave the space. This being the case, inserting additional steps to protect these interests appears excessive effort, prolongs the problem, and noting the potential for an imminent move, risks complicating that too. If it does turn out that members have a problem with the process then that's great, that's an opportunity to improve the process, but delay doesn't achieve that for us, it just prolongs the problem.
 
 ### Back room water issue / Shifting of Hardware Room
 
 - GitHub issue: https://github.com/hackerspacesg/KGB/issues/7
 - (Valentine) Updates, if any.
+  - No further update from MCST
+  - No further water ingress
 
 ### KGB premises lease renewal / [Potential reboot](https://www.noisebridge.net/wiki/Hackerspace_Design_Patterns_2.0#Hackerspace_Design_Patterns)
 
 - (Valentine) Should we ask to renew for 2+2 years early? (Keeping in mind back room issue.)
+  - Curent lease expires 2021-11-14
+  - Valentine is taking point on planning
+  - (Valentine) For next plenum: alternatives, action plans ( (a) stay, (b) move), market price estimates, (recruit someone(s) to help)
 
-### Social enterprise grants
+### Governance Reboot
+- (Valentine) Finalise Mission Statement, Values, and Vision by July 2
+- (Valentine) Report on non-profit options (identify, state pros and cons from a high-level perspective) by July 9
+- (Valentine) Determine organisational needs (with aid of survey) by July 16
+- (Valentine) Set 2 years' quarterly goals, with a plan, and communicate to membership by July 30
+- (Jen) Create engagement survey by July 2
+- (Jen) Run survey until July 11
+- (Jen) Send reminder to Kheng Hui (icedwater) re Social Enterprise Presentation for comment, then submit to "the social enterprise grant people" by end July.
+  - Note that the social enterprise grant is only relevant while we remain a Pte. Ltd. The thinking is to move forward until/unless we commit to reorganising.
 
-- (Jen, Martin) Updates, if any.
-
-### Mission, vision, and house rules
-
-- (Valentine) Discussion, if time permits.
+### House Rules
+- (Valentine) KIV for July: Write/adopt house rules
 
 ### Website revamp
 
 - (Valentine) Updates, if any.
+ - No progress at this point.
 
 ### Recruiting additional members/sponsors
 
-- (Roland) Discussion, if time permits.
+- (Roland) KIV: Roland is concerned that this is not a primary area of activity.
 
 ### Large groups during Phase 3
 
@@ -126,15 +140,18 @@
 ### Upcoming events that HackerspaceSG might be interested in
 
 - (Roland, all) Updates, if any.
+  - Science Centre is contemplating a maker festival in late 2021.
 
 ## New business
 
+- (none scheduled)
 
 ## Any Other Business
 
+- (none)
 
 ## Next Meeting
 
 - 2021-07-20 20:00 tentative (tentatively scheduled for 3rd Tuesday of every month, but subject to change depending on the schedule of key people)
 
-### ??:?? Close
+### 22:23 Close
