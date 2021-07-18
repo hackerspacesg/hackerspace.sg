@@ -1,6 +1,6 @@
-# Phase 2 (Heightened Alert) measures
+# Phase 3 (Heightened Alert) measures
 
-The government has announced [Phase 2 (Heightened Alert)](https://www.gov.sg/article/additional-restrictions-under-phase-2--heightened-alert), in effect between Sunday, 16 May 2021 and Sunday, 13 June 2021.
+Singapore is currently in the [updated Phase 3 (Heightened Alert)](https://www.gov.sg/article/updates-to-phase-3-heightened-alert-measures), in effect most likely until Sunday, 8 August 2021.
 
 1. We will be following the [government-issued safe management measures for workspaces](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures).
 
