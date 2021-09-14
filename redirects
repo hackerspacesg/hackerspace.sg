@@ -23,7 +23,6 @@ http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
 # See https://docs.netlify.com/routing/redirects/rewrites-proxies/#shadowing
 
 /connect https://docs.hackerspace.sg/handbook/connect 301!
-/faq https://docs.hackerspace.sg/handbook/faq 301!
 /plenum/* https://docs.hackerspace.sg/plenum/:splat 301!
 
 # Plenum rescheduling

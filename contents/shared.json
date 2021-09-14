@@ -7,6 +7,7 @@
 		{ "label": "Location",   "href": "/location" },
 		{ "label": "Membership", "href": "/membership" },
 	    { "label": "About",      "href": "/about" },
+	    { "label": "FAQ",      "href": "/faq" },
 	    { "label": "Docs",       "href": "https://docs.hackerspace.sg/" }
 	]
 }
