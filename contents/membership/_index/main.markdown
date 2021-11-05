@@ -111,23 +111,76 @@ ___
 
 ### Membership Addons
 
-HackerspaceSG offers three sizes of lockers for rental to members. Big lockers (42cm) are SGD15 per month, small lockers (28cm) are SGD10 per month, and tiny lockers (21cm) are SGD7.50 per month.
+#### Lockers
 
-Address rental for members' companies are at SGD 10 per month. Please email <membership@hackerspace.sg> for more details.
+HackerspaceSG offers three sizes of lockers for rental to members.
+
+Big lockers (42cm) are $15 SGD per month, small lockers (28cm) are $10 SGD per month, and tiny lockers (21cm) are $7.50 SGD per month.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="Y8P3EHLJGVLYL">
 <table>
-<tr><td><input type="hidden" name="on0" value="Addon subscriptions">Addon subscriptions</td></tr><tr><td><select name="os0">
-	<option value="Address rental">Address rental : $10.00 SGD - monthly</option>
-	<option value="Big locker">Big locker (42cm) : $15.00 SGD - monthly</option>
-	<option value="Small locker">Small locker (28cm) : $10.00 SGD - monthly</option>
-	<option value="Tiny locker">Tiny locker (21cm) : $7.50 SGD - monthly</option>
+<tr><td><input type="hidden" name="on0" value="Locker subscription">Locker subscription</td></tr><tr><td><select name="os0">
+	<option value="Big locker">Big locker : $15.00 SGD - monthly</option>
+	<option value="Small locker">Small locker : $10.00 SGD - monthly</option>
+	<option value="Tiny locker">Tiny locker : $7.50 SGD - monthly</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="SGD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal ¿ The safer, easier way to pay online.">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+#### Open Storage
+
+Members receive 22L of free storage for every $64 SGD of monthly membership subscription, and can rent additional storage at $5 SGD per 22L. For example, Community members paying $128 a month get 44L of free storage.
+
+Please subscribe to additional storage whether you're using HackerspaceSG's supplied boxes, your own storage containers (e.g. suitcases), or storing large individual items (e.g. bicycles) at the premises. HackerspaceSG admin will be in touch if we believe that you should enter into a subscription.
+
+For HackerspaceSG boxes, storage rental is billed whether the boxes are in HackerspaceSG or elsewhere. Boxes should be returned in reusable condition when you end your subscription term. If a box is damaged or missing, a replacement fee will be billed at $12 per 22L box, and $25 per 44L box. The replacement fee will be waived if you've paid 12 months of storage subscription for that box.
+
+Open storage is offered subject to space availability, and allocations may be terminated (with notice) if we do not have enough space. We're not looking to enter the self-service storage business. HackerspaceSG admin may move boxes and other stored items at our discretion, especially if they get in the way of normal activities.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="EJPJMGK69P7HN">
+<table>
+<tr><td><input type="hidden" name="on0" value="Storage box subscription">Storage box subscription</td></tr><tr><td><select name="os0">
+	<option value="22L">22L : $5.00 SGD - monthly</option>
+	<option value="44L">44L : $10.00 SGD - monthly</option>
+	<option value="66L">66L : $15.00 SGD - monthly</option>
+	<option value="88L">88L : $20.00 SGD - monthly</option>
+	<option value="110L">110L : $25.00 SGD - monthly</option>
+	<option value="132L">132L : $30.00 SGD - monthly</option>
+	<option value="154L">154L : $35.00 SGD - monthly</option>
+	<option value="176L">176L : $40.00 SGD - monthly</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="SGD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+#### Mailing Address for Businesses
+
+Businesses may use HackerspaceSG's address to receive physical/snail mail, as long as they are associated with a member.
+
+Members at the Co-working ($256) tier and above may register one business to receive mail free.
+
+Community and Concessionary members may register their businesses at $10 SGD per business per month.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="padding-left: 45px; padding-bottom: 15px;">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="CAAFJXBM5F2WC">
+<table>
+<tr><td><input type="hidden" name="on0" value="Business address subscription">Business address subscription</td></tr><tr><td><select name="os0">
+	<option value="1x business">1x business : $10.00 SGD - monthly</option>
+	<option value="2x businesses">2x businesses : $20.00 SGD - monthly</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="SGD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/SG/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
