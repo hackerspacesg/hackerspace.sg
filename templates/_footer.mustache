@@ -1,8 +1,24 @@
   </div>
 </div>
 
-<footer>
-<p>Source: <a href=https://github.com/hackerspacesg/hackerspace.sg>On GitHub</a></p>
+<footer class="container-fluid">
+  <div class="container">
+    <div class="row">
+      {{#footer}}<div class="col-md-4">
+        <ul>
+          <li class="title"><b>{{title}}</b></li>
+          {{#items}}<li>
+            <a href="{{{href}}}">{{label}}</a>
+          </li>{{/items}}
+        </ul>
+      </div>{{/footer}}
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p class="text-center">Copyright © 2009–<script>document.write(new Date().getFullYear())</script> Hackerspace.SG Pte Ltd and contributors.</p>
+      </div>
+    </div>
+  </div>
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

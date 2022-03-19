@@ -9,5 +9,27 @@
 	    { "label": "About",      "href": "/about" },
 	    { "label": "FAQ",      "href": "/faq" },
 	    { "label": "Docs",       "href": "https://docs.hackerspace.sg/" }
+	],
+	"footer": [
+		{ "title": "Contribute",
+			"items": [
+			  { "label": "Open Collective", "href": "https://opencollective.com/hackerspacesg"},
+			  { "label": "GitHub Sponsors", "href": "https://github.com/sponsors/hackerspacesg/"}
+		  ]
+		  },
+		  { "title": "Interact",
+		  "items": [
+			{ "label": "Telegram Chat", "href": "https://t.me/HackerspaceSG"},
+			{ "label": "Google Group", "href": "https://groups.google.com/g/hackerspacesg"},
+			{ "label": "Facebook Group", "href": "https://www.facebook.com/groups/hackerspacesg/"},
+			{ "label": "GitHub", "href": "https://github.com/hackerspacesg/"}
+		]
+		},
+		{ "title": "Follow",
+			"items": [
+			  { "label": "Facebook", "href": "https://facebook.com/hackerspacesg"},
+			  { "label": "Twitter", "href": "https://twitter.com/hackerspacesg"}
+		  ]
+		}
 	]
 }
