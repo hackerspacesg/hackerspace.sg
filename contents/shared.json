@@ -7,7 +7,8 @@
 		{ "label": "Location",   "href": "/location" },
 		{ "label": "Membership", "href": "/membership" },
 	    { "label": "About",      "href": "/about" },
-	    { "label": "FAQ",      "href": "/faq" },
+	    { "label": "FAQ",        "href": "/faq" },
+		{ "label": "Connect",    "href": "#footer" },
 	    { "label": "Docs",       "href": "https://docs.hackerspace.sg/" }
 	],
 	"footer": [
@@ -28,7 +29,8 @@
 		{ "title": "Follow",
 			"items": [
 			  { "label": "Facebook", "href": "https://facebook.com/hackerspacesg"},
-			  { "label": "Twitter", "href": "https://twitter.com/hackerspacesg"}
+			  { "label": "Twitter", "href": "https://twitter.com/hackerspacesg"},
+			  { "label": "… and more!", "href": "https://docs.hackerspace.sg/handbook/connect/"}
 		  ]
 		}
 	]
