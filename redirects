@@ -1,31 +1,25 @@
 # This file is named 'redirects' because Punch doesn't recognise files
 # starting with an underscore.
 #
-# Netlify redirect documentation is available here:
-# https://www.netlify.com/docs/redirects/
+# Cloudflare Pages redirect documentation is available here:
+# https://developers.cloudflare.com/pages/platform/redirects/
 
-http://hackerspace.sg/*  https://hackerspace.sg/:splat  301!
+# Redirects from HackerspaceSG v1 pages
 
-/calendar/hackerspacesg-events https://hackerspace.sg/calendar 301
-/calendar/geektechdevdesign-events /404.html 404
-/calendar/rojak-calendar https://hackerspace.sg/calendar 301
-/readme-txt/membership/ https://hackerspace.sg/membership 301
-/intertubes/ /404.html 404
-/readme-txt/donations/ https://hackerspace.sg/membership 301
-/about-us/ https://hackerspace.sg/about 301
-/social/location/ https://hackerspace.sg/location 301
+/calendar/hackerspacesg-events /calendar 301
+/calendar/geektechdevdesign-events /calendar 301
+/calendar/rojak-calendar /calendar 301
+/readme-txt/membership/ /membership 301
+/readme-txt/donations/ /membership 301
+/about-us/ /about 301
+/social/location/ /location 301
 /chat https://web.libera.chat/#hackerspacesg 302
-/join https://hackerspace.us2.list-manage.com/subscribe?u=d369fec422dc021e7260ea9d0&id=371f8b9255 301
-/feed /404.html 404
-/rss.xml /404.html 404
 
-# URLs that exist need to be forced
-# See https://docs.netlify.com/routing/redirects/rewrites-proxies/#shadowing
+# Redirect to docs.hackerspace.sg
 
-/connect https://docs.hackerspace.sg/handbook/connect 301!
-/plenum/* https://docs.hackerspace.sg/plenum/:splat 301!
+/connect https://docs.hackerspace.sg/handbook/connect 301
 
-# Plenum rescheduling
+# Dynamic redirects need to come last
 
-/plenum/2018-06-13 /plenum/2018-06-20 301
-/plenum/2018-08-08 /plenum/2018-08-23 301
+http://hackerspace.sg/*  https://hackerspace.sg/:splat  301
+/plenum/* https://docs.hackerspace.sg/plenum/:splat 301
