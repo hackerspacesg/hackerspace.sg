@@ -18,6 +18,7 @@
 # Redirect to docs.hackerspace.sg
 
 /connect https://docs.hackerspace.sg/handbook/connect 301
+/terms https://docs.hackerspace.sg/handbook/terms 301
 
 # Dynamic redirects need to come last
 
