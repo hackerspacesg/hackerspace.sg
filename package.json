@@ -19,7 +19,9 @@
 	},
 	"dependencies" : {
 		"punch": "~0.5.40",
-		"ical": "~0.3.1"
+		"ical": "~0.3.1",
+		"marked": "~5.0.5",
+		"mime": "~3.0.0"
 	},
 	"license": "MIT",
 	"scripts": {
@@ -27,6 +29,6 @@
 		"start": "punch server"
 	},
 	"engines": {
-		"node": ">=0.10"
+		"node": "~6.17.1"
 	}
 }
