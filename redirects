@@ -21,6 +21,10 @@
 /terms https://docs.hackerspace.sg/handbook/terms 301
 /rules https://docs.hackerspace.sg/handbook/rules 301
 
+# Miscellaneous redirects
+
+/365 https://docs.google.com/forms/d/e/1FAIpQLScMdzbi1KTmkBiMlcqvdgAVizlMN6b2UuhmoHCiQHAzRK89qg/viewform 302 
+
 # Dynamic redirects need to come last
 
 http://hackerspace.sg/*  https://hackerspace.sg/:splat  301
