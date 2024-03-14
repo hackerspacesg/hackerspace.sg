@@ -30,6 +30,7 @@
 			"items": [
 			  { "label": "Facebook", "href": "https://facebook.com/hackerspacesg"},
 			  { "label": "Twitter", "href": "https://twitter.com/hackerspacesg"},
+			  { "label": "LinkedIn", "href": "https://www.linkedin.com/company/hackerspacesg/"},
 			  { "label": "… and more!", "href": "https://docs.hackerspace.sg/handbook/connect/"}
 		  ]
 		}
