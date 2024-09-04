@@ -21,7 +21,7 @@
 		"punch": "~0.5.40",
 		"ical": "~0.3.1",
 		"marked": "~5.0.5",
-		"mime": "~3.0.0"
+		"mime": "~1.6.0"
 	},
 	"license": "MIT",
 	"scripts": {
