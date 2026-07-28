@@ -1,4 +1,6 @@
-# Hackerspace.SG Website [![Build Status](https://travis-ci.org/hackerspacesg/hackerspace.sg.png)](https://travis-ci.org/hackerspacesg/hackerspace.sg)
+# Hackerspace.SG Website
+
+This Punch website was deprecated in late 2024. Please visit [the v3.hackerspace.sg repo](https://github.com/hackerspacesg/v3.hackerspace.sg) for the current website.
 
 >Hackerspace.SG is Singapore's very own Hackerspace. 
 >
